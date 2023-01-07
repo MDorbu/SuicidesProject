@@ -8,6 +8,5 @@
 * Data Cleaning, Data Wrangling, Data Visualization
 
 ## Main Takeaways
-From each graph (just describe what is presented on the graph) 
 
-Answer outside of the R chunks on the doc: Why did I make different decisions (filtering NA, left joining in continents data sets (why a different data set), why comparing the three countries chosen, why compare G7 countries, and why ratio G7 GDP to suicides
+By completing this project, I gained more experience looking at a data set, formulatiing questions about what I observed, visualizing, and then summarizing my findings. I also gained more familiarity with using visualization tools and R packages. 
