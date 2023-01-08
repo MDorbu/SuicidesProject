@@ -1,0 +1,140 @@
+---
+title: "HW - November 20"
+output: html_document
+date: "2022-11-14"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo =TRUE, warning = FALSE, message = FALSE)
+```
+
+
+
+```{r}
+library(dslabs)
+library(readr)
+library(dplyr)
+library(ggplot2)
+library(plotly)
+a <- read_csv("suicidesByYear/2007.csv")
+b <- read_csv("suicidesByYear/2008.csv")
+d <- read_csv("suicidesByYear/2009.csv")
+e <- read_csv("suicidesByYear/2010.csv")
+f <- read_csv("suicidesByYear/2011.csv")
+g <- read_csv("suicidesByYear/2012.csv")
+h <- read_csv("suicidesByYear/2013.csv")
+i <- read_csv("suicidesByYear/2014.csv")
+j <- read_csv("suicidesByYear/2015.csv")
+k <- read_csv("suicidesByYear/2016.csv")
+countrycontinent <- read_csv("suicidesByYear/countryContinent.csv")
+suicides_by_year_2007_to_2011 <- bind_rows(a, b, d, e, f)
+suicides_by_year_2012_to_2016 <- bind_rows(g, h, i, j, k)
+suicides_by_year_2007_to_2016 <- bind_rows(a, b, d, e, f, g, h, i, j, k)
+```
+I chose to compare the average suicides rates in countries because the economic and political system are largely stable when compared to all countries in the world.
+
+```{r}
+G7_country_comparison_2007_to_2016 <- suicides_by_year_2007_to_2016 %>%
+  filter(country == c('Japan', 'France', 'United States', 'Germany', 'Italy', 'United Kingdom', 'Canada'))
+```
+I also want to find out if a nation's GDP has an affect on the amount of suicides that a nation has. 
+
+```{r}
+G7_countries_average <- G7_country_comparison_2007_to_2016 %>% 
+  group_by(year, country, `gdp_per_capita ($)`) %>%
+  summarise(`avg suicides/100k pop` = mean(`suicides/100k pop`)) %>%
+  ungroup()
+```
+I used plotly for all of my graphs to make it easier to see the values and data points more clearly.  
+
+```{r}
+gg_G7_countries_average <- ggplot(G7_countries_average, aes(year, `avg suicides/100k pop`, color = country)) +
+  labs(title = "G7 Countries Average Suicides from 2007 to 2016", x = "Year", y = "Average Suicides per 100k people") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  geom_line()
+ggplotly(gg_G7_countries_average)
+```
+In the graph above, France had the highest reported values of average suicides per 100,000 people both in 2008 and 2014. The United Kingdom had the lowest reported average suicides per 100,000 people every year except for 2010. 
+
+```{r}
+G7_countries_average <- G7_countries_average %>% 
+  mutate('ratio of gdp per capita to avg suicides/100k pop' = (`avg suicides/100k pop`*100)/`gdp_per_capita ($)`)
+```
+
+In the graph below, Italy and the United Kingdom showed larger value differences when compared to the graph that does not account for GDP.  
+
+```{r}
+G7_avg_suicides_to_GDP <- ggplot(G7_countries_average, aes(year, `ratio of gdp per capita to avg suicides/100k pop`, color = country)) +
+   labs(title = "G7 Countries Average Suicide Rates from 2007 to 2016", x = "Year", y = "Ratio of Average Suicides per 100k people to GDP") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  geom_line()
+ggplotly(G7_avg_suicides_to_GDP)
+```
+
+I decided to compare the suicides rates of different continents to see what trends exist in different regions over the same years. To do this I used a left join of a data set that included the continent information for the countries in my original data set. Upon further inspection, I found that some values were listed as "NA." Because they did not have a corresponding country or continent listed, I filtered out all NA values before graphing my results. 
+
+
+```{r}
+suicides_by_Continent_2007_to_2016 <-suicides_by_year_2007_to_2016 %>%
+  left_join(countrycontinent, by = "country") %>%
+  filter(!is.na(continent))
+```
+
+
+```{r}
+By_Continent_2007_to_2016 <- suicides_by_Continent_2007_to_2016 %>%
+  group_by(continent, year) %>%
+  summarise(`avg suicides/100k pop` = mean(`suicides/100k pop`)) %>%
+  ungroup()
+```
+
+```{r}
+By_Continent_2007_2016_ggplot_graph <- ggplot(By_Continent_2007_to_2016, aes(year, `avg suicides/100k pop`, color = continent)) +
+  labs(title = "Average Suicides from 2007 to 2016 By Continent", x = "Year", y = "Average Suicides per 100k people") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  geom_line()
+ggplotly(By_Continent_2007_2016_ggplot_graph)
+```
+Europe maintained the highest average suicide rate consistently when compared to other continents from 2008 to 2016. 
+
+```{r}
+Three_country_comparison_2012_to_2016 <- suicides_by_year_2012_to_2016 %>%
+  filter(country == c('Japan', 'Denmark', 'United States'))
+```
+I chose to compare Denmark with Japan because while Denmark is often described as one of the happiest countries in the world, Japan is often said to have a high rate of suicide. I added the United States because, being American, it is the country I am the most familiar with and works as a good reference for me.
+
+```{r}
+Three_countries_average <- Three_country_comparison_2012_to_2016 %>% 
+  group_by(year, country) %>%
+  summarise(`avg suicides/100k pop` = mean(`suicides/100k pop`))
+```
+
+
+```{r}
+gg_Three_countries_average <- ggplot(Three_countries_average, aes(year, `avg suicides/100k pop`, color = country)) +
+  labs(title = "Denmark, Japan, and the United States\n Average Suicides from 2007 to 2016", x = "Year", y = "Average Suicides per 100k people") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  geom_line()
+ggplotly(gg_Three_countries_average)
+```
+Denmark proved to have low rates of suicides on average when compared to Japan which demonstrated to have a comparatively high rate. The United States showed rates similar to that of Denmark over the same year span.
+
+```{r}
+Male_and_female_avg_suicides_2007_to_2016 <- suicides_by_year_2007_to_2016 %>%
+  group_by(year, sex) %>%
+  summarise(`avg suicides/100k pop` = mean(`suicides/100k pop`)) %>%
+  ungroup()
+```
+
+i decided to compare the suicide rates between females and males. I want to see if there is a significant differences between the average suicide rates males and females of all countries in the data set. 
+
+```{r}
+M_F_2007_2016_ggplot_graph <- ggplot(Male_and_female_avg_suicides_2007_to_2016, aes(year, `avg suicides/100k pop`, color = sex)) +
+  labs(title = "Male and Female Average Suicides from 2007 to 2016", x = "Year", y = "Average Suicides per 100k people") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  geom_line()
+ggplotly(M_F_2007_2016_ggplot_graph)
+```
+
+The results were as expected with males having higher average rates of suicide across all years. The difference in values the rates of male and female average suicides is substantial so further research into the factors of this could have contributed to this phenomenon. 
