@@ -1,0 +1,1033 @@
+country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year,gdp_for_year ($),gdp_per_capita ($),generation
+Albania,2007,male,75+ years,8,42366,18.88,Albania2007,NA,10701011897,3863,Silent
+Albania,2007,male,35-54 years,29,378626,7.66,Albania2007,NA,10701011897,3863,Boomers
+Albania,2007,male,55-74 years,14,224160,6.25,Albania2007,NA,10701011897,3863,Silent
+Albania,2007,female,75+ years,3,57404,5.23,Albania2007,NA,10701011897,3863,Silent
+Albania,2007,male,25-34 years,9,172494,5.22,Albania2007,NA,10701011897,3863,Generation X
+Albania,2007,female,15-24 years,13,281080,4.63,Albania2007,NA,10701011897,3863,Millenials
+Albania,2007,male,15-24 years,13,288349,4.51,Albania2007,NA,10701011897,3863,Millenials
+Albania,2007,female,25-34 years,8,183629,4.36,Albania2007,NA,10701011897,3863,Generation X
+Albania,2007,female,55-74 years,9,221120,4.07,Albania2007,NA,10701011897,3863,Silent
+Albania,2007,female,35-54 years,14,391811,3.57,Albania2007,NA,10701011897,3863,Boomers
+Albania,2007,male,5-14 years,4,272497,1.47,Albania2007,NA,10701011897,3863,Generation Z
+Albania,2007,female,5-14 years,0,256808,0,Albania2007,NA,10701011897,3863,Generation Z
+Antigua and Barbuda,2007,male,35-54 years,1,12530,7.98,Antigua and Barbuda2007,NA,1311401333,15775,Boomers
+Antigua and Barbuda,2007,female,15-24 years,0,8013,0,Antigua and Barbuda2007,NA,1311401333,15775,Millenials
+Antigua and Barbuda,2007,female,25-34 years,0,6962,0,Antigua and Barbuda2007,NA,1311401333,15775,Generation X
+Antigua and Barbuda,2007,female,35-54 years,0,13860,0,Antigua and Barbuda2007,NA,1311401333,15775,Boomers
+Antigua and Barbuda,2007,female,5-14 years,0,8555,0,Antigua and Barbuda2007,NA,1311401333,15775,Generation Z
+Antigua and Barbuda,2007,female,55-74 years,0,4400,0,Antigua and Barbuda2007,NA,1311401333,15775,Silent
+Antigua and Barbuda,2007,female,75+ years,0,1568,0,Antigua and Barbuda2007,NA,1311401333,15775,Silent
+Antigua and Barbuda,2007,male,15-24 years,0,7330,0,Antigua and Barbuda2007,NA,1311401333,15775,Millenials
+Antigua and Barbuda,2007,male,25-34 years,0,6267,0,Antigua and Barbuda2007,NA,1311401333,15775,Generation X
+Antigua and Barbuda,2007,male,5-14 years,0,8564,0,Antigua and Barbuda2007,NA,1311401333,15775,Generation Z
+Antigua and Barbuda,2007,male,55-74 years,0,3988,0,Antigua and Barbuda2007,NA,1311401333,15775,Silent
+Antigua and Barbuda,2007,male,75+ years,0,1094,0,Antigua and Barbuda2007,NA,1311401333,15775,Silent
+Argentina,2007,male,75+ years,225,634995,35.43,Argentina2007,NA,287530508431,7918,Silent
+Argentina,2007,male,15-24 years,577,3381171,17.07,Argentina2007,NA,287530508431,7918,Millenials
+Argentina,2007,male,55-74 years,438,2582754,16.96,Argentina2007,NA,287530508431,7918,Silent
+Argentina,2007,male,25-34 years,490,3125322,15.68,Argentina2007,NA,287530508431,7918,Generation X
+Argentina,2007,male,35-54 years,571,4436541,12.87,Argentina2007,NA,287530508431,7918,Boomers
+Argentina,2007,female,15-24 years,146,3292790,4.43,Argentina2007,NA,287530508431,7918,Millenials
+Argentina,2007,female,25-34 years,126,3120162,4.04,Argentina2007,NA,287530508431,7918,Generation X
+Argentina,2007,female,55-74 years,108,3033008,3.56,Argentina2007,NA,287530508431,7918,Silent
+Argentina,2007,female,35-54 years,155,4601874,3.37,Argentina2007,NA,287530508431,7918,Boomers
+Argentina,2007,female,75+ years,31,1161794,2.67,Argentina2007,NA,287530508431,7918,Silent
+Argentina,2007,male,5-14 years,45,3530454,1.27,Argentina2007,NA,287530508431,7918,Generation Z
+Argentina,2007,female,5-14 years,34,3414627,1,Argentina2007,NA,287530508431,7918,Generation Z
+Armenia,2007,male,75+ years,7,49296,14.2,Armenia2007,NA,9206301700,3366,Silent
+Armenia,2007,male,55-74 years,13,185290,7.02,Armenia2007,NA,9206301700,3366,Silent
+Armenia,2007,male,35-54 years,19,362189,5.25,Armenia2007,NA,9206301700,3366,Boomers
+Armenia,2007,female,55-74 years,8,240998,3.32,Armenia2007,NA,9206301700,3366,Silent
+Armenia,2007,male,15-24 years,7,272188,2.57,Armenia2007,NA,9206301700,3366,Millenials
+Armenia,2007,male,25-34 years,4,191561,2.09,Armenia2007,NA,9206301700,3366,Generation X
+Armenia,2007,female,35-54 years,8,444817,1.8,Armenia2007,NA,9206301700,3366,Boomers
+Armenia,2007,female,75+ years,1,79210,1.26,Armenia2007,NA,9206301700,3366,Silent
+Armenia,2007,female,15-24 years,3,288510,1.04,Armenia2007,NA,9206301700,3366,Millenials
+Armenia,2007,male,5-14 years,1,210620,0.47,Armenia2007,NA,9206301700,3366,Generation Z
+Armenia,2007,female,25-34 years,0,220144,0,Armenia2007,NA,9206301700,3366,Generation X
+Armenia,2007,female,5-14 years,0,190490,0,Armenia2007,NA,9206301700,3366,Generation Z
+Aruba,2007,male,25-34 years,2,5935,33.7,Aruba2007,NA,2623726257,27672,Generation X
+Aruba,2007,male,35-54 years,3,16040,18.7,Aruba2007,NA,2623726257,27672,Boomers
+Aruba,2007,male,15-24 years,1,6440,15.53,Aruba2007,NA,2623726257,27672,Millenials
+Aruba,2007,male,55-74 years,1,7641,13.09,Aruba2007,NA,2623726257,27672,Silent
+Aruba,2007,female,55-74 years,1,8952,11.17,Aruba2007,NA,2623726257,27672,Silent
+Aruba,2007,female,15-24 years,0,6548,0,Aruba2007,NA,2623726257,27672,Millenials
+Aruba,2007,female,25-34 years,0,6847,0,Aruba2007,NA,2623726257,27672,Generation X
+Aruba,2007,female,35-54 years,0,18313,0,Aruba2007,NA,2623726257,27672,Boomers
+Aruba,2007,female,5-14 years,0,7391,0,Aruba2007,NA,2623726257,27672,Generation Z
+Aruba,2007,female,75+ years,0,1890,0,Aruba2007,NA,2623726257,27672,Silent
+Aruba,2007,male,5-14 years,0,7537,0,Aruba2007,NA,2623726257,27672,Generation Z
+Aruba,2007,male,75+ years,0,1280,0,Aruba2007,NA,2623726257,27672,Silent
+Australia,2007,male,25-34 years,341,1470431,23.19,Australia2007,NA,851962785585,43171,Generation X
+Australia,2007,male,35-54 years,687,2977977,23.07,Australia2007,NA,851962785585,43171,Boomers
+Australia,2007,male,75+ years,124,539184,23,Australia2007,NA,851962785585,43171,Silent
+Australia,2007,male,55-74 years,305,1877160,16.25,Australia2007,NA,851962785585,43171,Silent
+Australia,2007,male,15-24 years,234,1515524,15.44,Australia2007,NA,851962785585,43171,Millenials
+Australia,2007,female,35-54 years,219,3025248,7.24,Australia2007,NA,851962785585,43171,Boomers
+Australia,2007,female,55-74 years,118,1911478,6.17,Australia2007,NA,851962785585,43171,Silent
+Australia,2007,female,25-34 years,90,1460752,6.16,Australia2007,NA,851962785585,43171,Generation X
+Australia,2007,female,15-24 years,66,1440419,4.58,Australia2007,NA,851962785585,43171,Millenials
+Australia,2007,female,75+ years,33,770691,4.28,Australia2007,NA,851962785585,43171,Silent
+Australia,2007,male,5-14 years,8,1408182,0.57,Australia2007,NA,851962785585,43171,Generation Z
+Australia,2007,female,5-14 years,4,1337384,0.3,Australia2007,NA,851962785585,43171,Generation Z
+Austria,2007,male,75+ years,170,225285,75.46,Austria2007,NA,388691445387,49218,Silent
+Austria,2007,male,55-74 years,273,800509,34.1,Austria2007,NA,388691445387,49218,Silent
+Austria,2007,male,35-54 years,331,1291260,25.63,Austria2007,NA,388691445387,49218,Boomers
+Austria,2007,female,75+ years,80,428921,18.65,Austria2007,NA,388691445387,49218,Silent
+Austria,2007,male,25-34 years,99,542760,18.24,Austria2007,NA,388691445387,49218,Generation X
+Austria,2007,male,15-24 years,93,517817,17.96,Austria2007,NA,388691445387,49218,Millenials
+Austria,2007,female,55-74 years,109,885212,12.31,Austria2007,NA,388691445387,49218,Silent
+Austria,2007,female,35-54 years,88,1277479,6.89,Austria2007,NA,388691445387,49218,Boomers
+Austria,2007,female,25-34 years,25,539763,4.63,Austria2007,NA,388691445387,49218,Generation X
+Austria,2007,female,15-24 years,15,499804,3,Austria2007,NA,388691445387,49218,Millenials
+Austria,2007,male,5-14 years,2,455269,0.44,Austria2007,NA,388691445387,49218,Generation Z
+Austria,2007,female,5-14 years,0,433193,0,Austria2007,NA,388691445387,49218,Generation Z
+Azerbaijan,2007,male,75+ years,3,75400,3.98,Azerbaijan2007,NA,33050343783,4172,Silent
+Azerbaijan,2007,male,55-74 years,8,381400,2.1,Azerbaijan2007,NA,33050343783,4172,Silent
+Azerbaijan,2007,male,35-54 years,15,1146950,1.31,Azerbaijan2007,NA,33050343783,4172,Boomers
+Azerbaijan,2007,male,25-34 years,8,647850,1.23,Azerbaijan2007,NA,33050343783,4172,Generation X
+Azerbaijan,2007,female,75+ years,1,118150,0.85,Azerbaijan2007,NA,33050343783,4172,Silent
+Azerbaijan,2007,female,15-24 years,5,872100,0.57,Azerbaijan2007,NA,33050343783,4172,Millenials
+Azerbaijan,2007,male,5-14 years,4,711200,0.56,Azerbaijan2007,NA,33050343783,4172,Generation Z
+Azerbaijan,2007,female,35-54 years,5,1267550,0.39,Azerbaijan2007,NA,33050343783,4172,Boomers
+Azerbaijan,2007,male,15-24 years,3,913150,0.33,Azerbaijan2007,NA,33050343783,4172,Millenials
+Azerbaijan,2007,female,25-34 years,2,680650,0.29,Azerbaijan2007,NA,33050343783,4172,Generation X
+Azerbaijan,2007,female,55-74 years,1,462700,0.22,Azerbaijan2007,NA,33050343783,4172,Silent
+Azerbaijan,2007,female,5-14 years,0,644000,0,Azerbaijan2007,NA,33050343783,4172,Generation Z
+Bahamas,2007,male,35-54 years,2,45790,4.37,Bahamas2007,NA,10618340000,33710,Boomers
+Bahamas,2007,male,25-34 years,1,27047,3.7,Bahamas2007,NA,10618340000,33710,Generation X
+Bahamas,2007,male,15-24 years,1,30182,3.31,Bahamas2007,NA,10618340000,33710,Millenials
+Bahamas,2007,female,35-54 years,1,48976,2.04,Bahamas2007,NA,10618340000,33710,Boomers
+Bahamas,2007,female,15-24 years,0,30101,0,Bahamas2007,NA,10618340000,33710,Millenials
+Bahamas,2007,female,25-34 years,0,27419,0,Bahamas2007,NA,10618340000,33710,Generation X
+Bahamas,2007,female,5-14 years,0,28225,0,Bahamas2007,NA,10618340000,33710,Generation Z
+Bahamas,2007,female,55-74 years,0,21936,0,Bahamas2007,NA,10618340000,33710,Silent
+Bahamas,2007,female,75+ years,0,5046,0,Bahamas2007,NA,10618340000,33710,Silent
+Bahamas,2007,male,5-14 years,0,28953,0,Bahamas2007,NA,10618340000,33710,Generation Z
+Bahamas,2007,male,55-74 years,0,18460,0,Bahamas2007,NA,10618340000,33710,Silent
+Bahamas,2007,male,75+ years,0,2854,0,Bahamas2007,NA,10618340000,33710,Silent
+Bahrain,2007,male,25-34 years,14,176938,7.91,Bahrain2007,NA,21730000000,22524,Generation X
+Bahrain,2007,male,35-54 years,13,212426,6.12,Bahrain2007,NA,21730000000,22524,Boomers
+Bahrain,2007,male,55-74 years,2,32965,6.07,Bahrain2007,NA,21730000000,22524,Silent
+Bahrain,2007,male,15-24 years,5,92875,5.38,Bahrain2007,NA,21730000000,22524,Millenials
+Bahrain,2007,female,25-34 years,3,87472,3.43,Bahrain2007,NA,21730000000,22524,Generation X
+Bahrain,2007,female,35-54 years,2,110173,1.82,Bahrain2007,NA,21730000000,22524,Boomers
+Bahrain,2007,female,15-24 years,1,73617,1.36,Bahrain2007,NA,21730000000,22524,Millenials
+Bahrain,2007,female,5-14 years,0,70861,0,Bahrain2007,NA,21730000000,22524,Generation Z
+Bahrain,2007,female,55-74 years,0,22872,0,Bahrain2007,NA,21730000000,22524,Silent
+Bahrain,2007,female,75+ years,0,5497,0,Bahrain2007,NA,21730000000,22524,Silent
+Bahrain,2007,male,5-14 years,0,74222,0,Bahrain2007,NA,21730000000,22524,Generation Z
+Bahrain,2007,male,75+ years,0,4852,0,Bahrain2007,NA,21730000000,22524,Silent
+Barbados,2007,female,15-24 years,0,19237,0,Barbados2007,NA,4523750000,17528,Millenials
+Barbados,2007,female,25-34 years,0,20074,0,Barbados2007,NA,4523750000,17528,Generation X
+Barbados,2007,female,35-54 years,0,43042,0,Barbados2007,NA,4523750000,17528,Boomers
+Barbados,2007,female,5-14 years,0,18772,0,Barbados2007,NA,4523750000,17528,Generation Z
+Barbados,2007,female,55-74 years,0,24071,0,Barbados2007,NA,4523750000,17528,Silent
+Barbados,2007,female,75+ years,0,9551,0,Barbados2007,NA,4523750000,17528,Silent
+Barbados,2007,male,15-24 years,0,19188,0,Barbados2007,NA,4523750000,17528,Millenials
+Barbados,2007,male,25-34 years,0,19468,0,Barbados2007,NA,4523750000,17528,Generation X
+Barbados,2007,male,35-54 years,0,39190,0,Barbados2007,NA,4523750000,17528,Boomers
+Barbados,2007,male,5-14 years,0,19359,0,Barbados2007,NA,4523750000,17528,Generation Z
+Barbados,2007,male,55-74 years,0,20249,0,Barbados2007,NA,4523750000,17528,Silent
+Barbados,2007,male,75+ years,0,5882,0,Barbados2007,NA,4523750000,17528,Silent
+Belarus,2007,male,75+ years,122,157647,77.39,Belarus2007,NA,45277399814,4898,Silent
+Belarus,2007,male,55-74 years,506,710519,71.22,Belarus2007,NA,45277399814,4898,Silent
+Belarus,2007,male,35-54 years,900,1399410,64.31,Belarus2007,NA,45277399814,4898,Boomers
+Belarus,2007,male,25-34 years,405,723119,56.01,Belarus2007,NA,45277399814,4898,Generation X
+Belarus,2007,male,15-24 years,261,801445,32.57,Belarus2007,NA,45277399814,4898,Millenials
+Belarus,2007,female,75+ years,70,424470,16.49,Belarus2007,NA,45277399814,4898,Silent
+Belarus,2007,female,55-74 years,127,1054993,12.04,Belarus2007,NA,45277399814,4898,Silent
+Belarus,2007,female,35-54 years,163,1518188,10.74,Belarus2007,NA,45277399814,4898,Boomers
+Belarus,2007,female,25-34 years,56,711481,7.87,Belarus2007,NA,45277399814,4898,Generation X
+Belarus,2007,female,15-24 years,37,768164,4.82,Belarus2007,NA,45277399814,4898,Millenials
+Belarus,2007,male,5-14 years,9,500931,1.8,Belarus2007,NA,45277399814,4898,Generation Z
+Belarus,2007,female,5-14 years,3,474089,0.63,Belarus2007,NA,45277399814,4898,Generation Z
+Belgium,2007,male,75+ years,163,331504,49.17,Belgium2007,NA,471821105940,47040,Silent
+Belgium,2007,male,35-54 years,578,1567727,36.87,Belgium2007,NA,471821105940,47040,Boomers
+Belgium,2007,male,55-74 years,308,1043262,29.52,Belgium2007,NA,471821105940,47040,Silent
+Belgium,2007,male,25-34 years,174,689694,25.23,Belgium2007,NA,471821105940,47040,Generation X
+Belgium,2007,female,35-54 years,232,1540147,15.06,Belgium2007,NA,471821105940,47040,Boomers
+Belgium,2007,female,55-74 years,166,1122161,14.79,Belgium2007,NA,471821105940,47040,Silent
+Belgium,2007,male,15-24 years,91,651293,13.97,Belgium2007,NA,471821105940,47040,Millenials
+Belgium,2007,female,75+ years,76,563862,13.48,Belgium2007,NA,471821105940,47040,Silent
+Belgium,2007,female,25-34 years,40,681575,5.87,Belgium2007,NA,471821105940,47040,Generation X
+Belgium,2007,female,15-24 years,22,635389,3.46,Belgium2007,NA,471821105940,47040,Millenials
+Belgium,2007,male,5-14 years,6,614877,0.98,Belgium2007,NA,471821105940,47040,Generation Z
+Belgium,2007,female,5-14 years,1,588775,0.17,Belgium2007,NA,471821105940,47040,Generation Z
+Belize,2007,male,75+ years,1,1802,55.49,Belize2007,NA,1290573400,4951,Silent
+Belize,2007,male,35-54 years,2,29071,6.88,Belize2007,NA,1290573400,4951,Boomers
+Belize,2007,male,15-24 years,2,30074,6.65,Belize2007,NA,1290573400,4951,Millenials
+Belize,2007,female,35-54 years,1,28664,3.49,Belize2007,NA,1290573400,4951,Boomers
+Belize,2007,female,15-24 years,1,30151,3.32,Belize2007,NA,1290573400,4951,Millenials
+Belize,2007,male,5-14 years,1,37602,2.66,Belize2007,NA,1290573400,4951,Generation Z
+Belize,2007,female,25-34 years,0,23636,0,Belize2007,NA,1290573400,4951,Generation X
+Belize,2007,female,5-14 years,0,37069,0,Belize2007,NA,1290573400,4951,Generation Z
+Belize,2007,female,55-74 years,0,8579,0,Belize2007,NA,1290573400,4951,Silent
+Belize,2007,female,75+ years,0,2027,0,Belize2007,NA,1290573400,4951,Silent
+Belize,2007,male,25-34 years,0,23259,0,Belize2007,NA,1290573400,4951,Generation X
+Belize,2007,male,55-74 years,0,8733,0,Belize2007,NA,1290573400,4951,Silent
+Brazil,2007,male,75+ years,305,1654216,18.44,Brazil2007,NA,1397084345950,7970,Silent
+Brazil,2007,male,55-74 years,1220,9611434,12.69,Brazil2007,NA,1397084345950,7970,Silent
+Brazil,2007,male,35-54 years,2516,23156759,10.87,Brazil2007,NA,1397084345950,7970,Boomers
+Brazil,2007,male,25-34 years,1609,16075775,10.01,Brazil2007,NA,1397084345950,7970,Generation X
+Brazil,2007,male,15-24 years,1267,17991928,7.04,Brazil2007,NA,1397084345950,7970,Millenials
+Brazil,2007,female,35-54 years,723,24591528,2.94,Brazil2007,NA,1397084345950,7970,Boomers
+Brazil,2007,female,55-74 years,275,11208413,2.45,Brazil2007,NA,1397084345950,7970,Silent
+Brazil,2007,female,25-34 years,392,16189977,2.42,Brazil2007,NA,1397084345950,7970,Generation X
+Brazil,2007,female,15-24 years,379,17547530,2.16,Brazil2007,NA,1397084345950,7970,Millenials
+Brazil,2007,female,75+ years,51,2581330,1.98,Brazil2007,NA,1397084345950,7970,Silent
+Brazil,2007,male,5-14 years,67,17669069,0.38,Brazil2007,NA,1397084345950,7970,Generation Z
+Brazil,2007,female,5-14 years,51,17015233,0.3,Brazil2007,NA,1397084345950,7970,Generation Z
+Bulgaria,2007,male,75+ years,151,215225,70.16,Bulgaria2007,NA,44411476557,6073,Silent
+Bulgaria,2007,male,55-74 years,238,804233,29.59,Bulgaria2007,NA,44411476557,6073,Silent
+Bulgaria,2007,female,75+ years,70,344739,20.31,Bulgaria2007,NA,44411476557,6073,Silent
+Bulgaria,2007,male,35-54 years,180,1061001,16.97,Bulgaria2007,NA,44411476557,6073,Boomers
+Bulgaria,2007,male,25-34 years,55,583293,9.43,Bulgaria2007,NA,44411476557,6073,Generation X
+Bulgaria,2007,female,55-74 years,82,981661,8.35,Bulgaria2007,NA,44411476557,6073,Silent
+Bulgaria,2007,male,15-24 years,39,518624,7.52,Bulgaria2007,NA,44411476557,6073,Millenials
+Bulgaria,2007,female,35-54 years,58,1072051,5.41,Bulgaria2007,NA,44411476557,6073,Boomers
+Bulgaria,2007,female,25-34 years,15,558209,2.69,Bulgaria2007,NA,44411476557,6073,Generation X
+Bulgaria,2007,female,15-24 years,9,493056,1.83,Bulgaria2007,NA,44411476557,6073,Millenials
+Bulgaria,2007,female,5-14 years,5,331138,1.51,Bulgaria2007,NA,44411476557,6073,Generation Z
+Bulgaria,2007,male,5-14 years,0,349244,0,Bulgaria2007,NA,44411476557,6073,Generation Z
+Canada,2007,male,35-54 years,1224,5064536,24.17,Canada2007,NA,1464977190206,46890,Boomers
+Canada,2007,male,75+ years,183,837259,21.86,Canada2007,NA,1464977190206,46890,Silent
+Canada,2007,male,25-34 years,404,2250433,17.95,Canada2007,NA,1464977190206,46890,Generation X
+Canada,2007,male,55-74 years,539,3006062,17.93,Canada2007,NA,1464977190206,46890,Silent
+Canada,2007,male,15-24 years,359,2318148,15.49,Canada2007,NA,1464977190206,46890,Millenials
+Canada,2007,female,35-54 years,400,5030803,7.95,Canada2007,NA,1464977190206,46890,Boomers
+Canada,2007,female,55-74 years,188,3170541,5.93,Canada2007,NA,1464977190206,46890,Silent
+Canada,2007,female,15-24 years,116,2206555,5.26,Canada2007,NA,1464977190206,46890,Millenials
+Canada,2007,female,25-34 years,113,2212210,5.11,Canada2007,NA,1464977190206,46890,Generation X
+Canada,2007,female,75+ years,52,1269438,4.1,Canada2007,NA,1464977190206,46890,Silent
+Canada,2007,male,5-14 years,18,1986129,0.91,Canada2007,NA,1464977190206,46890,Generation Z
+Canada,2007,female,5-14 years,15,1890517,0.79,Canada2007,NA,1464977190206,46890,Generation Z
+Chile,2007,male,75+ years,63,219367,28.72,Chile2007,NA,173605968179,11387,Silent
+Chile,2007,male,55-74 years,270,1031049,26.19,Chile2007,NA,173605968179,11387,Silent
+Chile,2007,male,25-34 years,310,1251058,24.78,Chile2007,NA,173605968179,11387,Generation X
+Chile,2007,male,35-54 years,532,2247973,23.67,Chile2007,NA,173605968179,11387,Boomers
+Chile,2007,male,15-24 years,302,1422332,21.23,Chile2007,NA,173605968179,11387,Millenials
+Chile,2007,female,15-24 years,90,1375294,6.54,Chile2007,NA,173605968179,11387,Millenials
+Chile,2007,female,25-34 years,74,1227488,6.03,Chile2007,NA,173605968179,11387,Generation X
+Chile,2007,female,35-54 years,128,2272322,5.63,Chile2007,NA,173605968179,11387,Boomers
+Chile,2007,female,55-74 years,42,1174419,3.58,Chile2007,NA,173605968179,11387,Silent
+Chile,2007,female,75+ years,9,365832,2.46,Chile2007,NA,173605968179,11387,Silent
+Chile,2007,male,5-14 years,19,1352835,1.4,Chile2007,NA,173605968179,11387,Generation Z
+Chile,2007,female,5-14 years,9,1305466,0.69,Chile2007,NA,173605968179,11387,Generation Z
+Colombia,2007,male,75+ years,67,378405,17.71,Colombia2007,NA,207416494642,5150,Silent
+Colombia,2007,male,55-74 years,245,2018827,12.14,Colombia2007,NA,207416494642,5150,Silent
+Colombia,2007,male,15-24 years,493,4248033,11.61,Colombia2007,NA,207416494642,5150,Millenials
+Colombia,2007,male,25-34 years,410,3562854,11.51,Colombia2007,NA,207416494642,5150,Generation X
+Colombia,2007,male,35-54 years,475,5364516,8.85,Colombia2007,NA,207416494642,5150,Boomers
+Colombia,2007,female,15-24 years,208,4142290,5.02,Colombia2007,NA,207416494642,5150,Millenials
+Colombia,2007,female,25-34 years,105,3633920,2.89,Colombia2007,NA,207416494642,5150,Generation X
+Colombia,2007,female,35-54 years,82,5752377,1.43,Colombia2007,NA,207416494642,5150,Boomers
+Colombia,2007,female,5-14 years,40,4066699,0.98,Colombia2007,NA,207416494642,5150,Generation Z
+Colombia,2007,male,5-14 years,37,4234298,0.87,Colombia2007,NA,207416494642,5150,Generation Z
+Colombia,2007,female,55-74 years,16,2339825,0.68,Colombia2007,NA,207416494642,5150,Silent
+Colombia,2007,female,75+ years,3,533162,0.56,Colombia2007,NA,207416494642,5150,Silent
+Costa Rica,2007,male,35-54 years,90,552299,16.3,Costa Rica2007,NA,26743874206,6661,Boomers
+Costa Rica,2007,male,25-34 years,53,342197,15.49,Costa Rica2007,NA,26743874206,6661,Generation X
+Costa Rica,2007,male,55-74 years,32,245529,13.03,Costa Rica2007,NA,26743874206,6661,Silent
+Costa Rica,2007,male,15-24 years,46,414675,11.09,Costa Rica2007,NA,26743874206,6661,Millenials
+Costa Rica,2007,male,75+ years,4,50648,7.9,Costa Rica2007,NA,26743874206,6661,Silent
+Costa Rica,2007,female,15-24 years,20,399875,5,Costa Rica2007,NA,26743874206,6661,Millenials
+Costa Rica,2007,female,25-34 years,11,337810,3.26,Costa Rica2007,NA,26743874206,6661,Generation X
+Costa Rica,2007,female,35-54 years,9,561684,1.6,Costa Rica2007,NA,26743874206,6661,Boomers
+Costa Rica,2007,female,55-74 years,3,255955,1.17,Costa Rica2007,NA,26743874206,6661,Silent
+Costa Rica,2007,female,5-14 years,1,386007,0.26,Costa Rica2007,NA,26743874206,6661,Generation Z
+Costa Rica,2007,male,5-14 years,1,403466,0.25,Costa Rica2007,NA,26743874206,6661,Generation Z
+Costa Rica,2007,female,75+ years,0,65096,0,Costa Rica2007,NA,26743874206,6661,Silent
+Croatia,2007,male,75+ years,85,101664,83.61,Croatia2007,NA,60093222709,14204,Silent
+Croatia,2007,male,55-74 years,206,443939,46.4,Croatia2007,NA,60093222709,14204,Silent
+Croatia,2007,male,35-54 years,198,637678,31.05,Croatia2007,NA,60093222709,14204,Boomers
+Croatia,2007,female,75+ years,45,204595,21.99,Croatia2007,NA,60093222709,14204,Silent
+Croatia,2007,male,25-34 years,52,312108,16.66,Croatia2007,NA,60093222709,14204,Generation X
+Croatia,2007,female,55-74 years,84,533554,15.74,Croatia2007,NA,60093222709,14204,Silent
+Croatia,2007,male,15-24 years,34,289325,11.75,Croatia2007,NA,60093222709,14204,Millenials
+Croatia,2007,female,35-54 years,45,642644,7,Croatia2007,NA,60093222709,14204,Boomers
+Croatia,2007,female,15-24 years,11,277133,3.97,Croatia2007,NA,60093222709,14204,Millenials
+Croatia,2007,female,25-34 years,11,303954,3.62,Croatia2007,NA,60093222709,14204,Generation X
+Croatia,2007,female,5-14 years,2,236481,0.85,Croatia2007,NA,60093222709,14204,Generation Z
+Croatia,2007,male,5-14 years,2,247780,0.81,Croatia2007,NA,60093222709,14204,Generation Z
+Cuba,2007,male,75+ years,186,241393,77.05,Cuba2007,NA,58603900000,5488,Silent
+Cuba,2007,male,55-74 years,329,899694,36.57,Cuba2007,NA,58603900000,5488,Silent
+Cuba,2007,male,35-54 years,370,1836069,20.15,Cuba2007,NA,58603900000,5488,Boomers
+Cuba,2007,female,75+ years,49,310509,15.78,Cuba2007,NA,58603900000,5488,Silent
+Cuba,2007,male,25-34 years,105,795644,13.2,Cuba2007,NA,58603900000,5488,Generation X
+Cuba,2007,female,55-74 years,87,929079,9.36,Cuba2007,NA,58603900000,5488,Silent
+Cuba,2007,male,15-24 years,49,821914,5.96,Cuba2007,NA,58603900000,5488,Millenials
+Cuba,2007,female,35-54 years,93,1827402,5.09,Cuba2007,NA,58603900000,5488,Boomers
+Cuba,2007,female,25-34 years,22,774006,2.84,Cuba2007,NA,58603900000,5488,Generation X
+Cuba,2007,female,15-24 years,15,784753,1.91,Cuba2007,NA,58603900000,5488,Millenials
+Cuba,2007,male,5-14 years,2,750899,0.27,Cuba2007,NA,58603900000,5488,Generation Z
+Cuba,2007,female,5-14 years,0,706661,0,Cuba2007,NA,58603900000,5488,Generation Z
+Cyprus,2007,male,75+ years,2,17897,11.18,Cyprus2007,NA,24077470572,33048,Silent
+Cyprus,2007,male,25-34 years,4,55768,7.17,Cyprus2007,NA,24077470572,33048,Generation X
+Cyprus,2007,male,15-24 years,3,63227,4.74,Cyprus2007,NA,24077470572,33048,Millenials
+Cyprus,2007,male,55-74 years,3,67267,4.46,Cyprus2007,NA,24077470572,33048,Silent
+Cyprus,2007,female,25-34 years,2,59428,3.37,Cyprus2007,NA,24077470572,33048,Generation X
+Cyprus,2007,male,35-54 years,3,101951,2.94,Cyprus2007,NA,24077470572,33048,Boomers
+Cyprus,2007,female,55-74 years,1,71415,1.4,Cyprus2007,NA,24077470572,33048,Silent
+Cyprus,2007,female,35-54 years,1,109618,0.91,Cyprus2007,NA,24077470572,33048,Boomers
+Cyprus,2007,female,15-24 years,0,60276,0,Cyprus2007,NA,24077470572,33048,Millenials
+Cyprus,2007,female,5-14 years,0,47379,0,Cyprus2007,NA,24077470572,33048,Generation Z
+Cyprus,2007,female,75+ years,0,24362,0,Cyprus2007,NA,24077470572,33048,Silent
+Cyprus,2007,male,5-14 years,0,49978,0,Cyprus2007,NA,24077470572,33048,Generation Z
+Czech Republic,2007,male,75+ years,109,229015,47.6,Czech Republic2007,NA,189227050760,19273,Silent
+Czech Republic,2007,male,55-74 years,322,1047512,30.74,Czech Republic2007,NA,189227050760,19273,Silent
+Czech Republic,2007,male,35-54 years,440,1434256,30.68,Czech Republic2007,NA,189227050760,19273,Boomers
+Czech Republic,2007,male,25-34 years,176,888983,19.8,Czech Republic2007,NA,189227050760,19273,Generation X
+Czech Republic,2007,male,15-24 years,100,690165,14.49,Czech Republic2007,NA,189227050760,19273,Millenials
+Czech Republic,2007,female,75+ years,49,438726,11.17,Czech Republic2007,NA,189227050760,19273,Silent
+Czech Republic,2007,female,55-74 years,72,1216178,5.92,Czech Republic2007,NA,189227050760,19273,Silent
+Czech Republic,2007,female,35-54 years,73,1400706,5.21,Czech Republic2007,NA,189227050760,19273,Boomers
+Czech Republic,2007,female,25-34 years,21,846092,2.48,Czech Republic2007,NA,189227050760,19273,Generation X
+Czech Republic,2007,female,15-24 years,15,654550,2.29,Czech Republic2007,NA,189227050760,19273,Millenials
+Czech Republic,2007,male,5-14 years,2,499126,0.4,Czech Republic2007,NA,189227050760,19273,Generation Z
+Czech Republic,2007,female,5-14 years,0,472986,0,Czech Republic2007,NA,189227050760,19273,Generation Z
+Denmark,2007,male,75+ years,59,146309,40.33,Denmark2007,NA,319423370134,62229,Silent
+Denmark,2007,male,55-74 years,124,584457,21.22,Denmark2007,NA,319423370134,62229,Silent
+Denmark,2007,male,35-54 years,145,786990,18.42,Denmark2007,NA,319423370134,62229,Boomers
+Denmark,2007,male,25-34 years,56,347246,16.13,Denmark2007,NA,319423370134,62229,Generation X
+Denmark,2007,female,75+ years,33,235854,13.99,Denmark2007,NA,319423370134,62229,Silent
+Denmark,2007,female,35-54 years,71,768072,9.24,Denmark2007,NA,319423370134,62229,Boomers
+Denmark,2007,female,55-74 years,55,606387,9.07,Denmark2007,NA,319423370134,62229,Silent
+Denmark,2007,male,15-24 years,15,320054,4.69,Denmark2007,NA,319423370134,62229,Millenials
+Denmark,2007,female,25-34 years,15,345418,4.34,Denmark2007,NA,319423370134,62229,Generation X
+Denmark,2007,female,15-24 years,6,305722,1.96,Denmark2007,NA,319423370134,62229,Millenials
+Denmark,2007,male,5-14 years,2,351664,0.57,Denmark2007,NA,319423370134,62229,Generation Z
+Denmark,2007,female,5-14 years,0,334828,0,Denmark2007,NA,319423370134,62229,Generation Z
+Ecuador,2007,male,15-24 years,235,1383302,16.99,Ecuador2007,NA,51007777000,4024,Millenials
+Ecuador,2007,male,55-74 years,92,626501,14.68,Ecuador2007,NA,51007777000,4024,Silent
+Ecuador,2007,male,25-34 years,157,1123771,13.97,Ecuador2007,NA,51007777000,4024,Generation X
+Ecuador,2007,male,75+ years,18,145654,12.36,Ecuador2007,NA,51007777000,4024,Silent
+Ecuador,2007,male,35-54 years,184,1525177,12.06,Ecuador2007,NA,51007777000,4024,Boomers
+Ecuador,2007,female,15-24 years,135,1346416,10.03,Ecuador2007,NA,51007777000,4024,Millenials
+Ecuador,2007,female,25-34 years,53,1118153,4.74,Ecuador2007,NA,51007777000,4024,Generation X
+Ecuador,2007,male,5-14 years,45,1526432,2.95,Ecuador2007,NA,51007777000,4024,Generation Z
+Ecuador,2007,female,55-74 years,19,673563,2.82,Ecuador2007,NA,51007777000,4024,Silent
+Ecuador,2007,female,35-54 years,42,1557413,2.7,Ecuador2007,NA,51007777000,4024,Boomers
+Ecuador,2007,female,5-14 years,23,1470813,1.56,Ecuador2007,NA,51007777000,4024,Generation Z
+Ecuador,2007,female,75+ years,2,180159,1.11,Ecuador2007,NA,51007777000,4024,Silent
+El Salvador,2007,male,25-34 years,114,401997,28.36,El Salvador2007,NA,17011750900,3111,Generation X
+El Salvador,2007,male,35-54 years,111,543505,20.42,El Salvador2007,NA,17011750900,3111,Boomers
+El Salvador,2007,male,75+ years,13,64151,20.26,El Salvador2007,NA,17011750900,3111,Silent
+El Salvador,2007,male,55-74 years,53,283342,18.71,El Salvador2007,NA,17011750900,3111,Silent
+El Salvador,2007,male,15-24 years,93,563128,16.51,El Salvador2007,NA,17011750900,3111,Millenials
+El Salvador,2007,female,15-24 years,57,592288,9.62,El Salvador2007,NA,17011750900,3111,Millenials
+El Salvador,2007,female,25-34 years,22,481271,4.57,El Salvador2007,NA,17011750900,3111,Generation X
+El Salvador,2007,female,75+ years,2,84282,2.37,El Salvador2007,NA,17011750900,3111,Silent
+El Salvador,2007,female,55-74 years,8,347632,2.3,El Salvador2007,NA,17011750900,3111,Silent
+El Salvador,2007,female,35-54 years,14,684881,2.04,El Salvador2007,NA,17011750900,3111,Boomers
+El Salvador,2007,female,5-14 years,9,698018,1.29,El Salvador2007,NA,17011750900,3111,Generation Z
+El Salvador,2007,male,5-14 years,5,723366,0.69,El Salvador2007,NA,17011750900,3111,Generation Z
+Estonia,2007,male,75+ years,21,26860,78.18,Estonia2007,NA,22237061730,17504,Silent
+Estonia,2007,male,55-74 years,58,117125,49.52,Estonia2007,NA,22237061730,17504,Silent
+Estonia,2007,male,25-34 years,39,96140,40.57,Estonia2007,NA,22237061730,17504,Generation X
+Estonia,2007,male,35-54 years,66,180160,36.63,Estonia2007,NA,22237061730,17504,Boomers
+Estonia,2007,male,15-24 years,21,100450,20.91,Estonia2007,NA,22237061730,17504,Millenials
+Estonia,2007,female,75+ years,13,71525,18.18,Estonia2007,NA,22237061730,17504,Silent
+Estonia,2007,female,55-74 years,17,170045,10,Estonia2007,NA,22237061730,17504,Silent
+Estonia,2007,female,35-54 years,11,192585,5.71,Estonia2007,NA,22237061730,17504,Boomers
+Estonia,2007,female,15-24 years,3,94785,3.17,Estonia2007,NA,22237061730,17504,Millenials
+Estonia,2007,female,25-34 years,2,91870,2.18,Estonia2007,NA,22237061730,17504,Generation X
+Estonia,2007,female,5-14 years,0,62580,0,Estonia2007,NA,22237061730,17504,Generation Z
+Estonia,2007,male,5-14 years,0,66290,0,Estonia2007,NA,22237061730,17504,Generation Z
+Fiji,2007,male,55-74 years,3,40558,7.4,Fiji2007,NA,3405050612,4570,Silent
+Fiji,2007,male,15-24 years,3,80074,3.75,Fiji2007,NA,3405050612,4570,Millenials
+Fiji,2007,female,25-34 years,2,64428,3.1,Fiji2007,NA,3405050612,4570,Generation X
+Fiji,2007,male,25-34 years,2,67634,2.96,Fiji2007,NA,3405050612,4570,Generation X
+Fiji,2007,male,35-54 years,2,103785,1.93,Fiji2007,NA,3405050612,4570,Boomers
+Fiji,2007,female,15-24 years,1,75514,1.32,Fiji2007,NA,3405050612,4570,Millenials
+Fiji,2007,female,35-54 years,0,100300,0,Fiji2007,NA,3405050612,4570,Boomers
+Fiji,2007,female,5-14 years,0,77970,0,Fiji2007,NA,3405050612,4570,Generation Z
+Fiji,2007,female,55-74 years,0,41745,0,Fiji2007,NA,3405050612,4570,Silent
+Fiji,2007,female,75+ years,0,5299,0,Fiji2007,NA,3405050612,4570,Silent
+Fiji,2007,male,5-14 years,0,83503,0,Fiji2007,NA,3405050612,4570,Generation Z
+Fiji,2007,male,75+ years,0,4245,0,Fiji2007,NA,3405050612,4570,Silent
+Finland,2007,male,75+ years,58,140553,41.27,Finland2007,NA,255384615385,51089,Silent
+Finland,2007,male,35-54 years,297,742406,40.01,Finland2007,NA,255384615385,51089,Boomers
+Finland,2007,male,55-74 years,203,577963,35.12,Finland2007,NA,255384615385,51089,Silent
+Finland,2007,male,25-34 years,101,334628,30.18,Finland2007,NA,255384615385,51089,Generation X
+Finland,2007,male,15-24 years,89,336401,26.46,Finland2007,NA,255384615385,51089,Millenials
+Finland,2007,female,55-74 years,83,624243,13.3,Finland2007,NA,255384615385,51089,Silent
+Finland,2007,female,35-54 years,89,727224,12.24,Finland2007,NA,255384615385,51089,Boomers
+Finland,2007,female,15-24 years,31,321868,9.63,Finland2007,NA,255384615385,51089,Millenials
+Finland,2007,female,25-34 years,24,317967,7.55,Finland2007,NA,255384615385,51089,Generation X
+Finland,2007,female,75+ years,17,267590,6.35,Finland2007,NA,255384615385,51089,Silent
+Finland,2007,male,5-14 years,3,310283,0.97,Finland2007,NA,255384615385,51089,Generation Z
+Finland,2007,female,5-14 years,0,297727,0,Finland2007,NA,255384615385,51089,Generation Z
+France,2007,male,75+ years,1315,1932659,68.04,France2007,NA,2657213249384,45682,Silent
+France,2007,male,35-54 years,3072,8475997,36.24,France2007,NA,2657213249384,45682,Boomers
+France,2007,male,55-74 years,1776,5859657,30.31,France2007,NA,2657213249384,45682,Silent
+France,2007,male,25-34 years,843,3926679,21.47,France2007,NA,2657213249384,45682,Generation X
+France,2007,female,75+ years,461,3367365,13.69,France2007,NA,2657213249384,45682,Silent
+France,2007,female,55-74 years,832,6461012,12.88,France2007,NA,2657213249384,45682,Silent
+France,2007,female,35-54 years,1091,8736539,12.49,France2007,NA,2657213249384,45682,Boomers
+France,2007,male,15-24 years,397,3998872,9.93,France2007,NA,2657213249384,45682,Millenials
+France,2007,female,25-34 years,204,3971637,5.14,France2007,NA,2657213249384,45682,Generation X
+France,2007,female,15-24 years,114,3893480,2.93,France2007,NA,2657213249384,45682,Millenials
+France,2007,male,5-14 years,16,3864992,0.41,France2007,NA,2657213249384,45682,Generation Z
+France,2007,female,5-14 years,6,3678122,0.16,France2007,NA,2657213249384,45682,Generation Z
+Georgia,2007,male,75+ years,10,83450,11.98,Georgia2007,NA,10172869680,2448,Silent
+Georgia,2007,male,55-74 years,24,337200,7.12,Georgia2007,NA,10172869680,2448,Silent
+Georgia,2007,male,35-54 years,29,573900,5.05,Georgia2007,NA,10172869680,2448,Boomers
+Georgia,2007,male,25-34 years,14,315700,4.43,Georgia2007,NA,10172869680,2448,Generation X
+Georgia,2007,female,75+ years,5,161000,3.11,Georgia2007,NA,10172869680,2448,Silent
+Georgia,2007,male,15-24 years,7,367900,1.9,Georgia2007,NA,10172869680,2448,Millenials
+Georgia,2007,female,55-74 years,6,447350,1.34,Georgia2007,NA,10172869680,2448,Silent
+Georgia,2007,female,35-54 years,7,651500,1.07,Georgia2007,NA,10172869680,2448,Boomers
+Georgia,2007,female,25-34 years,1,323950,0.31,Georgia2007,NA,10172869680,2448,Generation X
+Georgia,2007,female,15-24 years,1,359400,0.28,Georgia2007,NA,10172869680,2448,Millenials
+Georgia,2007,female,5-14 years,0,255950,0,Georgia2007,NA,10172869680,2448,Generation Z
+Georgia,2007,male,5-14 years,0,277600,0,Georgia2007,NA,10172869680,2448,Generation Z
+Germany,2007,male,75+ years,1143,2417463,47.28,Germany2007,NA,3439953462907,43667,Silent
+Germany,2007,male,55-74 years,2213,9135373,24.22,Germany2007,NA,3439953462907,43667,Silent
+Germany,2007,male,35-54 years,2539,13116847,19.36,Germany2007,NA,3439953462907,43667,Boomers
+Germany,2007,male,25-34 years,654,4913538,13.31,Germany2007,NA,3439953462907,43667,Generation X
+Germany,2007,female,75+ years,595,4503136,13.21,Germany2007,NA,3439953462907,43667,Silent
+Germany,2007,male,15-24 years,448,4875778,9.19,Germany2007,NA,3439953462907,43667,Millenials
+Germany,2007,female,55-74 years,796,9816096,8.11,Germany2007,NA,3439953462907,43667,Silent
+Germany,2007,female,35-54 years,742,12662132,5.86,Germany2007,NA,3439953462907,43667,Boomers
+Germany,2007,female,25-34 years,145,4782312,3.03,Germany2007,NA,3439953462907,43667,Generation X
+Germany,2007,female,15-24 years,110,4678848,2.35,Germany2007,NA,3439953462907,43667,Millenials
+Germany,2007,male,5-14 years,15,4039955,0.37,Germany2007,NA,3439953462907,43667,Generation Z
+Germany,2007,female,5-14 years,9,3835107,0.23,Germany2007,NA,3439953462907,43667,Generation Z
+Greece,2007,male,55-74 years,75,1149577,6.52,Greece2007,NA,318497936901,29896,Silent
+Greece,2007,male,75+ years,25,399870,6.25,Greece2007,NA,318497936901,29896,Silent
+Greece,2007,male,35-54 years,101,1629000,6.2,Greece2007,NA,318497936901,29896,Boomers
+Greece,2007,male,25-34 years,47,880293,5.34,Greece2007,NA,318497936901,29896,Generation X
+Greece,2007,male,15-24 years,19,660913,2.87,Greece2007,NA,318497936901,29896,Millenials
+Greece,2007,female,75+ years,11,522951,2.1,Greece2007,NA,318497936901,29896,Silent
+Greece,2007,female,25-34 years,12,816668,1.47,Greece2007,NA,318497936901,29896,Generation X
+Greece,2007,female,35-54 years,20,1617694,1.24,Greece2007,NA,318497936901,29896,Boomers
+Greece,2007,female,55-74 years,12,1305992,0.92,Greece2007,NA,318497936901,29896,Silent
+Greece,2007,female,15-24 years,5,611207,0.82,Greece2007,NA,318497936901,29896,Millenials
+Greece,2007,male,5-14 years,1,545096,0.18,Greece2007,NA,318497936901,29896,Generation Z
+Greece,2007,female,5-14 years,0,514330,0,Greece2007,NA,318497936901,29896,Generation Z
+Grenada,2007,male,55-74 years,1,4324,23.13,Grenada2007,NA,758683593,8035,Silent
+Grenada,2007,female,25-34 years,1,7699,12.99,Grenada2007,NA,758683593,8035,Generation X
+Grenada,2007,male,25-34 years,1,8183,12.22,Grenada2007,NA,758683593,8035,Generation X
+Grenada,2007,female,15-24 years,0,12038,0,Grenada2007,NA,758683593,8035,Millenials
+Grenada,2007,female,35-54 years,0,10234,0,Grenada2007,NA,758683593,8035,Boomers
+Grenada,2007,female,5-14 years,0,10089,0,Grenada2007,NA,758683593,8035,Generation Z
+Grenada,2007,female,55-74 years,0,5099,0,Grenada2007,NA,758683593,8035,Silent
+Grenada,2007,female,75+ years,0,2349,0,Grenada2007,NA,758683593,8035,Silent
+Grenada,2007,male,15-24 years,0,12395,0,Grenada2007,NA,758683593,8035,Millenials
+Grenada,2007,male,35-54 years,0,10277,0,Grenada2007,NA,758683593,8035,Boomers
+Grenada,2007,male,5-14 years,0,10404,0,Grenada2007,NA,758683593,8035,Generation Z
+Grenada,2007,male,75+ years,0,1327,0,Grenada2007,NA,758683593,8035,Silent
+Guatemala,2007,male,35-54 years,74,956182,7.74,Guatemala2007,NA,34113107086,2914,Boomers
+Guatemala,2007,male,25-34 years,69,948435,7.28,Guatemala2007,NA,34113107086,2914,Generation X
+Guatemala,2007,male,75+ years,7,99526,7.03,Guatemala2007,NA,34113107086,2914,Silent
+Guatemala,2007,male,55-74 years,26,419760,6.19,Guatemala2007,NA,34113107086,2914,Silent
+Guatemala,2007,male,15-24 years,84,1420153,5.91,Guatemala2007,NA,34113107086,2914,Millenials
+Guatemala,2007,female,15-24 years,34,1420815,2.39,Guatemala2007,NA,34113107086,2914,Millenials
+Guatemala,2007,female,35-54 years,12,1144742,1.05,Guatemala2007,NA,34113107086,2914,Boomers
+Guatemala,2007,female,75+ years,1,120646,0.83,Guatemala2007,NA,34113107086,2914,Silent
+Guatemala,2007,female,25-34 years,7,1036031,0.68,Guatemala2007,NA,34113107086,2914,Generation X
+Guatemala,2007,female,55-74 years,3,483657,0.62,Guatemala2007,NA,34113107086,2914,Silent
+Guatemala,2007,female,5-14 years,7,1797379,0.39,Guatemala2007,NA,34113107086,2914,Generation Z
+Guatemala,2007,male,5-14 years,3,1861071,0.16,Guatemala2007,NA,34113107086,2914,Generation Z
+Guyana,2007,male,35-54 years,73,86507,84.39,Guyana2007,NA,1740334782,2602,Boomers
+Guyana,2007,male,75+ years,3,4901,61.21,Guyana2007,NA,1740334782,2602,Silent
+Guyana,2007,male,25-34 years,28,54095,51.76,Guyana2007,NA,1740334782,2602,Generation X
+Guyana,2007,male,15-24 years,27,66115,40.84,Guyana2007,NA,1740334782,2602,Millenials
+Guyana,2007,male,55-74 years,11,29855,36.84,Guyana2007,NA,1740334782,2602,Silent
+Guyana,2007,female,75+ years,2,6214,32.19,Guyana2007,NA,1740334782,2602,Silent
+Guyana,2007,female,15-24 years,15,65585,22.87,Guyana2007,NA,1740334782,2602,Millenials
+Guyana,2007,female,25-34 years,9,55201,16.3,Guyana2007,NA,1740334782,2602,Generation X
+Guyana,2007,female,55-74 years,4,31718,12.61,Guyana2007,NA,1740334782,2602,Silent
+Guyana,2007,female,35-54 years,9,87596,10.27,Guyana2007,NA,1740334782,2602,Boomers
+Guyana,2007,female,5-14 years,3,88555,3.39,Guyana2007,NA,1740334782,2602,Generation Z
+Guyana,2007,male,5-14 years,1,92446,1.08,Guyana2007,NA,1740334782,2602,Generation Z
+Hungary,2007,male,75+ years,252,230464,109.34,Hungary2007,NA,139850794387,14609,Silent
+Hungary,2007,male,55-74 years,567,927533,61.13,Hungary2007,NA,139850794387,14609,Silent
+Hungary,2007,male,35-54 years,791,1364796,57.96,Hungary2007,NA,139850794387,14609,Boomers
+Hungary,2007,female,75+ years,132,478370,27.59,Hungary2007,NA,139850794387,14609,Silent
+Hungary,2007,male,25-34 years,190,820057,23.17,Hungary2007,NA,139850794387,14609,Generation X
+Hungary,2007,female,55-74 years,199,1235077,16.11,Hungary2007,NA,139850794387,14609,Silent
+Hungary,2007,female,35-54 years,196,1412746,13.87,Hungary2007,NA,139850794387,14609,Boomers
+Hungary,2007,male,15-24 years,77,652277,11.8,Hungary2007,NA,139850794387,14609,Millenials
+Hungary,2007,female,25-34 years,32,787885,4.06,Hungary2007,NA,139850794387,14609,Generation X
+Hungary,2007,female,15-24 years,12,627355,1.91,Hungary2007,NA,139850794387,14609,Millenials
+Hungary,2007,male,5-14 years,2,531164,0.38,Hungary2007,NA,139850794387,14609,Generation Z
+Hungary,2007,female,5-14 years,0,505214,0,Hungary2007,NA,139850794387,14609,Generation Z
+Iceland,2007,male,75+ years,3,7454,40.25,Iceland2007,NA,21319946740,73590,Silent
+Iceland,2007,male,15-24 years,7,23231,30.13,Iceland2007,NA,21319946740,73590,Millenials
+Iceland,2007,male,35-54 years,12,45690,26.26,Iceland2007,NA,21319946740,73590,Boomers
+Iceland,2007,male,25-34 years,6,24445,24.54,Iceland2007,NA,21319946740,73590,Generation X
+Iceland,2007,female,75+ years,1,10165,9.84,Iceland2007,NA,21319946740,73590,Silent
+Iceland,2007,female,25-34 years,2,22098,9.05,Iceland2007,NA,21319946740,73590,Generation X
+Iceland,2007,female,55-74 years,2,24464,8.18,Iceland2007,NA,21319946740,73590,Silent
+Iceland,2007,male,55-74 years,2,24652,8.11,Iceland2007,NA,21319946740,73590,Silent
+Iceland,2007,female,15-24 years,1,22072,4.53,Iceland2007,NA,21319946740,73590,Millenials
+Iceland,2007,female,35-54 years,1,41594,2.4,Iceland2007,NA,21319946740,73590,Boomers
+Iceland,2007,female,5-14 years,0,21535,0,Iceland2007,NA,21319946740,73590,Generation Z
+Iceland,2007,male,5-14 years,0,22312,0,Iceland2007,NA,21319946740,73590,Generation Z
+Ireland,2007,male,15-24 years,76,320350,23.72,Ireland2007,NA,269917519847,67032,Millenials
+Ireland,2007,male,25-34 years,91,387302,23.5,Ireland2007,NA,269917519847,67032,Generation X
+Ireland,2007,male,35-54 years,119,590396,20.16,Ireland2007,NA,269917519847,67032,Boomers
+Ireland,2007,male,55-74 years,61,338808,18,Ireland2007,NA,269917519847,67032,Silent
+Ireland,2007,male,75+ years,8,81128,9.86,Ireland2007,NA,269917519847,67032,Silent
+Ireland,2007,female,35-54 years,45,579555,7.76,Ireland2007,NA,269917519847,67032,Boomers
+Ireland,2007,female,25-34 years,19,375744,5.06,Ireland2007,NA,269917519847,67032,Generation X
+Ireland,2007,female,15-24 years,15,313405,4.79,Ireland2007,NA,269917519847,67032,Millenials
+Ireland,2007,female,55-74 years,13,341816,3.8,Ireland2007,NA,269917519847,67032,Silent
+Ireland,2007,male,5-14 years,7,292637,2.39,Ireland2007,NA,269917519847,67032,Generation Z
+Ireland,2007,female,75+ years,3,126722,2.37,Ireland2007,NA,269917519847,67032,Silent
+Ireland,2007,female,5-14 years,1,278844,0.36,Ireland2007,NA,269917519847,67032,Generation Z
+Israel,2007,male,75+ years,29,132434,21.9,Israel2007,NA,178706717753,27712,Silent
+Israel,2007,male,55-74 years,50,456922,10.94,Israel2007,NA,178706717753,27712,Silent
+Israel,2007,male,35-54 years,85,785826,10.82,Israel2007,NA,178706717753,27712,Boomers
+Israel,2007,male,25-34 years,51,541856,9.41,Israel2007,NA,178706717753,27712,Generation X
+Israel,2007,male,15-24 years,45,587792,7.66,Israel2007,NA,178706717753,27712,Millenials
+Israel,2007,female,75+ years,7,196820,3.56,Israel2007,NA,178706717753,27712,Silent
+Israel,2007,female,35-54 years,23,819830,2.81,Israel2007,NA,178706717753,27712,Boomers
+Israel,2007,female,55-74 years,13,521935,2.49,Israel2007,NA,178706717753,27712,Silent
+Israel,2007,female,25-34 years,10,536280,1.86,Israel2007,NA,178706717753,27712,Generation X
+Israel,2007,female,15-24 years,10,564137,1.77,Israel2007,NA,178706717753,27712,Millenials
+Israel,2007,male,5-14 years,3,669312,0.45,Israel2007,NA,178706717753,27712,Generation Z
+Israel,2007,female,5-14 years,0,635670,0,Israel2007,NA,178706717753,27712,Generation Z
+Italy,2007,male,75+ years,596,2102301,28.35,Italy2007,NA,2203053380783,38935,Silent
+Italy,2007,male,55-74 years,885,6332745,13.97,Italy2007,NA,2203053380783,38935,Silent
+Italy,2007,male,35-54 years,883,8888038,9.93,Italy2007,NA,2203053380783,38935,Boomers
+Italy,2007,male,25-34 years,354,4114889,8.6,Italy2007,NA,2203053380783,38935,Generation X
+Italy,2007,male,15-24 years,170,3105574,5.47,Italy2007,NA,2203053380783,38935,Millenials
+Italy,2007,female,75+ years,171,3568393,4.79,Italy2007,NA,2203053380783,38935,Silent
+Italy,2007,female,55-74 years,274,7020728,3.9,Italy2007,NA,2203053380783,38935,Silent
+Italy,2007,female,35-54 years,295,8909678,3.31,Italy2007,NA,2203053380783,38935,Boomers
+Italy,2007,female,25-34 years,84,4028413,2.09,Italy2007,NA,2203053380783,38935,Generation X
+Italy,2007,female,15-24 years,36,2960065,1.22,Italy2007,NA,2203053380783,38935,Millenials
+Italy,2007,male,5-14 years,5,2855123,0.18,Italy2007,NA,2203053380783,38935,Generation Z
+Italy,2007,female,5-14 years,4,2697631,0.15,Italy2007,NA,2203053380783,38935,Generation Z
+Japan,2007,male,55-74 years,8184,16130000,50.74,Japan2007,NA,4515264514431,37408,Silent
+Japan,2007,male,75+ years,2205,4744000,46.48,Japan2007,NA,4515264514431,37408,Silent
+Japan,2007,male,35-54 years,7599,16557000,45.9,Japan2007,NA,4515264514431,37408,Boomers
+Japan,2007,male,25-34 years,2596,8501000,30.54,Japan2007,NA,4515264514431,37408,Generation X
+Japan,2007,female,75+ years,1691,7913000,21.37,Japan2007,NA,4515264514431,37408,Silent
+Japan,2007,male,15-24 years,1252,6795000,18.43,Japan2007,NA,4515264514431,37408,Millenials
+Japan,2007,female,55-74 years,3108,17338000,17.93,Japan2007,NA,4515264514431,37408,Silent
+Japan,2007,female,35-54 years,2303,16325000,14.11,Japan2007,NA,4515264514431,37408,Boomers
+Japan,2007,female,25-34 years,1084,8212000,13.2,Japan2007,NA,4515264514431,37408,Generation X
+Japan,2007,female,15-24 years,596,6430000,9.27,Japan2007,NA,4515264514431,37408,Millenials
+Japan,2007,male,5-14 years,31,6027000,0.51,Japan2007,NA,4515264514431,37408,Generation Z
+Japan,2007,female,5-14 years,16,5732000,0.28,Japan2007,NA,4515264514431,37408,Generation Z
+Kazakhstan,2007,male,25-34 years,919,1208359,76.05,Kazakhstan2007,NA,104849886826,7423,Generation X
+Kazakhstan,2007,male,75+ years,77,116899,65.87,Kazakhstan2007,NA,104849886826,7423,Silent
+Kazakhstan,2007,male,35-54 years,1275,1935835,65.86,Kazakhstan2007,NA,104849886826,7423,Boomers
+Kazakhstan,2007,male,55-74 years,412,747545,55.11,Kazakhstan2007,NA,104849886826,7423,Silent
+Kazakhstan,2007,male,15-24 years,648,1542361,42.01,Kazakhstan2007,NA,104849886826,7423,Millenials
+Kazakhstan,2007,female,75+ years,50,281627,17.75,Kazakhstan2007,NA,104849886826,7423,Silent
+Kazakhstan,2007,female,15-24 years,203,1498711,13.54,Kazakhstan2007,NA,104849886826,7423,Millenials
+Kazakhstan,2007,female,25-34 years,140,1219565,11.48,Kazakhstan2007,NA,104849886826,7423,Generation X
+Kazakhstan,2007,female,35-54 years,210,2144647,9.79,Kazakhstan2007,NA,104849886826,7423,Boomers
+Kazakhstan,2007,female,55-74 years,88,1077829,8.16,Kazakhstan2007,NA,104849886826,7423,Silent
+Kazakhstan,2007,male,5-14 years,89,1202402,7.4,Kazakhstan2007,NA,104849886826,7423,Generation Z
+Kazakhstan,2007,female,5-14 years,30,1149826,2.61,Kazakhstan2007,NA,104849886826,7423,Generation Z
+Kuwait,2007,male,25-34 years,21,640909,3.28,Kuwait2007,NA,114641097818,37283,Generation X
+Kuwait,2007,female,25-34 years,7,301345,2.32,Kuwait2007,NA,114641097818,37283,Generation X
+Kuwait,2007,male,55-74 years,2,99708,2.01,Kuwait2007,NA,114641097818,37283,Silent
+Kuwait,2007,male,15-24 years,5,268049,1.87,Kuwait2007,NA,114641097818,37283,Millenials
+Kuwait,2007,female,35-54 years,6,325356,1.84,Kuwait2007,NA,114641097818,37283,Boomers
+Kuwait,2007,male,35-54 years,9,717868,1.25,Kuwait2007,NA,114641097818,37283,Boomers
+Kuwait,2007,female,15-24 years,1,220418,0.45,Kuwait2007,NA,114641097818,37283,Millenials
+Kuwait,2007,female,5-14 years,0,207774,0,Kuwait2007,NA,114641097818,37283,Generation Z
+Kuwait,2007,female,55-74 years,0,58858,0,Kuwait2007,NA,114641097818,37283,Silent
+Kuwait,2007,female,75+ years,0,7399,0,Kuwait2007,NA,114641097818,37283,Silent
+Kuwait,2007,male,5-14 years,0,220886,0,Kuwait2007,NA,114641097818,37283,Generation Z
+Kuwait,2007,male,75+ years,0,6348,0,Kuwait2007,NA,114641097818,37283,Silent
+Kyrgyzstan,2007,male,35-54 years,132,581104,22.72,Kyrgyzstan2007,NA,3802566171,814,Boomers
+Kyrgyzstan,2007,male,25-34 years,86,409642,20.99,Kyrgyzstan2007,NA,3802566171,814,Generation X
+Kyrgyzstan,2007,male,55-74 years,34,175553,19.37,Kyrgyzstan2007,NA,3802566171,814,Silent
+Kyrgyzstan,2007,male,15-24 years,90,560422,16.06,Kyrgyzstan2007,NA,3802566171,814,Millenials
+Kyrgyzstan,2007,male,75+ years,4,38996,10.26,Kyrgyzstan2007,NA,3802566171,814,Silent
+Kyrgyzstan,2007,female,75+ years,7,70578,9.92,Kyrgyzstan2007,NA,3802566171,814,Silent
+Kyrgyzstan,2007,female,15-24 years,41,551054,7.44,Kyrgyzstan2007,NA,3802566171,814,Millenials
+Kyrgyzstan,2007,female,35-54 years,31,609740,5.08,Kyrgyzstan2007,NA,3802566171,814,Boomers
+Kyrgyzstan,2007,female,25-34 years,19,408305,4.65,Kyrgyzstan2007,NA,3802566171,814,Generation X
+Kyrgyzstan,2007,male,5-14 years,20,532114,3.76,Kyrgyzstan2007,NA,3802566171,814,Generation Z
+Kyrgyzstan,2007,female,55-74 years,8,217017,3.69,Kyrgyzstan2007,NA,3802566171,814,Silent
+Kyrgyzstan,2007,female,5-14 years,10,514115,1.95,Kyrgyzstan2007,NA,3802566171,814,Generation Z
+Latvia,2007,male,75+ years,39,41634,93.67,Latvia2007,NA,30901399261,14758,Silent
+Latvia,2007,male,35-54 years,143,294462,48.56,Latvia2007,NA,30901399261,14758,Boomers
+Latvia,2007,male,55-74 years,85,188774,45.03,Latvia2007,NA,30901399261,14758,Silent
+Latvia,2007,male,25-34 years,58,152449,38.05,Latvia2007,NA,30901399261,14758,Generation X
+Latvia,2007,female,75+ years,27,116189,23.24,Latvia2007,NA,30901399261,14758,Silent
+Latvia,2007,male,15-24 years,32,174288,18.36,Latvia2007,NA,30901399261,14758,Millenials
+Latvia,2007,female,55-74 years,27,285141,9.47,Latvia2007,NA,30901399261,14758,Silent
+Latvia,2007,female,35-54 years,26,321956,8.08,Latvia2007,NA,30901399261,14758,Boomers
+Latvia,2007,female,25-34 years,7,148231,4.72,Latvia2007,NA,30901399261,14758,Generation X
+Latvia,2007,female,15-24 years,6,166758,3.6,Latvia2007,NA,30901399261,14758,Millenials
+Latvia,2007,female,5-14 years,2,99706,2.01,Latvia2007,NA,30901399261,14758,Generation Z
+Latvia,2007,male,5-14 years,1,104290,0.96,Latvia2007,NA,30901399261,14758,Generation Z
+Lithuania,2007,male,55-74 years,220,267333,82.29,Lithuania2007,NA,39738180077,12869,Silent
+Lithuania,2007,male,75+ years,51,67551,75.5,Lithuania2007,NA,39738180077,12869,Silent
+Lithuania,2007,male,35-54 years,326,447405,72.86,Lithuania2007,NA,39738180077,12869,Boomers
+Lithuania,2007,male,25-34 years,146,210164,69.47,Lithuania2007,NA,39738180077,12869,Generation X
+Lithuania,2007,male,15-24 years,101,243589,41.46,Lithuania2007,NA,39738180077,12869,Millenials
+Lithuania,2007,female,75+ years,40,164150,24.37,Lithuania2007,NA,39738180077,12869,Silent
+Lithuania,2007,female,35-54 years,60,485943,12.35,Lithuania2007,NA,39738180077,12869,Boomers
+Lithuania,2007,female,55-74 years,46,387684,11.87,Lithuania2007,NA,39738180077,12869,Silent
+Lithuania,2007,female,25-34 years,17,212154,8.01,Lithuania2007,NA,39738180077,12869,Generation X
+Lithuania,2007,female,15-24 years,10,236177,4.23,Lithuania2007,NA,39738180077,12869,Millenials
+Lithuania,2007,female,5-14 years,4,177982,2.25,Lithuania2007,NA,39738180077,12869,Generation Z
+Lithuania,2007,male,5-14 years,4,187735,2.13,Lithuania2007,NA,39738180077,12869,Generation Z
+Luxembourg,2007,male,55-74 years,14,42200,33.18,Luxembourg2007,NA,50888134410,112581,Silent
+Luxembourg,2007,male,35-54 years,25,76346,32.75,Luxembourg2007,NA,50888134410,112581,Boomers
+Luxembourg,2007,male,25-34 years,9,33901,26.55,Luxembourg2007,NA,50888134410,112581,Generation X
+Luxembourg,2007,male,75+ years,3,11340,26.46,Luxembourg2007,NA,50888134410,112581,Silent
+Luxembourg,2007,female,55-74 years,10,43834,22.81,Luxembourg2007,NA,50888134410,112581,Silent
+Luxembourg,2007,female,35-54 years,9,74214,12.13,Luxembourg2007,NA,50888134410,112581,Boomers
+Luxembourg,2007,female,75+ years,2,20040,9.98,Luxembourg2007,NA,50888134410,112581,Silent
+Luxembourg,2007,female,15-24 years,2,27674,7.23,Luxembourg2007,NA,50888134410,112581,Millenials
+Luxembourg,2007,male,15-24 years,2,28964,6.91,Luxembourg2007,NA,50888134410,112581,Millenials
+Luxembourg,2007,female,25-34 years,2,33942,5.89,Luxembourg2007,NA,50888134410,112581,Generation X
+Luxembourg,2007,female,5-14 years,0,29088,0,Luxembourg2007,NA,50888134410,112581,Generation Z
+Luxembourg,2007,male,5-14 years,0,30469,0,Luxembourg2007,NA,50888134410,112581,Generation Z
+Maldives,2007,male,25-34 years,2,33612,5.95,Maldives2007,NA,1868383461,6115,Generation X
+Maldives,2007,female,25-34 years,1,26539,3.77,Maldives2007,NA,1868383461,6115,Generation X
+Maldives,2007,female,15-24 years,1,39138,2.56,Maldives2007,NA,1868383461,6115,Millenials
+Maldives,2007,male,15-24 years,1,48015,2.08,Maldives2007,NA,1868383461,6115,Millenials
+Maldives,2007,female,35-54 years,0,30921,0,Maldives2007,NA,1868383461,6115,Boomers
+Maldives,2007,female,5-14 years,0,31970,0,Maldives2007,NA,1868383461,6115,Generation Z
+Maldives,2007,female,55-74 years,0,10963,0,Maldives2007,NA,1868383461,6115,Silent
+Maldives,2007,female,75+ years,0,1654,0,Maldives2007,NA,1868383461,6115,Silent
+Maldives,2007,male,35-54 years,0,34278,0,Maldives2007,NA,1868383461,6115,Boomers
+Maldives,2007,male,5-14 years,0,33952,0,Maldives2007,NA,1868383461,6115,Generation Z
+Maldives,2007,male,55-74 years,0,12063,0,Maldives2007,NA,1868383461,6115,Silent
+Maldives,2007,male,75+ years,0,2431,0,Maldives2007,NA,1868383461,6115,Silent
+Malta,2007,male,35-54 years,12,56285,21.32,Malta2007,NA,7880509171,20333,Boomers
+Malta,2007,male,25-34 years,5,30315,16.49,Malta2007,NA,7880509171,20333,Generation X
+Malta,2007,male,55-74 years,5,42777,11.69,Malta2007,NA,7880509171,20333,Silent
+Malta,2007,male,75+ years,1,9256,10.8,Malta2007,NA,7880509171,20333,Silent
+Malta,2007,male,15-24 years,2,29328,6.82,Malta2007,NA,7880509171,20333,Millenials
+Malta,2007,female,75+ years,1,14886,6.72,Malta2007,NA,7880509171,20333,Silent
+Malta,2007,female,15-24 years,0,27895,0,Malta2007,NA,7880509171,20333,Millenials
+Malta,2007,female,25-34 years,0,28335,0,Malta2007,NA,7880509171,20333,Generation X
+Malta,2007,female,35-54 years,0,54855,0,Malta2007,NA,7880509171,20333,Boomers
+Malta,2007,female,5-14 years,0,22938,0,Malta2007,NA,7880509171,20333,Generation Z
+Malta,2007,female,55-74 years,0,46412,0,Malta2007,NA,7880509171,20333,Silent
+Malta,2007,male,5-14 years,0,24299,0,Malta2007,NA,7880509171,20333,Generation Z
+Mauritius,2007,male,75+ years,4,11486,34.83,Mauritius2007,NA,8150138757,7179,Silent
+Mauritius,2007,male,25-34 years,30,102202,29.35,Mauritius2007,NA,8150138757,7179,Generation X
+Mauritius,2007,male,35-54 years,38,178997,21.23,Mauritius2007,NA,8150138757,7179,Boomers
+Mauritius,2007,male,15-24 years,16,97048,16.49,Mauritius2007,NA,8150138757,7179,Millenials
+Mauritius,2007,male,55-74 years,9,71372,12.61,Mauritius2007,NA,8150138757,7179,Silent
+Mauritius,2007,female,15-24 years,11,94225,11.67,Mauritius2007,NA,8150138757,7179,Millenials
+Mauritius,2007,female,25-34 years,7,103004,6.8,Mauritius2007,NA,8150138757,7179,Generation X
+Mauritius,2007,female,35-54 years,9,179726,5.01,Mauritius2007,NA,8150138757,7179,Boomers
+Mauritius,2007,female,55-74 years,2,82534,2.42,Mauritius2007,NA,8150138757,7179,Silent
+Mauritius,2007,female,5-14 years,1,96189,1.04,Mauritius2007,NA,8150138757,7179,Generation Z
+Mauritius,2007,female,75+ years,0,19848,0,Mauritius2007,NA,8150138757,7179,Silent
+Mauritius,2007,male,5-14 years,0,98602,0,Mauritius2007,NA,8150138757,7179,Generation Z
+Mexico,2007,male,75+ years,136,1055853,12.88,Mexico2007,NA,1052696282279,10496,Silent
+Mexico,2007,male,25-34 years,943,9530655,9.89,Mexico2007,NA,1052696282279,10496,Generation X
+Mexico,2007,male,55-74 years,421,4716115,8.93,Mexico2007,NA,1052696282279,10496,Silent
+Mexico,2007,male,35-54 years,1030,11726685,8.78,Mexico2007,NA,1052696282279,10496,Boomers
+Mexico,2007,male,15-24 years,910,10761087,8.46,Mexico2007,NA,1052696282279,10496,Millenials
+Mexico,2007,female,15-24 years,272,10427676,2.61,Mexico2007,NA,1052696282279,10496,Millenials
+Mexico,2007,female,25-34 years,173,9590582,1.8,Mexico2007,NA,1052696282279,10496,Generation X
+Mexico,2007,female,35-54 years,202,12451981,1.62,Mexico2007,NA,1052696282279,10496,Boomers
+Mexico,2007,female,55-74 years,48,5064820,0.95,Mexico2007,NA,1052696282279,10496,Silent
+Mexico,2007,female,75+ years,14,1503866,0.93,Mexico2007,NA,1052696282279,10496,Silent
+Mexico,2007,male,5-14 years,83,11918904,0.7,Mexico2007,NA,1052696282279,10496,Generation Z
+Mexico,2007,female,5-14 years,53,11546073,0.46,Mexico2007,NA,1052696282279,10496,Generation Z
+Montenegro,2007,male,75+ years,15,11416,131.39,Montenegro2007,NA,3680710375,6268,Silent
+Montenegro,2007,male,55-74 years,29,52283,55.47,Montenegro2007,NA,3680710375,6268,Silent
+Montenegro,2007,female,75+ years,7,17124,40.88,Montenegro2007,NA,3680710375,6268,Silent
+Montenegro,2007,male,35-54 years,27,85387,31.62,Montenegro2007,NA,3680710375,6268,Boomers
+Montenegro,2007,male,25-34 years,12,45516,26.36,Montenegro2007,NA,3680710375,6268,Generation X
+Montenegro,2007,female,55-74 years,12,61941,19.37,Montenegro2007,NA,3680710375,6268,Silent
+Montenegro,2007,female,35-54 years,10,86182,11.6,Montenegro2007,NA,3680710375,6268,Boomers
+Montenegro,2007,male,15-24 years,5,49885,10.02,Montenegro2007,NA,3680710375,6268,Millenials
+Montenegro,2007,female,25-34 years,3,46000,6.52,Montenegro2007,NA,3680710375,6268,Generation X
+Montenegro,2007,male,5-14 years,1,43529,2.3,Montenegro2007,NA,3680710375,6268,Generation Z
+Montenegro,2007,female,15-24 years,0,47411,0,Montenegro2007,NA,3680710375,6268,Millenials
+Montenegro,2007,female,5-14 years,0,40570,0,Montenegro2007,NA,3680710375,6268,Generation Z
+Netherlands,2007,male,75+ years,76,401873,18.91,Netherlands2007,NA,839419655078,54418,Silent
+Netherlands,2007,male,35-54 years,427,2508053,17.03,Netherlands2007,NA,839419655078,54418,Boomers
+Netherlands,2007,male,55-74 years,250,1660580,15.05,Netherlands2007,NA,839419655078,54418,Silent
+Netherlands,2007,male,25-34 years,114,1018680,11.19,Netherlands2007,NA,839419655078,54418,Generation X
+Netherlands,2007,female,55-74 years,124,1703333,7.28,Netherlands2007,NA,839419655078,54418,Silent
+Netherlands,2007,male,15-24 years,72,1003453,7.18,Netherlands2007,NA,839419655078,54418,Millenials
+Netherlands,2007,female,35-54 years,171,2464793,6.94,Netherlands2007,NA,839419655078,54418,Boomers
+Netherlands,2007,female,75+ years,41,686244,5.97,Netherlands2007,NA,839419655078,54418,Silent
+Netherlands,2007,female,25-34 years,48,1017477,4.72,Netherlands2007,NA,839419655078,54418,Generation X
+Netherlands,2007,female,15-24 years,22,970052,2.27,Netherlands2007,NA,839419655078,54418,Millenials
+Netherlands,2007,male,5-14 years,5,1018393,0.49,Netherlands2007,NA,839419655078,54418,Generation Z
+Netherlands,2007,female,5-14 years,4,972473,0.41,Netherlands2007,NA,839419655078,54418,Generation Z
+New Zealand,2007,male,25-34 years,80,262570,30.47,New Zealand2007,NA,137316087308,34892,Generation X
+New Zealand,2007,male,35-54 years,150,588830,25.47,New Zealand2007,NA,137316087308,34892,Boomers
+New Zealand,2007,male,75+ years,23,99040,23.22,New Zealand2007,NA,137316087308,34892,Silent
+New Zealand,2007,male,15-24 years,70,309990,22.58,New Zealand2007,NA,137316087308,34892,Millenials
+New Zealand,2007,male,55-74 years,52,354950,14.65,New Zealand2007,NA,137316087308,34892,Silent
+New Zealand,2007,female,35-54 years,55,627060,8.77,New Zealand2007,NA,137316087308,34892,Boomers
+New Zealand,2007,female,15-24 years,23,302660,7.6,New Zealand2007,NA,137316087308,34892,Millenials
+New Zealand,2007,female,25-34 years,14,281170,4.98,New Zealand2007,NA,137316087308,34892,Generation X
+New Zealand,2007,female,75+ years,7,142060,4.93,New Zealand2007,NA,137316087308,34892,Silent
+New Zealand,2007,female,55-74 years,18,371080,4.85,New Zealand2007,NA,137316087308,34892,Silent
+New Zealand,2007,female,5-14 years,1,290770,0.34,New Zealand2007,NA,137316087308,34892,Generation Z
+New Zealand,2007,male,5-14 years,1,305270,0.33,New Zealand2007,NA,137316087308,34892,Generation Z
+Norway,2007,male,75+ years,31,135701,22.84,Norway2007,NA,401082621083,90797,Silent
+Norway,2007,male,25-34 years,60,312302,19.21,Norway2007,NA,401082621083,90797,Generation X
+Norway,2007,male,35-54 years,127,682978,18.6,Norway2007,NA,401082621083,90797,Boomers
+Norway,2007,male,55-74 years,71,443643,16,Norway2007,NA,401082621083,90797,Silent
+Norway,2007,male,15-24 years,45,303717,14.82,Norway2007,NA,401082621083,90797,Millenials
+Norway,2007,female,35-54 years,62,656105,9.45,Norway2007,NA,401082621083,90797,Boomers
+Norway,2007,female,55-74 years,39,452989,8.61,Norway2007,NA,401082621083,90797,Silent
+Norway,2007,female,25-34 years,21,305124,6.88,Norway2007,NA,401082621083,90797,Generation X
+Norway,2007,female,75+ years,13,220209,5.9,Norway2007,NA,401082621083,90797,Silent
+Norway,2007,female,15-24 years,14,289740,4.83,Norway2007,NA,401082621083,90797,Millenials
+Norway,2007,male,5-14 years,2,315302,0.63,Norway2007,NA,401082621083,90797,Generation Z
+Norway,2007,female,5-14 years,0,299559,0,Norway2007,NA,401082621083,90797,Generation Z
+Panama,2007,male,75+ years,7,40649,17.22,Panama2007,NA,21295984200,6876,Silent
+Panama,2007,male,35-54 years,63,404333,15.58,Panama2007,NA,21295984200,6876,Boomers
+Panama,2007,male,55-74 years,22,169617,12.97,Panama2007,NA,21295984200,6876,Silent
+Panama,2007,male,15-24 years,31,312490,9.92,Panama2007,NA,21295984200,6876,Millenials
+Panama,2007,male,25-34 years,27,283781,9.51,Panama2007,NA,21295984200,6876,Generation X
+Panama,2007,female,25-34 years,6,277823,2.16,Panama2007,NA,21295984200,6876,Generation X
+Panama,2007,female,35-54 years,7,406328,1.72,Panama2007,NA,21295984200,6876,Boomers
+Panama,2007,female,15-24 years,5,301555,1.66,Panama2007,NA,21295984200,6876,Millenials
+Panama,2007,female,5-14 years,2,331670,0.6,Panama2007,NA,21295984200,6876,Generation Z
+Panama,2007,female,55-74 years,1,177879,0.56,Panama2007,NA,21295984200,6876,Silent
+Panama,2007,female,75+ years,0,46968,0,Panama2007,NA,21295984200,6876,Silent
+Panama,2007,male,5-14 years,0,344045,0,Panama2007,NA,21295984200,6876,Generation Z
+Paraguay,2007,male,75+ years,9,50660,17.77,Paraguay2007,NA,13794910634,2599,Silent
+Paraguay,2007,male,25-34 years,40,452960,8.83,Paraguay2007,NA,13794910634,2599,Generation X
+Paraguay,2007,male,55-74 years,22,256849,8.57,Paraguay2007,NA,13794910634,2599,Silent
+Paraguay,2007,male,15-24 years,44,633346,6.95,Paraguay2007,NA,13794910634,2599,Millenials
+Paraguay,2007,male,35-54 years,39,591517,6.59,Paraguay2007,NA,13794910634,2599,Boomers
+Paraguay,2007,female,15-24 years,33,613122,5.38,Paraguay2007,NA,13794910634,2599,Millenials
+Paraguay,2007,female,25-34 years,14,437509,3.2,Paraguay2007,NA,13794910634,2599,Generation X
+Paraguay,2007,female,55-74 years,5,255119,1.96,Paraguay2007,NA,13794910634,2599,Silent
+Paraguay,2007,female,5-14 years,9,677311,1.33,Paraguay2007,NA,13794910634,2599,Generation Z
+Paraguay,2007,female,35-54 years,7,572154,1.22,Paraguay2007,NA,13794910634,2599,Boomers
+Paraguay,2007,male,5-14 years,5,702214,0.71,Paraguay2007,NA,13794910634,2599,Generation Z
+Paraguay,2007,female,75+ years,0,64408,0,Paraguay2007,NA,13794910634,2599,Silent
+Philippines,2007,male,75+ years,19,381376,4.98,Philippines2007,NA,149359918060,1915,Silent
+Philippines,2007,male,15-24 years,430,8891042,4.84,Philippines2007,NA,149359918060,1915,Millenials
+Philippines,2007,male,25-34 years,304,6859752,4.43,Philippines2007,NA,149359918060,1915,Generation X
+Philippines,2007,male,35-54 years,387,9192285,4.21,Philippines2007,NA,149359918060,1915,Boomers
+Philippines,2007,male,55-74 years,131,3162355,4.14,Philippines2007,NA,149359918060,1915,Silent
+Philippines,2007,female,15-24 years,158,8579154,1.84,Philippines2007,NA,149359918060,1915,Millenials
+Philippines,2007,female,25-34 years,89,6698777,1.33,Philippines2007,NA,149359918060,1915,Generation X
+Philippines,2007,female,55-74 years,43,3600369,1.19,Philippines2007,NA,149359918060,1915,Silent
+Philippines,2007,female,35-54 years,98,9184426,1.07,Philippines2007,NA,149359918060,1915,Boomers
+Philippines,2007,female,75+ years,5,616190,0.81,Philippines2007,NA,149359918060,1915,Silent
+Philippines,2007,male,5-14 years,21,10679730,0.2,Philippines2007,NA,149359918060,1915,Generation Z
+Philippines,2007,female,5-14 years,13,10163198,0.13,Philippines2007,NA,149359918060,1915,Generation Z
+Poland,2007,male,35-54 years,1865,5310215,35.12,Poland2007,NA,429063549984,11816,Boomers
+Poland,2007,male,55-74 years,1123,3198917,35.11,Poland2007,NA,429063549984,11816,Silent
+Poland,2007,male,75+ years,237,745405,31.79,Poland2007,NA,429063549984,11816,Silent
+Poland,2007,male,25-34 years,648,3053025,21.22,Poland2007,NA,429063549984,11816,Generation X
+Poland,2007,male,15-24 years,580,3053708,18.99,Poland2007,NA,429063549984,11816,Millenials
+Poland,2007,female,55-74 years,269,3977336,6.76,Poland2007,NA,429063549984,11816,Silent
+Poland,2007,female,35-54 years,304,5391795,5.64,Poland2007,NA,429063549984,11816,Boomers
+Poland,2007,female,75+ years,83,1515131,5.48,Poland2007,NA,429063549984,11816,Silent
+Poland,2007,female,15-24 years,73,2937109,2.49,Poland2007,NA,429063549984,11816,Millenials
+Poland,2007,female,25-34 years,71,2973164,2.39,Poland2007,NA,429063549984,11816,Generation X
+Poland,2007,male,5-14 years,19,2127356,0.89,Poland2007,NA,429063549984,11816,Generation Z
+Poland,2007,female,5-14 years,12,2027682,0.59,Poland2007,NA,429063549984,11816,Generation Z
+Portugal,2007,male,75+ years,202,321263,62.88,Portugal2007,NA,240169336162,24003,Silent
+Portugal,2007,male,55-74 years,245,1027686,23.84,Portugal2007,NA,240169336162,24003,Silent
+Portugal,2007,male,35-54 years,207,1460075,14.18,Portugal2007,NA,240169336162,24003,Boomers
+Portugal,2007,female,75+ years,62,525914,11.79,Portugal2007,NA,240169336162,24003,Silent
+Portugal,2007,male,25-34 years,71,786823,9.02,Portugal2007,NA,240169336162,24003,Generation X
+Portugal,2007,female,55-74 years,101,1211662,8.34,Portugal2007,NA,240169336162,24003,Silent
+Portugal,2007,female,35-54 years,75,1535559,4.88,Portugal2007,NA,240169336162,24003,Boomers
+Portugal,2007,male,15-24 years,26,623691,4.17,Portugal2007,NA,240169336162,24003,Millenials
+Portugal,2007,female,25-34 years,18,799081,2.25,Portugal2007,NA,240169336162,24003,Generation X
+Portugal,2007,female,15-24 years,11,600807,1.83,Portugal2007,NA,240169336162,24003,Millenials
+Portugal,2007,female,5-14 years,2,541722,0.37,Portugal2007,NA,240169336162,24003,Generation Z
+Portugal,2007,male,5-14 years,0,571430,0,Portugal2007,NA,240169336162,24003,Generation Z
+Puerto Rico,2007,male,35-54 years,96,448825,21.39,Puerto Rico2007,NA,89524131600,25625,Boomers
+Puerto Rico,2007,male,25-34 years,52,263585,19.73,Puerto Rico2007,NA,89524131600,25625,Generation X
+Puerto Rico,2007,male,75+ years,14,84940,16.48,Puerto Rico2007,NA,89524131600,25625,Silent
+Puerto Rico,2007,male,55-74 years,47,289540,16.23,Puerto Rico2007,NA,89524131600,25625,Silent
+Puerto Rico,2007,male,15-24 years,16,294490,5.43,Puerto Rico2007,NA,89524131600,25625,Millenials
+Puerto Rico,2007,female,55-74 years,14,351052,3.99,Puerto Rico2007,NA,89524131600,25625,Silent
+Puerto Rico,2007,female,35-54 years,15,513804,2.92,Puerto Rico2007,NA,89524131600,25625,Boomers
+Puerto Rico,2007,female,25-34 years,6,272334,2.2,Puerto Rico2007,NA,89524131600,25625,Generation X
+Puerto Rico,2007,female,15-24 years,6,289832,2.07,Puerto Rico2007,NA,89524131600,25625,Millenials
+Puerto Rico,2007,female,75+ years,2,124729,1.6,Puerto Rico2007,NA,89524131600,25625,Silent
+Puerto Rico,2007,male,5-14 years,3,288317,1.04,Puerto Rico2007,NA,89524131600,25625,Generation Z
+Puerto Rico,2007,female,5-14 years,0,272183,0,Puerto Rico2007,NA,89524131600,25625,Generation Z
+Qatar,2007,male,55-74 years,3,36856,8.14,Qatar2007,NA,79712087912,71460,Silent
+Qatar,2007,male,25-34 years,13,259649,5.01,Qatar2007,NA,79712087912,71460,Generation X
+Qatar,2007,male,35-54 years,14,301723,4.64,Qatar2007,NA,79712087912,71460,Boomers
+Qatar,2007,male,15-24 years,6,158535,3.78,Qatar2007,NA,79712087912,71460,Millenials
+Qatar,2007,female,25-34 years,2,76736,2.61,Qatar2007,NA,79712087912,71460,Generation X
+Qatar,2007,male,5-14 years,1,61319,1.63,Qatar2007,NA,79712087912,71460,Generation Z
+Qatar,2007,female,15-24 years,1,61878,1.62,Qatar2007,NA,79712087912,71460,Millenials
+Qatar,2007,female,35-54 years,1,84797,1.18,Qatar2007,NA,79712087912,71460,Boomers
+Qatar,2007,female,5-14 years,0,58979,0,Qatar2007,NA,79712087912,71460,Generation Z
+Qatar,2007,female,55-74 years,0,11898,0,Qatar2007,NA,79712087912,71460,Silent
+Qatar,2007,female,75+ years,0,1485,0,Qatar2007,NA,79712087912,71460,Silent
+Qatar,2007,male,75+ years,0,1624,0,Qatar2007,NA,79712087912,71460,Silent
+Republic of Korea,2007,male,75+ years,860,497517,172.86,Republic of Korea2007,NA,1122679154632,23982,Silent
+Republic of Korea,2007,male,55-74 years,2553,3510578,72.72,Republic of Korea2007,NA,1122679154632,23982,Silent
+Republic of Korea,2007,female,75+ years,743,1052764,70.58,Republic of Korea2007,NA,1122679154632,23982,Silent
+Republic of Korea,2007,male,35-54 years,2902,8320051,34.88,Republic of Korea2007,NA,1122679154632,23982,Boomers
+Republic of Korea,2007,female,55-74 years,984,4009684,24.54,Republic of Korea2007,NA,1122679154632,23982,Silent
+Republic of Korea,2007,male,25-34 years,997,4158963,23.97,Republic of Korea2007,NA,1122679154632,23982,Generation X
+Republic of Korea,2007,female,25-34 years,908,3988315,22.77,Republic of Korea2007,NA,1122679154632,23982,Generation X
+Republic of Korea,2007,female,35-54 years,1297,8058659,16.09,Republic of Korea2007,NA,1122679154632,23982,Boomers
+Republic of Korea,2007,female,15-24 years,467,3173279,14.72,Republic of Korea2007,NA,1122679154632,23982,Millenials
+Republic of Korea,2007,male,15-24 years,410,3478791,11.79,Republic of Korea2007,NA,1122679154632,23982,Millenials
+Republic of Korea,2007,female,5-14 years,28,3108585,0.9,Republic of Korea2007,NA,1122679154632,23982,Generation Z
+Republic of Korea,2007,male,5-14 years,25,3457021,0.72,Republic of Korea2007,NA,1122679154632,23982,Generation Z
+Romania,2007,male,55-74 years,596,1916195,31.1,Romania2007,NA,175933642292,8593,Silent
+Romania,2007,male,75+ years,138,485821,28.41,Romania2007,NA,175933642292,8593,Silent
+Romania,2007,male,35-54 years,851,3011852,28.26,Romania2007,NA,175933642292,8593,Boomers
+Romania,2007,male,25-34 years,250,1769266,14.13,Romania2007,NA,175933642292,8593,Generation X
+Romania,2007,female,75+ years,67,791656,8.46,Romania2007,NA,175933642292,8593,Silent
+Romania,2007,male,15-24 years,136,1626508,8.36,Romania2007,NA,175933642292,8593,Millenials
+Romania,2007,female,55-74 years,144,2350957,6.13,Romania2007,NA,175933642292,8593,Silent
+Romania,2007,female,35-54 years,159,3054484,5.21,Romania2007,NA,175933642292,8593,Boomers
+Romania,2007,female,25-34 years,45,1686938,2.67,Romania2007,NA,175933642292,8593,Generation X
+Romania,2007,female,15-24 years,24,1555447,1.54,Romania2007,NA,175933642292,8593,Millenials
+Romania,2007,male,5-14 years,13,1141212,1.14,Romania2007,NA,175933642292,8593,Generation Z
+Romania,2007,female,5-14 years,7,1084690,0.65,Romania2007,NA,175933642292,8593,Generation Z
+Russian Federation,2007,male,75+ years,1660,2015773,82.35,Russian Federation2007,NA,1299705247686,9643,Silent
+Russian Federation,2007,male,25-34 years,7483,10843276,69.01,Russian Federation2007,NA,1299705247686,9643,Generation X
+Russian Federation,2007,male,35-54 years,13065,20173873,64.76,Russian Federation2007,NA,1299705247686,9643,Boomers
+Russian Federation,2007,male,55-74 years,6151,10209479,60.25,Russian Federation2007,NA,1299705247686,9643,Silent
+Russian Federation,2007,male,15-24 years,5257,11862129,44.32,Russian Federation2007,NA,1299705247686,9643,Millenials
+Russian Federation,2007,female,75+ years,1358,5710937,23.78,Russian Federation2007,NA,1299705247686,9643,Silent
+Russian Federation,2007,female,55-74 years,1738,15620091,11.13,Russian Federation2007,NA,1299705247686,9643,Silent
+Russian Federation,2007,female,35-54 years,2176,22379725,9.72,Russian Federation2007,NA,1299705247686,9643,Boomers
+Russian Federation,2007,female,25-34 years,1051,10944247,9.6,Russian Federation2007,NA,1299705247686,9643,Generation X
+Russian Federation,2007,female,15-24 years,949,11502702,8.25,Russian Federation2007,NA,1299705247686,9643,Millenials
+Russian Federation,2007,male,5-14 years,192,6911384,2.78,Russian Federation2007,NA,1299705247686,9643,Generation Z
+Russian Federation,2007,female,5-14 years,69,6605348,1.04,Russian Federation2007,NA,1299705247686,9643,Generation Z
+Saint Vincent and Grenadines,2007,male,25-34 years,4,8927,44.81,Saint Vincent and Grenadines2007,NA,651833333,6539,Generation X
+Saint Vincent and Grenadines,2007,male,15-24 years,3,10403,28.84,Saint Vincent and Grenadines2007,NA,651833333,6539,Millenials
+Saint Vincent and Grenadines,2007,male,35-54 years,4,13920,28.74,Saint Vincent and Grenadines2007,NA,651833333,6539,Boomers
+Saint Vincent and Grenadines,2007,female,15-24 years,0,10243,0,Saint Vincent and Grenadines2007,NA,651833333,6539,Millenials
+Saint Vincent and Grenadines,2007,female,25-34 years,0,8564,0,Saint Vincent and Grenadines2007,NA,651833333,6539,Generation X
+Saint Vincent and Grenadines,2007,female,35-54 years,0,12889,0,Saint Vincent and Grenadines2007,NA,651833333,6539,Boomers
+Saint Vincent and Grenadines,2007,female,5-14 years,0,10307,0,Saint Vincent and Grenadines2007,NA,651833333,6539,Generation Z
+Saint Vincent and Grenadines,2007,female,55-74 years,0,5514,0,Saint Vincent and Grenadines2007,NA,651833333,6539,Silent
+Saint Vincent and Grenadines,2007,female,75+ years,0,1825,0,Saint Vincent and Grenadines2007,NA,651833333,6539,Silent
+Saint Vincent and Grenadines,2007,male,5-14 years,0,10526,0,Saint Vincent and Grenadines2007,NA,651833333,6539,Generation Z
+Saint Vincent and Grenadines,2007,male,55-74 years,0,5306,0,Saint Vincent and Grenadines2007,NA,651833333,6539,Silent
+Saint Vincent and Grenadines,2007,male,75+ years,0,1265,0,Saint Vincent and Grenadines2007,NA,651833333,6539,Silent
+Serbia,2007,male,75+ years,180,196533,91.59,Serbia2007,NA,40289556656,5748,Silent
+Serbia,2007,male,55-74 years,368,779298,47.22,Serbia2007,NA,40289556656,5748,Silent
+Serbia,2007,female,75+ years,90,305647,29.45,Serbia2007,NA,40289556656,5748,Silent
+Serbia,2007,male,35-54 years,272,1026072,26.51,Serbia2007,NA,40289556656,5748,Boomers
+Serbia,2007,female,55-74 years,169,910892,18.55,Serbia2007,NA,40289556656,5748,Silent
+Serbia,2007,male,25-34 years,88,516639,17.03,Serbia2007,NA,40289556656,5748,Generation X
+Serbia,2007,male,15-24 years,60,483634,12.41,Serbia2007,NA,40289556656,5748,Millenials
+Serbia,2007,female,35-54 years,92,1051329,8.75,Serbia2007,NA,40289556656,5748,Boomers
+Serbia,2007,female,25-34 years,22,505537,4.35,Serbia2007,NA,40289556656,5748,Generation X
+Serbia,2007,female,15-24 years,12,463240,2.59,Serbia2007,NA,40289556656,5748,Millenials
+Serbia,2007,female,5-14 years,0,375598,0,Serbia2007,NA,40289556656,5748,Generation Z
+Serbia,2007,male,5-14 years,0,395191,0,Serbia2007,NA,40289556656,5748,Generation Z
+Seychelles,2007,male,75+ years,1,1003,99.7,Seychelles2007,NA,1033561654,12554,Silent
+Seychelles,2007,male,35-54 years,3,13027,23.03,Seychelles2007,NA,1033561654,12554,Boomers
+Seychelles,2007,female,25-34 years,1,7714,12.96,Seychelles2007,NA,1033561654,12554,Generation X
+Seychelles,2007,male,25-34 years,1,8368,11.95,Seychelles2007,NA,1033561654,12554,Generation X
+Seychelles,2007,female,15-24 years,0,7216,0,Seychelles2007,NA,1033561654,12554,Millenials
+Seychelles,2007,female,35-54 years,0,12617,0,Seychelles2007,NA,1033561654,12554,Boomers
+Seychelles,2007,female,5-14 years,0,6826,0,Seychelles2007,NA,1033561654,12554,Generation Z
+Seychelles,2007,female,55-74 years,0,4383,0,Seychelles2007,NA,1033561654,12554,Silent
+Seychelles,2007,female,75+ years,0,1859,0,Seychelles2007,NA,1033561654,12554,Silent
+Seychelles,2007,male,15-24 years,0,8095,0,Seychelles2007,NA,1033561654,12554,Millenials
+Seychelles,2007,male,5-14 years,0,7246,0,Seychelles2007,NA,1033561654,12554,Generation Z
+Seychelles,2007,male,55-74 years,0,3977,0,Seychelles2007,NA,1033561654,12554,Silent
+Singapore,2007,male,75+ years,27,45000,60,Singapore2007,NA,179981288567,53098,Silent
+Singapore,2007,female,75+ years,17,68300,24.89,Singapore2007,NA,179981288567,53098,Silent
+Singapore,2007,male,55-74 years,41,267000,15.36,Singapore2007,NA,179981288567,53098,Silent
+Singapore,2007,female,55-74 years,40,281800,14.19,Singapore2007,NA,179981288567,53098,Silent
+Singapore,2007,male,35-54 years,77,609000,12.64,Singapore2007,NA,179981288567,53098,Boomers
+Singapore,2007,male,25-34 years,28,263500,10.63,Singapore2007,NA,179981288567,53098,Generation X
+Singapore,2007,male,15-24 years,24,242200,9.91,Singapore2007,NA,179981288567,53098,Millenials
+Singapore,2007,female,35-54 years,46,608800,7.56,Singapore2007,NA,179981288567,53098,Boomers
+Singapore,2007,female,25-34 years,18,285500,6.3,Singapore2007,NA,179981288567,53098,Generation X
+Singapore,2007,female,15-24 years,10,233600,4.28,Singapore2007,NA,179981288567,53098,Millenials
+Singapore,2007,female,5-14 years,0,235100,0,Singapore2007,NA,179981288567,53098,Generation Z
+Singapore,2007,male,5-14 years,0,249800,0,Singapore2007,NA,179981288567,53098,Generation Z
+Slovakia,2007,female,15-24 years,0,408500,0,Slovakia2007,NA,86304245825,16815,Millenials
+Slovakia,2007,female,25-34 years,0,450832,0,Slovakia2007,NA,86304245825,16815,Generation X
+Slovakia,2007,female,35-54 years,0,771963,0,Slovakia2007,NA,86304245825,16815,Boomers
+Slovakia,2007,female,5-14 years,0,290709,0,Slovakia2007,NA,86304245825,16815,Generation Z
+Slovakia,2007,female,55-74 years,0,540800,0,Slovakia2007,NA,86304245825,16815,Silent
+Slovakia,2007,female,75+ years,0,184796,0,Slovakia2007,NA,86304245825,16815,Silent
+Slovakia,2007,male,15-24 years,0,425847,0,Slovakia2007,NA,86304245825,16815,Millenials
+Slovakia,2007,male,25-34 years,0,468542,0,Slovakia2007,NA,86304245825,16815,Generation X
+Slovakia,2007,male,35-54 years,0,767209,0,Slovakia2007,NA,86304245825,16815,Boomers
+Slovakia,2007,male,5-14 years,0,305241,0,Slovakia2007,NA,86304245825,16815,Generation Z
+Slovakia,2007,male,55-74 years,0,426981,0,Slovakia2007,NA,86304245825,16815,Silent
+Slovakia,2007,male,75+ years,0,91240,0,Slovakia2007,NA,86304245825,16815,Silent
+Slovenia,2007,male,75+ years,45,44241,101.72,Slovenia2007,NA,48114688201,24964,Silent
+Slovenia,2007,male,55-74 years,112,199979,56.01,Slovenia2007,NA,48114688201,24964,Silent
+Slovenia,2007,male,35-54 years,121,315897,38.3,Slovenia2007,NA,48114688201,24964,Boomers
+Slovenia,2007,male,25-34 years,42,159609,26.31,Slovenia2007,NA,48114688201,24964,Generation X
+Slovenia,2007,female,75+ years,21,95826,21.91,Slovenia2007,NA,48114688201,24964,Silent
+Slovenia,2007,female,55-74 years,31,223540,13.87,Slovenia2007,NA,48114688201,24964,Silent
+Slovenia,2007,male,15-24 years,15,130849,11.46,Slovenia2007,NA,48114688201,24964,Millenials
+Slovenia,2007,female,35-54 years,32,300437,10.65,Slovenia2007,NA,48114688201,24964,Boomers
+Slovenia,2007,female,15-24 years,7,121715,5.75,Slovenia2007,NA,48114688201,24964,Millenials
+Slovenia,2007,female,25-34 years,8,146261,5.47,Slovenia2007,NA,48114688201,24964,Generation X
+Slovenia,2007,female,5-14 years,0,91679,0,Slovenia2007,NA,48114688201,24964,Generation Z
+Slovenia,2007,male,5-14 years,0,97299,0,Slovenia2007,NA,48114688201,24964,Generation Z
+South Africa,2007,male,25-34 years,86,4286162,2.01,South Africa2007,NA,299033511000,6708,Generation X
+South Africa,2007,male,35-54 years,101,5090390,1.98,South Africa2007,NA,299033511000,6708,Boomers
+South Africa,2007,male,15-24 years,92,5143929,1.79,South Africa2007,NA,299033511000,6708,Millenials
+South Africa,2007,female,75+ years,7,472676,1.48,South Africa2007,NA,299033511000,6708,Silent
+South Africa,2007,male,55-74 years,25,1905779,1.31,South Africa2007,NA,299033511000,6708,Silent
+South Africa,2007,male,75+ years,3,239229,1.25,South Africa2007,NA,299033511000,6708,Silent
+South Africa,2007,female,15-24 years,38,5065647,0.75,South Africa2007,NA,299033511000,6708,Millenials
+South Africa,2007,female,35-54 years,28,5558737,0.5,South Africa2007,NA,299033511000,6708,Boomers
+South Africa,2007,female,55-74 years,11,2411075,0.46,South Africa2007,NA,299033511000,6708,Silent
+South Africa,2007,female,25-34 years,18,4186842,0.43,South Africa2007,NA,299033511000,6708,Generation X
+South Africa,2007,male,5-14 years,6,5142720,0.12,South Africa2007,NA,299033511000,6708,Generation Z
+South Africa,2007,female,5-14 years,2,5074249,0.04,South Africa2007,NA,299033511000,6708,Generation Z
+Spain,2007,male,75+ years,536,1424885,37.62,Spain2007,NA,1479341637011,34769,Silent
+Spain,2007,male,55-74 years,633,4065846,15.57,Spain2007,NA,1479341637011,34769,Silent
+Spain,2007,male,35-54 years,841,6733333,12.49,Spain2007,NA,1479341637011,34769,Boomers
+Spain,2007,male,25-34 years,332,3962434,8.38,Spain2007,NA,1479341637011,34769,Generation X
+Spain,2007,female,75+ years,146,2265062,6.45,Spain2007,NA,1479341637011,34769,Silent
+Spain,2007,female,55-74 years,248,4502070,5.51,Spain2007,NA,1479341637011,34769,Silent
+Spain,2007,male,15-24 years,114,2609810,4.37,Spain2007,NA,1479341637011,34769,Millenials
+Spain,2007,female,35-54 years,275,6607654,4.16,Spain2007,NA,1479341637011,34769,Boomers
+Spain,2007,female,25-34 years,97,3690155,2.63,Spain2007,NA,1479341637011,34769,Generation X
+Spain,2007,female,15-24 years,30,2477304,1.21,Spain2007,NA,1479341637011,34769,Millenials
+Spain,2007,male,5-14 years,7,2161485,0.32,Spain2007,NA,1479341637011,34769,Generation Z
+Spain,2007,female,5-14 years,5,2047289,0.24,Spain2007,NA,1479341637011,34769,Generation Z
+Suriname,2007,male,75+ years,3,4718,63.59,Suriname2007,NA,2936612022,6397,Silent
+Suriname,2007,male,25-34 years,24,39222,61.19,Suriname2007,NA,2936612022,6397,Generation X
+Suriname,2007,male,35-54 years,35,63837,54.83,Suriname2007,NA,2936612022,6397,Boomers
+Suriname,2007,male,55-74 years,10,23599,42.37,Suriname2007,NA,2936612022,6397,Silent
+Suriname,2007,female,75+ years,2,6107,32.75,Suriname2007,NA,2936612022,6397,Silent
+Suriname,2007,male,15-24 years,12,46375,25.88,Suriname2007,NA,2936612022,6397,Millenials
+Suriname,2007,female,15-24 years,10,44452,22.5,Suriname2007,NA,2936612022,6397,Millenials
+Suriname,2007,female,25-34 years,6,38545,15.57,Suriname2007,NA,2936612022,6397,Generation X
+Suriname,2007,female,55-74 years,4,27614,14.49,Suriname2007,NA,2936612022,6397,Silent
+Suriname,2007,female,35-54 years,7,62270,11.24,Suriname2007,NA,2936612022,6397,Boomers
+Suriname,2007,female,5-14 years,3,49661,6.04,Suriname2007,NA,2936612022,6397,Generation Z
+Suriname,2007,male,5-14 years,3,52686,5.69,Suriname2007,NA,2936612022,6397,Generation Z
+Sweden,2007,male,75+ years,102,314248,32.46,Sweden2007,NA,487816328342,56531,Silent
+Sweden,2007,male,35-54 years,298,1251142,23.82,Sweden2007,NA,487816328342,56531,Boomers
+Sweden,2007,male,55-74 years,224,995361,22.5,Sweden2007,NA,487816328342,56531,Silent
+Sweden,2007,male,25-34 years,103,585980,17.58,Sweden2007,NA,487816328342,56531,Generation X
+Sweden,2007,male,15-24 years,69,604397,11.42,Sweden2007,NA,487816328342,56531,Millenials
+Sweden,2007,female,35-54 years,129,1210389,10.66,Sweden2007,NA,487816328342,56531,Boomers
+Sweden,2007,female,55-74 years,97,1018811,9.52,Sweden2007,NA,487816328342,56531,Silent
+Sweden,2007,female,75+ years,34,485845,7,Sweden2007,NA,487816328342,56531,Silent
+Sweden,2007,female,15-24 years,35,573531,6.1,Sweden2007,NA,487816328342,56531,Millenials
+Sweden,2007,female,25-34 years,28,562738,4.98,Sweden2007,NA,487816328342,56531,Generation X
+Sweden,2007,male,5-14 years,5,526368,0.95,Sweden2007,NA,487816328342,56531,Generation Z
+Sweden,2007,female,5-14 years,2,500349,0.4,Sweden2007,NA,487816328342,56531,Generation Z
+Switzerland,2007,male,75+ years,191,220706,86.54,Switzerland2007,NA,479913034322,66807,Silent
+Switzerland,2007,male,55-74 years,275,751082,36.61,Switzerland2007,NA,479913034322,66807,Silent
+Switzerland,2007,female,75+ years,122,373618,32.65,Switzerland2007,NA,479913034322,66807,Silent
+Switzerland,2007,male,35-54 years,297,1173821,25.3,Switzerland2007,NA,479913034322,66807,Boomers
+Switzerland,2007,female,55-74 years,138,802392,17.2,Switzerland2007,NA,479913034322,66807,Silent
+Switzerland,2007,male,25-34 years,80,493019,16.23,Switzerland2007,NA,479913034322,66807,Generation X
+Switzerland,2007,male,15-24 years,74,457991,16.16,Switzerland2007,NA,479913034322,66807,Millenials
+Switzerland,2007,female,35-54 years,111,1159958,9.57,Switzerland2007,NA,479913034322,66807,Boomers
+Switzerland,2007,female,15-24 years,36,441640,8.15,Switzerland2007,NA,479913034322,66807,Millenials
+Switzerland,2007,female,25-34 years,32,497366,6.43,Switzerland2007,NA,479913034322,66807,Generation X
+Switzerland,2007,male,5-14 years,3,417683,0.72,Switzerland2007,NA,479913034322,66807,Generation Z
+Switzerland,2007,female,5-14 years,1,394319,0.25,Switzerland2007,NA,479913034322,66807,Generation Z
+Thailand,2007,male,75+ years,104,708031,14.69,Thailand2007,NA,262942650544,4461,Silent
+Thailand,2007,male,25-34 years,798,5444545,14.66,Thailand2007,NA,262942650544,4461,Generation X
+Thailand,2007,male,55-74 years,470,3718870,12.64,Thailand2007,NA,262942650544,4461,Silent
+Thailand,2007,male,35-54 years,1149,9422822,12.19,Thailand2007,NA,262942650544,4461,Boomers
+Thailand,2007,male,15-24 years,406,4948804,8.2,Thailand2007,NA,262942650544,4461,Millenials
+Thailand,2007,female,75+ years,43,1017629,4.23,Thailand2007,NA,262942650544,4461,Silent
+Thailand,2007,female,55-74 years,155,4278519,3.62,Thailand2007,NA,262942650544,4461,Silent
+Thailand,2007,female,35-54 years,356,9981463,3.57,Thailand2007,NA,262942650544,4461,Boomers
+Thailand,2007,female,25-34 years,159,5419991,2.93,Thailand2007,NA,262942650544,4461,Generation X
+Thailand,2007,female,15-24 years,89,4762664,1.87,Thailand2007,NA,262942650544,4461,Millenials
+Thailand,2007,male,5-14 years,16,4752235,0.34,Thailand2007,NA,262942650544,4461,Generation Z
+Thailand,2007,female,5-14 years,9,4486048,0.2,Thailand2007,NA,262942650544,4461,Generation Z
+Trinidad and Tobago,2007,male,75+ years,5,13874,36.04,Trinidad and Tobago2007,NA,21642304046,17827,Silent
+Trinidad and Tobago,2007,male,25-34 years,38,107378,35.39,Trinidad and Tobago2007,NA,21642304046,17827,Generation X
+Trinidad and Tobago,2007,male,35-54 years,34,177478,19.16,Trinidad and Tobago2007,NA,21642304046,17827,Boomers
+Trinidad and Tobago,2007,male,55-74 years,14,83938,16.68,Trinidad and Tobago2007,NA,21642304046,17827,Silent
+Trinidad and Tobago,2007,male,15-24 years,20,125516,15.93,Trinidad and Tobago2007,NA,21642304046,17827,Millenials
+Trinidad and Tobago,2007,female,25-34 years,6,106809,5.62,Trinidad and Tobago2007,NA,21642304046,17827,Generation X
+Trinidad and Tobago,2007,female,75+ years,1,22983,4.35,Trinidad and Tobago2007,NA,21642304046,17827,Silent
+Trinidad and Tobago,2007,female,55-74 years,3,92001,3.26,Trinidad and Tobago2007,NA,21642304046,17827,Silent
+Trinidad and Tobago,2007,female,15-24 years,4,123176,3.25,Trinidad and Tobago2007,NA,21642304046,17827,Millenials
+Trinidad and Tobago,2007,female,35-54 years,5,179070,2.79,Trinidad and Tobago2007,NA,21642304046,17827,Boomers
+Trinidad and Tobago,2007,female,5-14 years,1,89716,1.11,Trinidad and Tobago2007,NA,21642304046,17827,Generation Z
+Trinidad and Tobago,2007,male,5-14 years,0,92049,0,Trinidad and Tobago2007,NA,21642304046,17827,Generation Z
+Turkmenistan,2007,male,25-34 years,77,389981,19.74,Turkmenistan2007,NA,12664165103,2916,Generation X
+Turkmenistan,2007,male,35-54 years,92,520854,17.66,Turkmenistan2007,NA,12664165103,2916,Boomers
+Turkmenistan,2007,male,55-74 years,23,157465,14.61,Turkmenistan2007,NA,12664165103,2916,Silent
+Turkmenistan,2007,male,15-24 years,67,530314,12.63,Turkmenistan2007,NA,12664165103,2916,Millenials
+Turkmenistan,2007,male,75+ years,2,27254,7.34,Turkmenistan2007,NA,12664165103,2916,Silent
+Turkmenistan,2007,female,15-24 years,37,526222,7.03,Turkmenistan2007,NA,12664165103,2916,Millenials
+Turkmenistan,2007,female,25-34 years,18,393748,4.57,Turkmenistan2007,NA,12664165103,2916,Generation X
+Turkmenistan,2007,female,75+ years,2,50546,3.96,Turkmenistan2007,NA,12664165103,2916,Silent
+Turkmenistan,2007,female,55-74 years,7,187318,3.74,Turkmenistan2007,NA,12664165103,2916,Silent
+Turkmenistan,2007,female,35-54 years,17,565599,3.01,Turkmenistan2007,NA,12664165103,2916,Boomers
+Turkmenistan,2007,male,5-14 years,8,502373,1.59,Turkmenistan2007,NA,12664165103,2916,Generation Z
+Turkmenistan,2007,female,5-14 years,4,490983,0.81,Turkmenistan2007,NA,12664165103,2916,Generation Z
+Ukraine,2007,male,75+ years,517,830015,62.29,Ukraine2007,NA,142719009901,3229,Silent
+Ukraine,2007,male,35-54 years,3392,6292640,53.9,Ukraine2007,NA,142719009901,3229,Boomers
+Ukraine,2007,male,55-74 years,1922,3792721,50.68,Ukraine2007,NA,142719009901,3229,Silent
+Ukraine,2007,male,25-34 years,1546,3414696,45.27,Ukraine2007,NA,142719009901,3229,Generation X
+Ukraine,2007,male,15-24 years,987,3673201,26.87,Ukraine2007,NA,142719009901,3229,Millenials
+Ukraine,2007,female,75+ years,325,2125683,15.29,Ukraine2007,NA,142719009901,3229,Silent
+Ukraine,2007,female,55-74 years,483,5668759,8.52,Ukraine2007,NA,142719009901,3229,Silent
+Ukraine,2007,female,35-54 years,500,7060722,7.08,Ukraine2007,NA,142719009901,3229,Boomers
+Ukraine,2007,female,25-34 years,181,3405078,5.32,Ukraine2007,NA,142719009901,3229,Generation X
+Ukraine,2007,female,15-24 years,129,3511720,3.67,Ukraine2007,NA,142719009901,3229,Millenials
+Ukraine,2007,male,5-14 years,39,2268187,1.72,Ukraine2007,NA,142719009901,3229,Generation Z
+Ukraine,2007,female,5-14 years,11,2155250,0.51,Ukraine2007,NA,142719009901,3229,Generation Z
+United Arab Emirates,2007,female,55-74 years,2,43719,4.57,United Arab Emirates2007,NA,257916133424,45285,Silent
+United Arab Emirates,2007,male,15-24 years,18,710296,2.53,United Arab Emirates2007,NA,257916133424,45285,Millenials
+United Arab Emirates,2007,male,35-54 years,35,1481890,2.36,United Arab Emirates2007,NA,257916133424,45285,Boomers
+United Arab Emirates,2007,male,25-34 years,33,1586738,2.08,United Arab Emirates2007,NA,257916133424,45285,Generation X
+United Arab Emirates,2007,male,55-74 years,2,128386,1.56,United Arab Emirates2007,NA,257916133424,45285,Silent
+United Arab Emirates,2007,female,15-24 years,4,350408,1.14,United Arab Emirates2007,NA,257916133424,45285,Millenials
+United Arab Emirates,2007,female,25-34 years,4,431502,0.93,United Arab Emirates2007,NA,257916133424,45285,Generation X
+United Arab Emirates,2007,female,35-54 years,3,365164,0.82,United Arab Emirates2007,NA,257916133424,45285,Boomers
+United Arab Emirates,2007,female,5-14 years,0,284824,0,United Arab Emirates2007,NA,257916133424,45285,Generation Z
+United Arab Emirates,2007,female,75+ years,0,5982,0,United Arab Emirates2007,NA,257916133424,45285,Silent
+United Arab Emirates,2007,male,5-14 years,0,297991,0,United Arab Emirates2007,NA,257916133424,45285,Generation Z
+United Arab Emirates,2007,male,75+ years,0,8489,0,United Arab Emirates2007,NA,257916133424,45285,Silent
+United Kingdom,2007,male,35-54 years,1332,8519029,15.64,United Kingdom2007,NA,3074359743898,53576,Boomers
+United Kingdom,2007,male,25-34 years,547,3935970,13.9,United Kingdom2007,NA,3074359743898,53576,Generation X
+United Kingdom,2007,male,75+ years,214,1834466,11.67,United Kingdom2007,NA,3074359743898,53576,Silent
+United Kingdom,2007,male,55-74 years,613,5943853,10.31,United Kingdom2007,NA,3074359743898,53576,Silent
+United Kingdom,2007,male,15-24 years,309,4193170,7.37,United Kingdom2007,NA,3074359743898,53576,Millenials
+United Kingdom,2007,female,35-54 years,354,8709169,4.06,United Kingdom2007,NA,3074359743898,53576,Boomers
+United Kingdom,2007,female,55-74 years,230,6345128,3.62,United Kingdom2007,NA,3074359743898,53576,Silent
+United Kingdom,2007,female,25-34 years,132,3923507,3.36,United Kingdom2007,NA,3074359743898,53576,Generation X
+United Kingdom,2007,female,75+ years,82,2886921,2.84,United Kingdom2007,NA,3074359743898,53576,Silent
+United Kingdom,2007,female,15-24 years,70,3963103,1.77,United Kingdom2007,NA,3074359743898,53576,Millenials
+United Kingdom,2007,male,5-14 years,10,3648686,0.27,United Kingdom2007,NA,3074359743898,53576,Generation Z
+United Kingdom,2007,female,5-14 years,4,3479755,0.11,United Kingdom2007,NA,3074359743898,53576,Generation Z
+United States,2007,male,75+ years,2566,7056824,36.36,United States2007,NA,14477635000000,51585,Silent
+United States,2007,male,35-54 years,10978,42992076,25.53,United States2007,NA,14477635000000,51585,Boomers
+United States,2007,male,55-74 years,5830,24661084,23.64,United States2007,NA,14477635000000,51585,Silent
+United States,2007,male,25-34 years,4281,20531378,20.85,United States2007,NA,14477635000000,51585,Generation X
+United States,2007,male,15-24 years,3481,22014323,15.81,United States2007,NA,14477635000000,51585,Millenials
+United States,2007,female,35-54 years,3525,43607902,8.08,United States2007,NA,14477635000000,51585,Boomers
+United States,2007,female,55-74 years,1684,27395858,6.15,United States2007,NA,14477635000000,51585,Silent
+United States,2007,female,25-34 years,997,19839678,5.03,United States2007,NA,14477635000000,51585,Generation X
+United States,2007,female,75+ years,411,11421017,3.6,United States2007,NA,14477635000000,51585,Silent
+United States,2007,female,15-24 years,659,20765167,3.17,United States2007,NA,14477635000000,51585,Millenials
+United States,2007,male,5-14 years,131,20659096,0.63,United States2007,NA,14477635000000,51585,Generation Z
+United States,2007,female,5-14 years,53,19714203,0.27,United States2007,NA,14477635000000,51585,Generation Z
+Uruguay,2007,male,75+ years,64,74790,85.57,Uruguay2007,NA,23410572634,7581,Silent
+Uruguay,2007,male,55-74 years,114,248953,45.79,Uruguay2007,NA,23410572634,7581,Silent
+Uruguay,2007,male,35-54 years,128,393092,32.56,Uruguay2007,NA,23410572634,7581,Boomers
+Uruguay,2007,male,25-34 years,66,242488,27.22,Uruguay2007,NA,23410572634,7581,Generation X
+Uruguay,2007,male,15-24 years,63,254712,24.73,Uruguay2007,NA,23410572634,7581,Millenials
+Uruguay,2007,female,55-74 years,40,303537,13.18,Uruguay2007,NA,23410572634,7581,Silent
+Uruguay,2007,female,35-54 years,48,416393,11.53,Uruguay2007,NA,23410572634,7581,Boomers
+Uruguay,2007,female,75+ years,14,140384,9.97,Uruguay2007,NA,23410572634,7581,Silent
+Uruguay,2007,female,15-24 years,19,246721,7.7,Uruguay2007,NA,23410572634,7581,Millenials
+Uruguay,2007,female,25-34 years,14,240694,5.82,Uruguay2007,NA,23410572634,7581,Generation X
+Uruguay,2007,male,5-14 years,6,268262,2.24,Uruguay2007,NA,23410572634,7581,Generation Z
+Uruguay,2007,female,5-14 years,0,257931,0,Uruguay2007,NA,23410572634,7581,Generation Z

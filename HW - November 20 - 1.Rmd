@@ -1,6 +1,8 @@
 ---
 title: "HW - November 20"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 date: "2022-11-14"
 ---
 

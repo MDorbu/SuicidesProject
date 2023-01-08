@@ -1,0 +1,937 @@
+country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year,gdp_for_year ($),gdp_per_capita ($),generation
+Antigua and Barbuda,2014,female,15-24 years,0,8537,0,Antigua and Barbuda2014,0.783,1280133333,14093,Millenials
+Antigua and Barbuda,2014,female,25-34 years,0,7578,0,Antigua and Barbuda2014,0.783,1280133333,14093,Millenials
+Antigua and Barbuda,2014,female,35-54 years,0,15273,0,Antigua and Barbuda2014,0.783,1280133333,14093,Generation X
+Antigua and Barbuda,2014,female,5-14 years,0,8296,0,Antigua and Barbuda2014,0.783,1280133333,14093,Generation Z
+Antigua and Barbuda,2014,female,55-74 years,0,6085,0,Antigua and Barbuda2014,0.783,1280133333,14093,Boomers
+Antigua and Barbuda,2014,female,75+ years,0,1686,0,Antigua and Barbuda2014,0.783,1280133333,14093,Silent
+Antigua and Barbuda,2014,male,15-24 years,0,8208,0,Antigua and Barbuda2014,0.783,1280133333,14093,Millenials
+Antigua and Barbuda,2014,male,25-34 years,0,6928,0,Antigua and Barbuda2014,0.783,1280133333,14093,Millenials
+Antigua and Barbuda,2014,male,35-54 years,0,13325,0,Antigua and Barbuda2014,0.783,1280133333,14093,Generation X
+Antigua and Barbuda,2014,male,5-14 years,0,8335,0,Antigua and Barbuda2014,0.783,1280133333,14093,Generation Z
+Antigua and Barbuda,2014,male,55-74 years,0,5503,0,Antigua and Barbuda2014,0.783,1280133333,14093,Boomers
+Antigua and Barbuda,2014,male,75+ years,0,1083,0,Antigua and Barbuda2014,0.783,1280133333,14093,Silent
+Argentina,2014,male,75+ years,192,706897,27.16,Argentina2014,0.836,526319673732,13400,Silent
+Argentina,2014,male,15-24 years,738,3492454,21.13,Argentina2014,0.836,526319673732,13400,Millenials
+Argentina,2014,male,25-34 years,531,3276955,16.2,Argentina2014,0.836,526319673732,13400,Millenials
+Argentina,2014,male,55-74 years,405,2951616,13.72,Argentina2014,0.836,526319673732,13400,Boomers
+Argentina,2014,male,35-54 years,644,5060862,12.73,Argentina2014,0.836,526319673732,13400,Generation X
+Argentina,2014,female,15-24 years,204,3388324,6.02,Argentina2014,0.836,526319673732,13400,Millenials
+Argentina,2014,female,35-54 years,196,5203634,3.77,Argentina2014,0.836,526319673732,13400,Generation X
+Argentina,2014,female,25-34 years,118,3227239,3.66,Argentina2014,0.836,526319673732,13400,Millenials
+Argentina,2014,female,55-74 years,109,3454994,3.15,Argentina2014,0.836,526319673732,13400,Boomers
+Argentina,2014,female,75+ years,25,1323654,1.89,Argentina2014,0.836,526319673732,13400,Silent
+Argentina,2014,female,5-14 years,35,3533961,0.99,Argentina2014,0.836,526319673732,13400,Generation Z
+Argentina,2014,male,5-14 years,34,3655965,0.93,Argentina2014,0.836,526319673732,13400,Generation Z
+Armenia,2014,male,75+ years,9,60108,14.97,Armenia2014,0.733,11609512940,4142,Silent
+Armenia,2014,female,75+ years,6,98118,6.12,Armenia2014,0.733,11609512940,4142,Silent
+Armenia,2014,male,55-74 years,12,224430,5.35,Armenia2014,0.733,11609512940,4142,Boomers
+Armenia,2014,male,35-54 years,13,363362,3.58,Armenia2014,0.733,11609512940,4142,Generation X
+Armenia,2014,male,25-34 years,6,253461,2.37,Armenia2014,0.733,11609512940,4142,Millenials
+Armenia,2014,female,55-74 years,4,288822,1.38,Armenia2014,0.733,11609512940,4142,Boomers
+Armenia,2014,male,15-24 years,3,230760,1.3,Armenia2014,0.733,11609512940,4142,Millenials
+Armenia,2014,female,15-24 years,2,227895,0.88,Armenia2014,0.733,11609512940,4142,Millenials
+Armenia,2014,female,5-14 years,1,171332,0.58,Armenia2014,0.733,11609512940,4142,Generation Z
+Armenia,2014,female,35-54 years,2,417829,0.48,Armenia2014,0.733,11609512940,4142,Generation X
+Armenia,2014,female,25-34 years,0,269937,0,Armenia2014,0.733,11609512940,4142,Millenials
+Armenia,2014,male,5-14 years,0,196975,0,Armenia2014,0.733,11609512940,4142,Generation Z
+Australia,2014,male,35-54 years,866,3130341,27.66,Australia2014,0.935,1464955475994,66809,Generation X
+Australia,2014,male,75+ years,164,649925,25.23,Australia2014,0.935,1464955475994,66809,Silent
+Australia,2014,male,25-34 years,404,1730968,23.34,Australia2014,0.935,1464955475994,66809,Millenials
+Australia,2014,male,55-74 years,471,2279114,20.67,Australia2014,0.935,1464955475994,66809,Boomers
+Australia,2014,male,15-24 years,271,1604935,16.89,Australia2014,0.935,1464955475994,66809,Millenials
+Australia,2014,female,35-54 years,277,3189475,8.68,Australia2014,0.935,1464955475994,66809,Generation X
+Australia,2014,female,25-34 years,119,1716803,6.93,Australia2014,0.935,1464955475994,66809,Millenials
+Australia,2014,female,55-74 years,157,2344644,6.7,Australia2014,0.935,1464955475994,66809,Boomers
+Australia,2014,female,15-24 years,96,1520955,6.31,Australia2014,0.935,1464955475994,66809,Millenials
+Australia,2014,female,75+ years,45,865915,5.2,Australia2014,0.935,1464955475994,66809,Silent
+Australia,2014,female,5-14 years,15,1408758,1.06,Australia2014,0.935,1464955475994,66809,Generation Z
+Australia,2014,male,5-14 years,6,1485754,0.4,Australia2014,0.935,1464955475994,66809,Generation Z
+Austria,2014,male,75+ years,206,269625,76.4,Austria2014,0.885,441885415806,54278,Silent
+Austria,2014,male,55-74 years,282,906857,31.1,Austria2014,0.885,441885415806,54278,Boomers
+Austria,2014,male,35-54 years,321,1280204,25.07,Austria2014,0.885,441885415806,54278,Generation X
+Austria,2014,female,75+ years,77,442472,17.4,Austria2014,0.885,441885415806,54278,Silent
+Austria,2014,male,25-34 years,100,576126,17.36,Austria2014,0.885,441885415806,54278,Millenials
+Austria,2014,male,15-24 years,79,516580,15.29,Austria2014,0.885,441885415806,54278,Millenials
+Austria,2014,female,55-74 years,108,993973,10.87,Austria2014,0.885,441885415806,54278,Boomers
+Austria,2014,female,35-54 years,93,1276047,7.29,Austria2014,0.885,441885415806,54278,Generation X
+Austria,2014,female,25-34 years,29,566622,5.12,Austria2014,0.885,441885415806,54278,Millenials
+Austria,2014,female,15-24 years,17,493605,3.44,Austria2014,0.885,441885415806,54278,Millenials
+Austria,2014,male,5-14 years,2,419646,0.48,Austria2014,0.885,441885415806,54278,Generation Z
+Austria,2014,female,5-14 years,0,399408,0,Austria2014,0.885,441885415806,54278,Generation Z
+Bahrain,2014,male,15-24 years,4,100635,3.97,Bahrain2014,0.824,33387712766,27503,Millenials
+Bahrain,2014,male,25-34 years,3,237952,1.26,Bahrain2014,0.824,33387712766,27503,Millenials
+Bahrain,2014,female,25-34 years,1,110838,0.9,Bahrain2014,0.824,33387712766,27503,Millenials
+Bahrain,2014,male,35-54 years,1,258922,0.39,Bahrain2014,0.824,33387712766,27503,Generation X
+Bahrain,2014,female,15-24 years,0,78926,0,Bahrain2014,0.824,33387712766,27503,Millenials
+Bahrain,2014,female,35-54 years,0,139103,0,Bahrain2014,0.824,33387712766,27503,Generation X
+Bahrain,2014,female,5-14 years,0,82452,0,Bahrain2014,0.824,33387712766,27503,Generation Z
+Bahrain,2014,female,55-74 years,0,41406,0,Bahrain2014,0.824,33387712766,27503,Boomers
+Bahrain,2014,female,75+ years,0,6154,0,Bahrain2014,0.824,33387712766,27503,Silent
+Bahrain,2014,male,5-14 years,0,86539,0,Bahrain2014,0.824,33387712766,27503,Generation Z
+Bahrain,2014,male,55-74 years,0,64351,0,Bahrain2014,0.824,33387712766,27503,Boomers
+Bahrain,2014,male,75+ years,0,6688,0,Bahrain2014,0.824,33387712766,27503,Silent
+Belarus,2014,male,75+ years,125,172445,72.49,Belarus2014,0.798,78813839984,8849,Silent
+Belarus,2014,male,35-54 years,572,1305009,43.83,Belarus2014,0.798,78813839984,8849,Generation X
+Belarus,2014,male,55-74 years,341,807337,42.24,Belarus2014,0.798,78813839984,8849,Boomers
+Belarus,2014,male,25-34 years,297,768569,38.64,Belarus2014,0.798,78813839984,8849,Millenials
+Belarus,2014,male,15-24 years,128,578690,22.12,Belarus2014,0.798,78813839984,8849,Millenials
+Belarus,2014,female,75+ years,53,475110,11.16,Belarus2014,0.798,78813839984,8849,Silent
+Belarus,2014,female,35-54 years,93,1421531,6.54,Belarus2014,0.798,78813839984,8849,Generation X
+Belarus,2014,female,55-74 years,68,1149649,5.91,Belarus2014,0.798,78813839984,8849,Boomers
+Belarus,2014,female,25-34 years,41,745490,5.5,Belarus2014,0.798,78813839984,8849,Millenials
+Belarus,2014,female,15-24 years,15,546952,2.74,Belarus2014,0.798,78813839984,8849,Millenials
+Belarus,2014,female,5-14 years,6,455300,1.32,Belarus2014,0.798,78813839984,8849,Generation Z
+Belarus,2014,male,5-14 years,2,480895,0.42,Belarus2014,0.798,78813839984,8849,Generation Z
+Belgium,2014,male,75+ years,187,387814,48.22,Belgium2014,0.89,530770977634,50173,Silent
+Belgium,2014,male,35-54 years,531,1576060,33.69,Belgium2014,0.89,530770977634,50173,Generation X
+Belgium,2014,male,55-74 years,363,1176768,30.85,Belgium2014,0.89,530770977634,50173,Boomers
+Belgium,2014,male,25-34 years,168,728759,23.05,Belgium2014,0.89,530770977634,50173,Millenials
+Belgium,2014,female,35-54 years,231,1540001,15,Belgium2014,0.89,530770977634,50173,Generation X
+Belgium,2014,female,55-74 years,177,1240549,14.27,Belgium2014,0.89,530770977634,50173,Boomers
+Belgium,2014,female,75+ years,83,614412,13.51,Belgium2014,0.89,530770977634,50173,Silent
+Belgium,2014,male,15-24 years,85,675446,12.58,Belgium2014,0.89,530770977634,50173,Millenials
+Belgium,2014,female,25-34 years,43,724681,5.93,Belgium2014,0.89,530770977634,50173,Millenials
+Belgium,2014,female,15-24 years,27,653625,4.13,Belgium2014,0.89,530770977634,50173,Millenials
+Belgium,2014,male,5-14 years,4,644794,0.62,Belgium2014,0.89,530770977634,50173,Generation Z
+Belgium,2014,female,5-14 years,0,615939,0,Belgium2014,0.89,530770977634,50173,Generation Z
+Belize,2014,male,55-74 years,4,13350,29.96,Belize2014,0.715,1703951050,5448,Boomers
+Belize,2014,male,25-34 years,7,27885,25.1,Belize2014,0.715,1703951050,5448,Millenials
+Belize,2014,male,35-54 years,5,36808,13.58,Belize2014,0.715,1703951050,5448,Generation X
+Belize,2014,male,15-24 years,2,36197,5.53,Belize2014,0.715,1703951050,5448,Millenials
+Belize,2014,female,15-24 years,2,36364,5.5,Belize2014,0.715,1703951050,5448,Millenials
+Belize,2014,female,5-14 years,2,38337,5.22,Belize2014,0.715,1703951050,5448,Generation Z
+Belize,2014,female,25-34 years,1,29287,3.41,Belize2014,0.715,1703951050,5448,Millenials
+Belize,2014,female,35-54 years,1,37789,2.65,Belize2014,0.715,1703951050,5448,Generation X
+Belize,2014,female,55-74 years,0,12866,0,Belize2014,0.715,1703951050,5448,Boomers
+Belize,2014,female,75+ years,0,2447,0,Belize2014,0.715,1703951050,5448,Silent
+Belize,2014,male,5-14 years,0,39137,0,Belize2014,0.715,1703951050,5448,Generation Z
+Belize,2014,male,75+ years,0,2313,0,Belize2014,0.715,1703951050,5448,Silent
+Bosnia and Herzegovina,2014,male,75+ years,37,96222,38.45,Bosnia and Herzegovina2014,0.733,18558343508,5079,Silent
+Bosnia and Herzegovina,2014,male,55-74 years,84,401567,20.92,Bosnia and Herzegovina2014,0.733,18558343508,5079,Boomers
+Bosnia and Herzegovina,2014,male,35-54 years,96,534512,17.96,Bosnia and Herzegovina2014,0.733,18558343508,5079,Generation X
+Bosnia and Herzegovina,2014,female,75+ years,14,141795,9.87,Bosnia and Herzegovina2014,0.733,18558343508,5079,Silent
+Bosnia and Herzegovina,2014,male,25-34 years,19,252546,7.52,Bosnia and Herzegovina2014,0.733,18558343508,5079,Millenials
+Bosnia and Herzegovina,2014,female,35-54 years,28,554379,5.05,Bosnia and Herzegovina2014,0.733,18558343508,5079,Generation X
+Bosnia and Herzegovina,2014,female,55-74 years,23,458353,5.02,Bosnia and Herzegovina2014,0.733,18558343508,5079,Boomers
+Bosnia and Herzegovina,2014,male,15-24 years,6,274269,2.19,Bosnia and Herzegovina2014,0.733,18558343508,5079,Millenials
+Bosnia and Herzegovina,2014,female,25-34 years,3,234219,1.28,Bosnia and Herzegovina2014,0.733,18558343508,5079,Millenials
+Bosnia and Herzegovina,2014,female,15-24 years,2,250924,0.8,Bosnia and Herzegovina2014,0.733,18558343508,5079,Millenials
+Bosnia and Herzegovina,2014,male,5-14 years,1,227491,0.44,Bosnia and Herzegovina2014,0.733,18558343508,5079,Generation Z
+Bosnia and Herzegovina,2014,female,5-14 years,0,227892,0,Bosnia and Herzegovina2014,0.733,18558343508,5079,Generation Z
+Brazil,2014,male,75+ years,390,2349303,16.6,Brazil2014,0.755,2455993625159,12975,Silent
+Brazil,2014,male,55-74 years,1534,12492114,12.28,Brazil2014,0.755,2455993625159,12975,Boomers
+Brazil,2014,male,35-54 years,3050,26475231,11.52,Brazil2014,0.755,2455993625159,12975,Generation X
+Brazil,2014,male,25-34 years,1982,17601477,11.26,Brazil2014,0.755,2455993625159,12975,Millenials
+Brazil,2014,male,15-24 years,1358,17606681,7.71,Brazil2014,0.755,2455993625159,12975,Millenials
+Brazil,2014,female,35-54 years,871,27971096,3.11,Brazil2014,0.755,2455993625159,12975,Generation X
+Brazil,2014,female,55-74 years,389,14550395,2.67,Brazil2014,0.755,2455993625159,12975,Boomers
+Brazil,2014,female,25-34 years,457,17539955,2.61,Brazil2014,0.755,2455993625159,12975,Millenials
+Brazil,2014,female,75+ years,83,3634999,2.28,Brazil2014,0.755,2455993625159,12975,Silent
+Brazil,2014,female,15-24 years,371,17094729,2.17,Brazil2014,0.755,2455993625159,12975,Millenials
+Brazil,2014,male,5-14 years,84,16299015,0.52,Brazil2014,0.755,2455993625159,12975,Generation Z
+Brazil,2014,female,5-14 years,62,15670559,0.4,Brazil2014,0.755,2455993625159,12975,Generation Z
+Bulgaria,2014,male,75+ years,120,227129,52.83,Bulgaria2014,0.782,56731990232,8241,Silent
+Bulgaria,2014,male,55-74 years,194,833666,23.27,Bulgaria2014,0.782,56731990232,8241,Boomers
+Bulgaria,2014,female,75+ years,67,382347,17.52,Bulgaria2014,0.782,56731990232,8241,Silent
+Bulgaria,2014,male,35-54 years,156,1052572,14.82,Bulgaria2014,0.782,56731990232,8241,Generation X
+Bulgaria,2014,male,25-34 years,47,508827,9.24,Bulgaria2014,0.782,56731990232,8241,Millenials
+Bulgaria,2014,male,15-24 years,33,378681,8.71,Bulgaria2014,0.782,56731990232,8241,Millenials
+Bulgaria,2014,female,55-74 years,54,1005439,5.37,Bulgaria2014,0.782,56731990232,8241,Boomers
+Bulgaria,2014,female,35-54 years,33,1009528,3.27,Bulgaria2014,0.782,56731990232,8241,Generation X
+Bulgaria,2014,female,25-34 years,13,472176,2.75,Bulgaria2014,0.782,56731990232,8241,Millenials
+Bulgaria,2014,female,15-24 years,5,356406,1.4,Bulgaria2014,0.782,56731990232,8241,Millenials
+Bulgaria,2014,male,5-14 years,2,337969,0.59,Bulgaria2014,0.782,56731990232,8241,Generation Z
+Bulgaria,2014,female,5-14 years,0,319134,0,Bulgaria2014,0.782,56731990232,8241,Generation Z
+Chile,2014,male,75+ years,92,273608,33.62,Chile2014,0.832,260584090571,15883,Silent
+Chile,2014,male,55-74 years,308,1345116,22.9,Chile2014,0.832,260584090571,15883,Boomers
+Chile,2014,male,35-54 years,536,2408469,22.25,Chile2014,0.832,260584090571,15883,Generation X
+Chile,2014,male,25-34 years,289,1384843,20.87,Chile2014,0.832,260584090571,15883,Millenials
+Chile,2014,male,15-24 years,238,1413924,16.83,Chile2014,0.832,260584090571,15883,Millenials
+Chile,2014,female,35-54 years,127,2417192,5.25,Chile2014,0.832,260584090571,15883,Generation X
+Chile,2014,female,25-34 years,60,1340788,4.47,Chile2014,0.832,260584090571,15883,Millenials
+Chile,2014,female,15-24 years,58,1357865,4.27,Chile2014,0.832,260584090571,15883,Millenials
+Chile,2014,female,55-74 years,52,1494867,3.48,Chile2014,0.832,260584090571,15883,Boomers
+Chile,2014,female,75+ years,8,455627,1.76,Chile2014,0.832,260584090571,15883,Silent
+Chile,2014,male,5-14 years,12,1280751,0.94,Chile2014,0.832,260584090571,15883,Generation Z
+Chile,2014,female,5-14 years,9,1233817,0.73,Chile2014,0.832,260584090571,15883,Generation Z
+Colombia,2014,male,75+ years,83,486197,17.07,Colombia2014,0.72,378195716714,8591,Silent
+Colombia,2014,male,15-24 years,480,4216293,11.38,Colombia2014,0.72,378195716714,8591,Millenials
+Colombia,2014,male,55-74 years,283,2795271,10.12,Colombia2014,0.72,378195716714,8591,Boomers
+Colombia,2014,male,25-34 years,395,3965410,9.96,Colombia2014,0.72,378195716714,8591,Millenials
+Colombia,2014,male,35-54 years,477,6046987,7.89,Colombia2014,0.72,378195716714,8591,Generation X
+Colombia,2014,female,15-24 years,132,4092325,3.23,Colombia2014,0.72,378195716714,8591,Millenials
+Colombia,2014,female,25-34 years,82,4007103,2.05,Colombia2014,0.72,378195716714,8591,Millenials
+Colombia,2014,female,55-74 years,43,3219142,1.34,Colombia2014,0.72,378195716714,8591,Boomers
+Colombia,2014,female,35-54 years,82,6467724,1.27,Colombia2014,0.72,378195716714,8591,Generation X
+Colombia,2014,male,5-14 years,37,4100740,0.9,Colombia2014,0.72,378195716714,8591,Generation Z
+Colombia,2014,female,75+ years,5,690028,0.72,Colombia2014,0.72,378195716714,8591,Silent
+Colombia,2014,female,5-14 years,27,3934580,0.69,Colombia2014,0.72,378195716714,8591,Generation Z
+Costa Rica,2014,male,55-74 years,46,323941,14.2,Costa Rica2014,0.766,50577769838,11485,Boomers
+Costa Rica,2014,male,35-54 years,76,616724,12.32,Costa Rica2014,0.766,50577769838,11485,Generation X
+Costa Rica,2014,male,25-34 years,49,401836,12.19,Costa Rica2014,0.766,50577769838,11485,Millenials
+Costa Rica,2014,male,15-24 years,43,416344,10.33,Costa Rica2014,0.766,50577769838,11485,Millenials
+Costa Rica,2014,male,75+ years,6,69706,8.61,Costa Rica2014,0.766,50577769838,11485,Silent
+Costa Rica,2014,female,25-34 years,12,392153,3.06,Costa Rica2014,0.766,50577769838,11485,Millenials
+Costa Rica,2014,female,15-24 years,12,400170,3,Costa Rica2014,0.766,50577769838,11485,Millenials
+Costa Rica,2014,female,75+ years,2,88574,2.26,Costa Rica2014,0.766,50577769838,11485,Silent
+Costa Rica,2014,female,35-54 years,11,627502,1.75,Costa Rica2014,0.766,50577769838,11485,Generation X
+Costa Rica,2014,female,55-74 years,5,340748,1.47,Costa Rica2014,0.766,50577769838,11485,Boomers
+Costa Rica,2014,female,5-14 years,3,354701,0.85,Costa Rica2014,0.766,50577769838,11485,Generation Z
+Costa Rica,2014,male,5-14 years,3,371275,0.81,Costa Rica2014,0.766,50577769838,11485,Generation Z
+Croatia,2014,male,75+ years,97,129205,75.07,Croatia2014,0.818,57629518806,14299,Silent
+Croatia,2014,male,55-74 years,193,473836,40.73,Croatia2014,0.818,57629518806,14299,Boomers
+Croatia,2014,male,35-54 years,167,582938,28.65,Croatia2014,0.818,57629518806,14299,Generation X
+Croatia,2014,female,75+ years,42,240853,17.44,Croatia2014,0.818,57629518806,14299,Silent
+Croatia,2014,male,15-24 years,37,251460,14.71,Croatia2014,0.818,57629518806,14299,Millenials
+Croatia,2014,male,25-34 years,42,287190,14.62,Croatia2014,0.818,57629518806,14299,Millenials
+Croatia,2014,female,55-74 years,71,547211,12.97,Croatia2014,0.818,57629518806,14299,Boomers
+Croatia,2014,female,35-54 years,49,583896,8.39,Croatia2014,0.818,57629518806,14299,Generation X
+Croatia,2014,female,15-24 years,12,240071,5,Croatia2014,0.818,57629518806,14299,Millenials
+Croatia,2014,female,25-34 years,11,277195,3.97,Croatia2014,0.818,57629518806,14299,Millenials
+Croatia,2014,female,5-14 years,1,202723,0.49,Croatia2014,0.818,57629518806,14299,Generation Z
+Croatia,2014,male,5-14 years,0,213874,0,Croatia2014,0.818,57629518806,14299,Generation Z
+Cuba,2014,male,75+ years,221,303110,72.91,Cuba2014,0.769,80656100000,7459,Silent
+Cuba,2014,male,55-74 years,348,1034381,33.64,Cuba2014,0.769,80656100000,7459,Boomers
+Cuba,2014,male,35-54 years,409,1899900,21.53,Cuba2014,0.769,80656100000,7459,Generation X
+Cuba,2014,female,75+ years,51,388520,13.13,Cuba2014,0.769,80656100000,7459,Silent
+Cuba,2014,male,25-34 years,97,758006,12.8,Cuba2014,0.769,80656100000,7459,Millenials
+Cuba,2014,female,55-74 years,116,1074729,10.79,Cuba2014,0.769,80656100000,7459,Boomers
+Cuba,2014,male,15-24 years,62,761440,8.14,Cuba2014,0.769,80656100000,7459,Millenials
+Cuba,2014,female,35-54 years,107,1891607,5.66,Cuba2014,0.769,80656100000,7459,Generation X
+Cuba,2014,female,15-24 years,19,711945,2.67,Cuba2014,0.769,80656100000,7459,Millenials
+Cuba,2014,female,25-34 years,12,732841,1.64,Cuba2014,0.769,80656100000,7459,Millenials
+Cuba,2014,male,5-14 years,9,646878,1.39,Cuba2014,0.769,80656100000,7459,Generation Z
+Cuba,2014,female,5-14 years,2,610054,0.33,Cuba2014,0.769,80656100000,7459,Generation Z
+Cyprus,2014,male,35-54 years,13,107823,12.06,Cyprus2014,0.85,23359294149,29024,Generation X
+Cyprus,2014,male,25-34 years,8,68555,11.67,Cyprus2014,0.85,23359294149,29024,Millenials
+Cyprus,2014,male,55-74 years,7,82766,8.46,Cyprus2014,0.85,23359294149,29024,Boomers
+Cyprus,2014,female,55-74 years,5,87152,5.74,Cyprus2014,0.85,23359294149,29024,Boomers
+Cyprus,2014,female,25-34 years,4,72330,5.53,Cyprus2014,0.85,23359294149,29024,Millenials
+Cyprus,2014,female,15-24 years,3,59114,5.07,Cyprus2014,0.85,23359294149,29024,Millenials
+Cyprus,2014,male,75+ years,1,22372,4.47,Cyprus2014,0.85,23359294149,29024,Silent
+Cyprus,2014,male,15-24 years,2,60975,3.28,Cyprus2014,0.85,23359294149,29024,Millenials
+Cyprus,2014,female,35-54 years,1,122485,0.82,Cyprus2014,0.85,23359294149,29024,Generation X
+Cyprus,2014,female,5-14 years,0,44760,0,Cyprus2014,0.85,23359294149,29024,Generation Z
+Cyprus,2014,female,75+ years,0,29382,0,Cyprus2014,0.85,23359294149,29024,Silent
+Cyprus,2014,male,5-14 years,0,47104,0,Cyprus2014,0.85,23359294149,29024,Generation Z
+Czech Republic,2014,male,75+ years,123,257383,47.79,Czech Republic2014,0.87,207818330724,20859,Silent
+Czech Republic,2014,male,55-74 years,364,1197687,30.39,Czech Republic2014,0.87,207818330724,20859,Boomers
+Czech Republic,2014,male,35-54 years,467,1580637,29.55,Czech Republic2014,0.87,207818330724,20859,Generation X
+Czech Republic,2014,male,25-34 years,157,752372,20.87,Czech Republic2014,0.87,207818330724,20859,Millenials
+Czech Republic,2014,male,15-24 years,84,565782,14.85,Czech Republic2014,0.87,207818330724,20859,Millenials
+Czech Republic,2014,female,75+ years,54,464061,11.64,Czech Republic2014,0.87,207818330724,20859,Silent
+Czech Republic,2014,female,55-74 years,107,1356408,7.89,Czech Republic2014,0.87,207818330724,20859,Boomers
+Czech Republic,2014,female,35-54 years,94,1509758,6.23,Czech Republic2014,0.87,207818330724,20859,Generation X
+Czech Republic,2014,female,25-34 years,26,711374,3.65,Czech Republic2014,0.87,207818330724,20859,Millenials
+Czech Republic,2014,female,15-24 years,11,540106,2.04,Czech Republic2014,0.87,207818330724,20859,Millenials
+Czech Republic,2014,female,5-14 years,1,500027,0.2,Czech Republic2014,0.87,207818330724,20859,Generation Z
+Czech Republic,2014,male,5-14 years,1,527532,0.19,Czech Republic2014,0.87,207818330724,20859,Generation Z
+Denmark,2014,male,75+ years,61,172150,35.43,Denmark2014,0.923,352993633221,66114,Silent
+Denmark,2014,male,55-74 years,155,645001,24.03,Denmark2014,0.923,352993633221,66114,Boomers
+Denmark,2014,male,35-54 years,178,784300,22.7,Denmark2014,0.923,352993633221,66114,Generation X
+Denmark,2014,female,75+ years,36,248889,14.46,Denmark2014,0.923,352993633221,66114,Silent
+Denmark,2014,male,25-34 years,43,333712,12.89,Denmark2014,0.923,352993633221,66114,Millenials
+Denmark,2014,male,15-24 years,31,370570,8.37,Denmark2014,0.923,352993633221,66114,Millenials
+Denmark,2014,female,35-54 years,59,774379,7.62,Denmark2014,0.923,352993633221,66114,Generation X
+Denmark,2014,female,55-74 years,50,666386,7.5,Denmark2014,0.923,352993633221,66114,Boomers
+Denmark,2014,female,25-34 years,7,325866,2.15,Denmark2014,0.923,352993633221,66114,Millenials
+Denmark,2014,female,15-24 years,7,354099,1.98,Denmark2014,0.923,352993633221,66114,Millenials
+Denmark,2014,female,5-14 years,1,323749,0.31,Denmark2014,0.923,352993633221,66114,Generation Z
+Denmark,2014,male,5-14 years,1,340065,0.29,Denmark2014,0.923,352993633221,66114,Generation Z
+Ecuador,2014,male,75+ years,25,184452,13.55,Ecuador2014,0.732,101726331000,7116,Silent
+Ecuador,2014,male,15-24 years,164,1484064,11.05,Ecuador2014,0.732,101726331000,7116,Millenials
+Ecuador,2014,male,25-34 years,123,1271545,9.67,Ecuador2014,0.732,101726331000,7116,Millenials
+Ecuador,2014,male,55-74 years,74,834436,8.87,Ecuador2014,0.732,101726331000,7116,Boomers
+Ecuador,2014,male,35-54 years,153,1794205,8.53,Ecuador2014,0.732,101726331000,7116,Generation X
+Ecuador,2014,female,15-24 years,77,1440731,5.34,Ecuador2014,0.732,101726331000,7116,Millenials
+Ecuador,2014,female,25-34 years,33,1262288,2.61,Ecuador2014,0.732,101726331000,7116,Millenials
+Ecuador,2014,male,5-14 years,28,1560323,1.79,Ecuador2014,0.732,101726331000,7116,Generation Z
+Ecuador,2014,female,55-74 years,16,897482,1.78,Ecuador2014,0.732,101726331000,7116,Boomers
+Ecuador,2014,female,5-14 years,18,1497410,1.2,Ecuador2014,0.732,101726331000,7116,Generation Z
+Ecuador,2014,female,35-54 years,22,1836144,1.2,Ecuador2014,0.732,101726331000,7116,Generation X
+Ecuador,2014,female,75+ years,1,232065,0.43,Ecuador2014,0.732,101726331000,7116,Silent
+El Salvador,2014,male,75+ years,19,87989,21.59,El Salvador2014,0.666,22585841200,3965,Silent
+El Salvador,2014,male,25-34 years,77,415163,18.55,El Salvador2014,0.666,22585841200,3965,Millenials
+El Salvador,2014,male,35-54 years,85,586412,14.49,El Salvador2014,0.666,22585841200,3965,Generation X
+El Salvador,2014,male,55-74 years,44,308802,14.25,El Salvador2014,0.666,22585841200,3965,Boomers
+El Salvador,2014,male,15-24 years,51,635499,8.03,El Salvador2014,0.666,22585841200,3965,Millenials
+El Salvador,2014,female,75+ years,9,114804,7.84,El Salvador2014,0.666,22585841200,3965,Silent
+El Salvador,2014,female,15-24 years,33,653215,5.05,El Salvador2014,0.666,22585841200,3965,Millenials
+El Salvador,2014,female,25-34 years,24,501438,4.79,El Salvador2014,0.666,22585841200,3965,Millenials
+El Salvador,2014,female,35-54 years,27,758979,3.56,El Salvador2014,0.666,22585841200,3965,Generation X
+El Salvador,2014,female,55-74 years,11,407576,2.7,El Salvador2014,0.666,22585841200,3965,Boomers
+El Salvador,2014,female,5-14 years,4,601023,0.67,El Salvador2014,0.666,22585841200,3965,Generation Z
+El Salvador,2014,male,5-14 years,2,625429,0.32,El Salvador2014,0.666,22585841200,3965,Generation Z
+Estonia,2014,male,75+ years,26,33259,78.17,Estonia2014,0.861,26224622451,21117,Silent
+Estonia,2014,male,55-74 years,50,124940,40.02,Estonia2014,0.861,26224622451,21117,Boomers
+Estonia,2014,male,25-34 years,39,97957,39.81,Estonia2014,0.861,26224622451,21117,Millenials
+Estonia,2014,male,35-54 years,57,177676,32.08,Estonia2014,0.861,26224622451,21117,Generation X
+Estonia,2014,male,15-24 years,19,73521,25.84,Estonia2014,0.861,26224622451,21117,Millenials
+Estonia,2014,female,75+ years,13,84886,15.31,Estonia2014,0.861,26224622451,21117,Silent
+Estonia,2014,female,35-54 years,16,180093,8.88,Estonia2014,0.861,26224622451,21117,Generation X
+Estonia,2014,female,25-34 years,8,92159,8.68,Estonia2014,0.861,26224622451,21117,Millenials
+Estonia,2014,female,55-74 years,10,172116,5.81,Estonia2014,0.861,26224622451,21117,Boomers
+Estonia,2014,male,5-14 years,2,69999,2.86,Estonia2014,0.861,26224622451,21117,Generation Z
+Estonia,2014,female,15-24 years,1,69127,1.45,Estonia2014,0.861,26224622451,21117,Millenials
+Estonia,2014,female,5-14 years,0,66119,0,Estonia2014,0.861,26224622451,21117,Generation Z
+Finland,2014,male,75+ years,61,175827,34.69,Finland2014,0.883,272609288690,52832,Silent
+Finland,2014,male,25-34 years,110,356059,30.89,Finland2014,0.883,272609288690,52832,Millenials
+Finland,2014,male,35-54 years,207,708947,29.2,Finland2014,0.883,272609288690,52832,Generation X
+Finland,2014,male,55-74 years,157,654576,23.98,Finland2014,0.883,272609288690,52832,Boomers
+Finland,2014,male,15-24 years,63,332717,18.94,Finland2014,0.883,272609288690,52832,Millenials
+Finland,2014,female,25-34 years,37,336774,10.99,Finland2014,0.883,272609288690,52832,Millenials
+Finland,2014,female,35-54 years,60,687641,8.73,Finland2014,0.883,272609288690,52832,Generation X
+Finland,2014,female,55-74 years,59,700011,8.43,Finland2014,0.883,272609288690,52832,Boomers
+Finland,2014,female,15-24 years,22,318826,6.9,Finland2014,0.883,272609288690,52832,Millenials
+Finland,2014,female,75+ years,11,294322,3.74,Finland2014,0.883,272609288690,52832,Silent
+Finland,2014,female,5-14 years,1,290448,0.34,Finland2014,0.883,272609288690,52832,Generation Z
+Finland,2014,male,5-14 years,1,303796,0.33,Finland2014,0.883,272609288690,52832,Generation Z
+France,2014,male,75+ years,1324,2243922,59,France2014,0.888,2852165760630,47318,Silent
+France,2014,male,35-54 years,2536,8426009,30.1,France2014,0.888,2852165760630,47318,Generation X
+France,2014,male,55-74 years,1825,6655516,27.42,France2014,0.888,2852165760630,47318,Boomers
+France,2014,male,25-34 years,680,3877350,17.54,France2014,0.888,2852165760630,47318,Millenials
+France,2014,female,75+ years,424,3677450,11.53,France2014,0.888,2852165760630,47318,Silent
+France,2014,female,55-74 years,744,7300857,10.19,France2014,0.888,2852165760630,47318,Boomers
+France,2014,female,35-54 years,778,8608404,9.04,France2014,0.888,2852165760630,47318,Generation X
+France,2014,male,15-24 years,282,3841223,7.34,France2014,0.888,2852165760630,47318,Millenials
+France,2014,female,25-34 years,170,3985618,4.27,France2014,0.888,2852165760630,47318,Millenials
+France,2014,female,15-24 years,92,3711936,2.48,France2014,0.888,2852165760630,47318,Millenials
+France,2014,male,5-14 years,14,4069116,0.34,France2014,0.888,2852165760630,47318,Generation Z
+France,2014,female,5-14 years,12,3878553,0.31,France2014,0.888,2852165760630,47318,Generation Z
+Georgia,2014,male,75+ years,22,92600,23.76,Georgia2014,0.754,16509305828,4757,Silent
+Georgia,2014,male,55-74 years,58,298900,19.4,Georgia2014,0.754,16509305828,4757,Boomers
+Georgia,2014,male,35-54 years,53,491300,10.79,Georgia2014,0.754,16509305828,4757,Generation X
+Georgia,2014,female,55-74 years,18,392200,4.59,Georgia2014,0.754,16509305828,4757,Boomers
+Georgia,2014,male,15-24 years,12,264500,4.54,Georgia2014,0.754,16509305828,4757,Millenials
+Georgia,2014,male,25-34 years,13,288500,4.51,Georgia2014,0.754,16509305828,4757,Millenials
+Georgia,2014,female,75+ years,5,169900,2.94,Georgia2014,0.754,16509305828,4757,Silent
+Georgia,2014,female,15-24 years,5,251400,1.99,Georgia2014,0.754,16509305828,4757,Millenials
+Georgia,2014,female,25-34 years,3,286500,1.05,Georgia2014,0.754,16509305828,4757,Millenials
+Georgia,2014,female,35-54 years,5,542700,0.92,Georgia2014,0.754,16509305828,4757,Generation X
+Georgia,2014,female,5-14 years,0,183700,0,Georgia2014,0.754,16509305828,4757,Generation Z
+Georgia,2014,male,5-14 years,0,208400,0,Georgia2014,0.754,16509305828,4757,Generation Z
+Germany,2014,male,75+ years,1608,3300059,48.73,Germany2014,0.916,3890606893347,50167,Silent
+Germany,2014,male,55-74 years,2410,9358747,25.75,Germany2014,0.916,3890606893347,50167,Boomers
+Germany,2014,male,35-54 years,2444,11949414,20.45,Germany2014,0.916,3890606893347,50167,Generation X
+Germany,2014,male,25-34 years,750,5179803,14.48,Germany2014,0.916,3890606893347,50167,Millenials
+Germany,2014,female,75+ years,621,5151214,12.06,Germany2014,0.916,3890606893347,50167,Silent
+Germany,2014,male,15-24 years,397,4452615,8.92,Germany2014,0.916,3890606893347,50167,Millenials
+Germany,2014,female,55-74 years,855,10013338,8.54,Germany2014,0.916,3890606893347,50167,Boomers
+Germany,2014,female,35-54 years,801,11728001,6.83,Germany2014,0.916,3890606893347,50167,Generation X
+Germany,2014,female,25-34 years,182,5005685,3.64,Germany2014,0.916,3890606893347,50167,Millenials
+Germany,2014,female,15-24 years,121,4215773,2.87,Germany2014,0.916,3890606893347,50167,Millenials
+Germany,2014,male,5-14 years,20,3695813,0.54,Germany2014,0.916,3890606893347,50167,Generation Z
+Germany,2014,female,5-14 years,8,3501907,0.23,Germany2014,0.916,3890606893347,50167,Generation Z
+Greece,2014,male,75+ years,71,487215,14.57,Greece2014,0.865,237029579261,22834,Silent
+Greece,2014,male,55-74 years,143,1149730,12.44,Greece2014,0.865,237029579261,22834,Boomers
+Greece,2014,male,35-54 years,165,1564680,10.55,Greece2014,0.865,237029579261,22834,Generation X
+Greece,2014,male,25-34 years,42,702789,5.98,Greece2014,0.865,237029579261,22834,Millenials
+Greece,2014,male,15-24 years,28,572505,4.89,Greece2014,0.865,237029579261,22834,Millenials
+Greece,2014,female,75+ years,20,674567,2.96,Greece2014,0.865,237029579261,22834,Silent
+Greece,2014,female,55-74 years,34,1280401,2.66,Greece2014,0.865,237029579261,22834,Boomers
+Greece,2014,female,35-54 years,42,1629438,2.58,Greece2014,0.865,237029579261,22834,Generation X
+Greece,2014,female,25-34 years,12,689746,1.74,Greece2014,0.865,237029579261,22834,Millenials
+Greece,2014,female,15-24 years,7,552323,1.27,Greece2014,0.865,237029579261,22834,Millenials
+Greece,2014,male,5-14 years,1,551030,0.18,Greece2014,0.865,237029579261,22834,Generation Z
+Greece,2014,female,5-14 years,0,526123,0,Greece2014,0.865,237029579261,22834,Generation Z
+Grenada,2014,female,15-24 years,0,10206,0,Grenada2014,0.75,911481481,9456,Millenials
+Grenada,2014,female,25-34 years,0,9943,0,Grenada2014,0.75,911481481,9456,Millenials
+Grenada,2014,female,35-54 years,0,10981,0,Grenada2014,0.75,911481481,9456,Generation X
+Grenada,2014,female,5-14 years,0,8922,0,Grenada2014,0.75,911481481,9456,Generation Z
+Grenada,2014,female,55-74 years,0,5907,0,Grenada2014,0.75,911481481,9456,Boomers
+Grenada,2014,female,75+ years,0,2222,0,Grenada2014,0.75,911481481,9456,Silent
+Grenada,2014,male,15-24 years,0,10470,0,Grenada2014,0.75,911481481,9456,Millenials
+Grenada,2014,male,25-34 years,0,10415,0,Grenada2014,0.75,911481481,9456,Millenials
+Grenada,2014,male,35-54 years,0,11369,0,Grenada2014,0.75,911481481,9456,Generation X
+Grenada,2014,male,5-14 years,0,9380,0,Grenada2014,0.75,911481481,9456,Generation Z
+Grenada,2014,male,55-74 years,0,5260,0,Grenada2014,0.75,911481481,9456,Boomers
+Grenada,2014,male,75+ years,0,1318,0,Grenada2014,0.75,911481481,9456,Silent
+Guatemala,2014,male,35-54 years,101,1240265,8.14,Guatemala2014,0.627,58722323918,4210,Generation X
+Guatemala,2014,male,55-74 years,39,520628,7.49,Guatemala2014,0.627,58722323918,4210,Boomers
+Guatemala,2014,male,25-34 years,87,1228328,7.08,Guatemala2014,0.627,58722323918,4210,Millenials
+Guatemala,2014,male,15-24 years,116,1713439,6.77,Guatemala2014,0.627,58722323918,4210,Millenials
+Guatemala,2014,male,75+ years,7,130569,5.36,Guatemala2014,0.627,58722323918,4210,Silent
+Guatemala,2014,female,15-24 years,85,1676831,5.07,Guatemala2014,0.627,58722323918,4210,Millenials
+Guatemala,2014,female,25-34 years,32,1279793,2.5,Guatemala2014,0.627,58722323918,4210,Millenials
+Guatemala,2014,female,55-74 years,8,629002,1.27,Guatemala2014,0.627,58722323918,4210,Boomers
+Guatemala,2014,female,35-54 years,18,1471960,1.22,Guatemala2014,0.627,58722323918,4210,Generation X
+Guatemala,2014,female,5-14 years,13,1906536,0.68,Guatemala2014,0.627,58722323918,4210,Generation Z
+Guatemala,2014,male,5-14 years,6,1987907,0.3,Guatemala2014,0.627,58722323918,4210,Generation Z
+Guatemala,2014,female,75+ years,0,161932,0,Guatemala2014,0.627,58722323918,4210,Silent
+Hungary,2014,male,75+ years,179,237767,75.28,Hungary2014,0.828,140118140455,14886,Silent
+Hungary,2014,male,55-74 years,600,1063532,56.42,Hungary2014,0.828,140118140455,14886,Boomers
+Hungary,2014,male,35-54 years,495,1422078,34.81,Hungary2014,0.828,140118140455,14886,Generation X
+Hungary,2014,male,25-34 years,130,648134,20.06,Hungary2014,0.828,140118140455,14886,Millenials
+Hungary,2014,female,75+ years,81,508688,15.92,Hungary2014,0.828,140118140455,14886,Silent
+Hungary,2014,female,55-74 years,183,1351899,13.54,Hungary2014,0.828,140118140455,14886,Boomers
+Hungary,2014,male,15-24 years,72,595596,12.09,Hungary2014,0.828,140118140455,14886,Millenials
+Hungary,2014,female,35-54 years,152,1423878,10.68,Hungary2014,0.828,140118140455,14886,Generation X
+Hungary,2014,female,25-34 years,23,624055,3.69,Hungary2014,0.828,140118140455,14886,Millenials
+Hungary,2014,female,15-24 years,8,564343,1.42,Hungary2014,0.828,140118140455,14886,Millenials
+Hungary,2014,male,5-14 years,2,499483,0.4,Hungary2014,0.828,140118140455,14886,Generation Z
+Hungary,2014,female,5-14 years,0,473335,0,Hungary2014,0.828,140118140455,14886,Generation Z
+Iceland,2014,male,75+ years,5,8491,58.89,Iceland2014,0.899,17304033021,56833,Silent
+Iceland,2014,male,25-34 years,9,23711,37.96,Iceland2014,0.899,17304033021,56833,Millenials
+Iceland,2014,male,55-74 years,8,31027,25.78,Iceland2014,0.899,17304033021,56833,Boomers
+Iceland,2014,male,15-24 years,4,24185,16.54,Iceland2014,0.899,17304033021,56833,Millenials
+Iceland,2014,male,35-54 years,7,42731,16.38,Iceland2014,0.899,17304033021,56833,Generation X
+Iceland,2014,female,35-54 years,4,42655,9.38,Iceland2014,0.899,17304033021,56833,Generation X
+Iceland,2014,female,75+ years,1,11043,9.06,Iceland2014,0.899,17304033021,56833,Silent
+Iceland,2014,female,25-34 years,2,22708,8.81,Iceland2014,0.899,17304033021,56833,Millenials
+Iceland,2014,female,15-24 years,2,22989,8.7,Iceland2014,0.899,17304033021,56833,Millenials
+Iceland,2014,female,55-74 years,2,30942,6.46,Iceland2014,0.899,17304033021,56833,Boomers
+Iceland,2014,female,5-14 years,0,21544,0,Iceland2014,0.899,17304033021,56833,Generation Z
+Iceland,2014,male,5-14 years,0,22446,0,Iceland2014,0.899,17304033021,56833,Generation Z
+Ireland,2014,male,35-54 years,165,675986,24.41,Ireland2014,0.916,258099014042,59634,Generation X
+Ireland,2014,male,25-34 years,80,337977,23.67,Ireland2014,0.916,258099014042,59634,Millenials
+Ireland,2014,male,15-24 years,63,267635,23.54,Ireland2014,0.916,258099014042,59634,Millenials
+Ireland,2014,male,55-74 years,81,421555,19.21,Ireland2014,0.916,258099014042,59634,Boomers
+Ireland,2014,male,75+ years,8,103238,7.75,Ireland2014,0.916,258099014042,59634,Silent
+Ireland,2014,female,35-54 years,39,678830,5.75,Ireland2014,0.916,258099014042,59634,Generation X
+Ireland,2014,female,25-34 years,20,353379,5.66,Ireland2014,0.916,258099014042,59634,Millenials
+Ireland,2014,female,15-24 years,11,261032,4.21,Ireland2014,0.916,258099014042,59634,Millenials
+Ireland,2014,female,55-74 years,15,432815,3.47,Ireland2014,0.916,258099014042,59634,Boomers
+Ireland,2014,female,75+ years,2,141441,1.41,Ireland2014,0.916,258099014042,59634,Silent
+Ireland,2014,male,5-14 years,2,335330,0.6,Ireland2014,0.916,258099014042,59634,Generation Z
+Ireland,2014,female,5-14 years,0,318825,0,Ireland2014,0.916,258099014042,59634,Generation Z
+Israel,2014,male,75+ years,32,164959,19.4,Israel2014,0.894,308416982140,41869,Silent
+Israel,2014,male,35-54 years,125,925543,13.51,Israel2014,0.894,308416982140,41869,Generation X
+Israel,2014,male,55-74 years,54,577076,9.36,Israel2014,0.894,308416982140,41869,Boomers
+Israel,2014,male,25-34 years,41,580208,7.07,Israel2014,0.894,308416982140,41869,Millenials
+Israel,2014,male,15-24 years,35,633544,5.52,Israel2014,0.894,308416982140,41869,Millenials
+Israel,2014,female,75+ years,11,236381,4.65,Israel2014,0.894,308416982140,41869,Silent
+Israel,2014,female,55-74 years,24,645102,3.72,Israel2014,0.894,308416982140,41869,Boomers
+Israel,2014,female,35-54 years,29,949566,3.05,Israel2014,0.894,308416982140,41869,Generation X
+Israel,2014,female,25-34 years,13,576407,2.26,Israel2014,0.894,308416982140,41869,Millenials
+Israel,2014,female,15-24 years,10,607031,1.65,Israel2014,0.894,308416982140,41869,Millenials
+Israel,2014,male,5-14 years,7,753317,0.93,Israel2014,0.894,308416982140,41869,Generation Z
+Israel,2014,female,5-14 years,1,717118,0.14,Israel2014,0.894,308416982140,41869,Generation Z
+Italy,2014,male,75+ years,670,2566489,26.11,Italy2014,0.873,2151732868243,37035,Silent
+Italy,2014,male,55-74 years,947,6738488,14.05,Italy2014,0.873,2151732868243,37035,Boomers
+Italy,2014,male,35-54 years,1123,9296191,12.08,Italy2014,0.873,2151732868243,37035,Generation X
+Italy,2014,male,25-34 years,300,3494152,8.59,Italy2014,0.873,2151732868243,37035,Millenials
+Italy,2014,male,15-24 years,170,3066963,5.54,Italy2014,0.873,2151732868243,37035,Millenials
+Italy,2014,female,35-54 years,371,9446533,3.93,Italy2014,0.873,2151732868243,37035,Generation X
+Italy,2014,female,75+ years,158,4042740,3.91,Italy2014,0.873,2151732868243,37035,Silent
+Italy,2014,female,55-74 years,275,7381373,3.73,Italy2014,0.873,2151732868243,37035,Boomers
+Italy,2014,female,25-34 years,75,3445649,2.18,Italy2014,0.873,2151732868243,37035,Millenials
+Italy,2014,female,15-24 years,46,2894944,1.59,Italy2014,0.873,2151732868243,37035,Millenials
+Italy,2014,female,5-14 years,7,2778922,0.25,Italy2014,0.873,2151732868243,37035,Generation Z
+Italy,2014,male,5-14 years,5,2948232,0.17,Italy2014,0.873,2151732868243,37035,Generation Z
+Japan,2014,male,75+ years,2254,6104000,36.93,Japan2014,0.891,4850413536038,40328,Silent
+Japan,2014,male,55-74 years,5477,16213000,33.78,Japan2014,0.891,4850413536038,40328,Boomers
+Japan,2014,male,35-54 years,5710,17365000,32.88,Japan2014,0.891,4850413536038,40328,Generation X
+Japan,2014,male,25-34 years,2131,7007000,30.41,Japan2014,0.891,4850413536038,40328,Millenials
+Japan,2014,male,15-24 years,1180,6110000,19.31,Japan2014,0.891,4850413536038,40328,Millenials
+Japan,2014,female,75+ years,1587,9761000,16.26,Japan2014,0.891,4850413536038,40328,Silent
+Japan,2014,female,55-74 years,2512,17288000,14.53,Japan2014,0.891,4850413536038,40328,Boomers
+Japan,2014,female,35-54 years,2158,16959000,12.72,Japan2014,0.891,4850413536038,40328,Generation X
+Japan,2014,female,25-34 years,814,6734000,12.09,Japan2014,0.891,4850413536038,40328,Millenials
+Japan,2014,female,15-24 years,432,5803000,7.44,Japan2014,0.891,4850413536038,40328,Millenials
+Japan,2014,male,5-14 years,68,5596000,1.22,Japan2014,0.891,4850413536038,40328,Generation Z
+Japan,2014,female,5-14 years,34,5334000,0.64,Japan2014,0.891,4850413536038,40328,Generation Z
+Kazakhstan,2014,male,35-54 years,1082,2116035,51.13,Kazakhstan2014,0.788,221415572820,14351,Generation X
+Kazakhstan,2014,male,75+ years,70,148578,47.11,Kazakhstan2014,0.788,221415572820,14351,Silent
+Kazakhstan,2014,male,25-34 years,667,1462224,45.62,Kazakhstan2014,0.788,221415572820,14351,Millenials
+Kazakhstan,2014,male,55-74 years,343,911127,37.65,Kazakhstan2014,0.788,221415572820,14351,Boomers
+Kazakhstan,2014,male,15-24 years,356,1377269,25.85,Kazakhstan2014,0.788,221415572820,14351,Millenials
+Kazakhstan,2014,female,75+ years,47,325593,14.44,Kazakhstan2014,0.788,221415572820,14351,Silent
+Kazakhstan,2014,female,15-24 years,132,1344351,9.82,Kazakhstan2014,0.788,221415572820,14351,Millenials
+Kazakhstan,2014,female,25-34 years,126,1490998,8.45,Kazakhstan2014,0.788,221415572820,14351,Millenials
+Kazakhstan,2014,female,35-54 years,171,2303567,7.42,Kazakhstan2014,0.788,221415572820,14351,Generation X
+Kazakhstan,2014,female,55-74 years,69,1263876,5.46,Kazakhstan2014,0.788,221415572820,14351,Boomers
+Kazakhstan,2014,male,5-14 years,38,1377917,2.76,Kazakhstan2014,0.788,221415572820,14351,Generation Z
+Kazakhstan,2014,female,5-14 years,18,1307309,1.38,Kazakhstan2014,0.788,221415572820,14351,Generation Z
+Kuwait,2014,male,25-34 years,22,663735,3.31,Kuwait2014,0.816,162631412509,43774,Millenials
+Kuwait,2014,male,15-24 years,7,270301,2.59,Kuwait2014,0.816,162631412509,43774,Millenials
+Kuwait,2014,female,15-24 years,5,228222,2.19,Kuwait2014,0.816,162631412509,43774,Millenials
+Kuwait,2014,male,35-54 years,18,892860,2.02,Kuwait2014,0.816,162631412509,43774,Generation X
+Kuwait,2014,male,55-74 years,3,156953,1.91,Kuwait2014,0.816,162631412509,43774,Boomers
+Kuwait,2014,female,35-54 years,8,454428,1.76,Kuwait2014,0.816,162631412509,43774,Generation X
+Kuwait,2014,female,55-74 years,1,94314,1.06,Kuwait2014,0.816,162631412509,43774,Boomers
+Kuwait,2014,female,25-34 years,4,390934,1.02,Kuwait2014,0.816,162631412509,43774,Millenials
+Kuwait,2014,female,5-14 years,0,264790,0,Kuwait2014,0.816,162631412509,43774,Generation Z
+Kuwait,2014,female,75+ years,0,11335,0,Kuwait2014,0.816,162631412509,43774,Silent
+Kuwait,2014,male,5-14 years,0,276927,0,Kuwait2014,0.816,162631412509,43774,Generation Z
+Kuwait,2014,male,75+ years,0,10485,0,Kuwait2014,0.816,162631412509,43774,Silent
+Kyrgyzstan,2014,male,35-54 years,145,627231,23.12,Kyrgyzstan2014,0.655,7468096567,1465,Generation X
+Kyrgyzstan,2014,male,25-34 years,93,495103,18.78,Kyrgyzstan2014,0.655,7468096567,1465,Millenials
+Kyrgyzstan,2014,male,55-74 years,37,226999,16.3,Kyrgyzstan2014,0.655,7468096567,1465,Boomers
+Kyrgyzstan,2014,male,75+ years,6,40660,14.76,Kyrgyzstan2014,0.655,7468096567,1465,Silent
+Kyrgyzstan,2014,male,15-24 years,61,567126,10.76,Kyrgyzstan2014,0.655,7468096567,1465,Millenials
+Kyrgyzstan,2014,female,75+ years,4,70778,5.65,Kyrgyzstan2014,0.655,7468096567,1465,Silent
+Kyrgyzstan,2014,female,15-24 years,29,548946,5.28,Kyrgyzstan2014,0.655,7468096567,1465,Millenials
+Kyrgyzstan,2014,female,25-34 years,22,491445,4.48,Kyrgyzstan2014,0.655,7468096567,1465,Millenials
+Kyrgyzstan,2014,female,35-54 years,29,662629,4.38,Kyrgyzstan2014,0.655,7468096567,1465,Generation X
+Kyrgyzstan,2014,female,55-74 years,11,285203,3.86,Kyrgyzstan2014,0.655,7468096567,1465,Boomers
+Kyrgyzstan,2014,male,5-14 years,16,550704,2.91,Kyrgyzstan2014,0.655,7468096567,1465,Generation Z
+Kyrgyzstan,2014,female,5-14 years,8,529606,1.51,Kyrgyzstan2014,0.655,7468096567,1465,Generation Z
+Latvia,2014,male,75+ years,29,49779,58.26,Latvia2014,0.819,31335013752,16544,Silent
+Latvia,2014,male,55-74 years,93,189439,49.09,Latvia2014,0.819,31335013752,16544,Boomers
+Latvia,2014,male,35-54 years,113,266548,42.39,Latvia2014,0.819,31335013752,16544,Generation X
+Latvia,2014,male,25-34 years,45,143777,31.3,Latvia2014,0.819,31335013752,16544,Millenials
+Latvia,2014,male,15-24 years,31,112758,27.49,Latvia2014,0.819,31335013752,16544,Millenials
+Latvia,2014,female,75+ years,19,131335,14.47,Latvia2014,0.819,31335013752,16544,Silent
+Latvia,2014,female,25-34 years,10,137117,7.29,Latvia2014,0.819,31335013752,16544,Millenials
+Latvia,2014,female,55-74 years,20,275103,7.27,Latvia2014,0.819,31335013752,16544,Boomers
+Latvia,2014,female,15-24 years,6,106420,5.64,Latvia2014,0.819,31335013752,16544,Millenials
+Latvia,2014,female,35-54 years,16,285454,5.61,Latvia2014,0.819,31335013752,16544,Generation X
+Latvia,2014,female,5-14 years,0,95858,0,Latvia2014,0.819,31335013752,16544,Generation Z
+Latvia,2014,male,5-14 years,0,100453,0,Latvia2014,0.819,31335013752,16544,Generation Z
+Lithuania,2014,male,75+ years,72,78763,91.41,Lithuania2014,0.839,48516371721,17442,Silent
+Lithuania,2014,male,35-54 years,309,396758,77.88,Lithuania2014,0.839,48516371721,17442,Generation X
+Lithuania,2014,male,55-74 years,204,269618,75.66,Lithuania2014,0.839,48516371721,17442,Boomers
+Lithuania,2014,male,25-34 years,94,189300,49.66,Lithuania2014,0.839,48516371721,17442,Millenials
+Lithuania,2014,male,15-24 years,88,197504,44.56,Lithuania2014,0.839,48516371721,17442,Millenials
+Lithuania,2014,female,75+ years,45,189437,23.75,Lithuania2014,0.839,48516371721,17442,Silent
+Lithuania,2014,female,55-74 years,47,383128,12.27,Lithuania2014,0.839,48516371721,17442,Boomers
+Lithuania,2014,female,35-54 years,43,431495,9.97,Lithuania2014,0.839,48516371721,17442,Generation X
+Lithuania,2014,female,15-24 years,12,186406,6.44,Lithuania2014,0.839,48516371721,17442,Millenials
+Lithuania,2014,female,25-34 years,11,182183,6.04,Lithuania2014,0.839,48516371721,17442,Millenials
+Lithuania,2014,female,5-14 years,3,135051,2.22,Lithuania2014,0.839,48516371721,17442,Generation Z
+Lithuania,2014,male,5-14 years,2,141934,1.41,Lithuania2014,0.839,48516371721,17442,Generation Z
+Luxembourg,2014,male,55-74 years,18,52295,34.42,Luxembourg2014,0.892,66327344189,126352,Boomers
+Luxembourg,2014,male,75+ years,4,14546,27.5,Luxembourg2014,0.892,66327344189,126352,Silent
+Luxembourg,2014,male,35-54 years,20,88218,22.67,Luxembourg2014,0.892,66327344189,126352,Generation X
+Luxembourg,2014,male,25-34 years,7,41442,16.89,Luxembourg2014,0.892,66327344189,126352,Millenials
+Luxembourg,2014,female,75+ years,3,22669,13.23,Luxembourg2014,0.892,66327344189,126352,Silent
+Luxembourg,2014,female,55-74 years,5,52260,9.57,Luxembourg2014,0.892,66327344189,126352,Boomers
+Luxembourg,2014,female,15-24 years,2,32510,6.15,Luxembourg2014,0.892,66327344189,126352,Millenials
+Luxembourg,2014,male,15-24 years,2,34219,5.84,Luxembourg2014,0.892,66327344189,126352,Millenials
+Luxembourg,2014,female,25-34 years,2,40862,4.89,Luxembourg2014,0.892,66327344189,126352,Millenials
+Luxembourg,2014,female,35-54 years,3,84147,3.57,Luxembourg2014,0.892,66327344189,126352,Generation X
+Luxembourg,2014,male,5-14 years,1,31718,3.15,Luxembourg2014,0.892,66327344189,126352,Generation Z
+Luxembourg,2014,female,5-14 years,0,30054,0,Luxembourg2014,0.892,66327344189,126352,Generation Z
+Malta,2014,male,75+ years,5,12335,40.54,Malta2014,0.839,11234045376,27634,Silent
+Malta,2014,male,35-54 years,13,57094,22.77,Malta2014,0.839,11234045376,27634,Generation X
+Malta,2014,male,55-74 years,5,51764,9.66,Malta2014,0.839,11234045376,27634,Boomers
+Malta,2014,male,15-24 years,2,28298,7.07,Malta2014,0.839,11234045376,27634,Millenials
+Malta,2014,male,25-34 years,2,32560,6.14,Malta2014,0.839,11234045376,27634,Millenials
+Malta,2014,female,5-14 years,1,19668,5.08,Malta2014,0.839,11234045376,27634,Generation Z
+Malta,2014,female,15-24 years,1,26151,3.82,Malta2014,0.839,11234045376,27634,Millenials
+Malta,2014,female,25-34 years,1,30050,3.33,Malta2014,0.839,11234045376,27634,Millenials
+Malta,2014,female,55-74 years,1,54027,1.85,Malta2014,0.839,11234045376,27634,Boomers
+Malta,2014,female,35-54 years,1,54883,1.82,Malta2014,0.839,11234045376,27634,Generation X
+Malta,2014,female,75+ years,0,18918,0,Malta2014,0.839,11234045376,27634,Silent
+Malta,2014,male,5-14 years,0,20777,0,Malta2014,0.839,11234045376,27634,Generation Z
+Mauritius,2014,male,25-34 years,24,90004,26.67,Mauritius2014,0.777,12803445934,11120,Millenials
+Mauritius,2014,male,15-24 years,24,96346,24.91,Mauritius2014,0.777,12803445934,11120,Millenials
+Mauritius,2014,male,35-54 years,41,179164,22.88,Mauritius2014,0.777,12803445934,11120,Generation X
+Mauritius,2014,female,75+ years,2,25080,7.97,Mauritius2014,0.777,12803445934,11120,Silent
+Mauritius,2014,female,25-34 years,7,88430,7.92,Mauritius2014,0.777,12803445934,11120,Millenials
+Mauritius,2014,male,75+ years,1,14983,6.67,Mauritius2014,0.777,12803445934,11120,Silent
+Mauritius,2014,male,55-74 years,6,99760,6.01,Mauritius2014,0.777,12803445934,11120,Boomers
+Mauritius,2014,female,35-54 years,7,176494,3.97,Mauritius2014,0.777,12803445934,11120,Generation X
+Mauritius,2014,female,5-14 years,3,85980,3.49,Mauritius2014,0.777,12803445934,11120,Generation Z
+Mauritius,2014,female,15-24 years,3,94217,3.18,Mauritius2014,0.777,12803445934,11120,Millenials
+Mauritius,2014,female,55-74 years,2,112152,1.78,Mauritius2014,0.777,12803445934,11120,Boomers
+Mauritius,2014,male,5-14 years,0,88814,0,Mauritius2014,0.777,12803445934,11120,Generation Z
+Mexico,2014,male,75+ years,177,1376264,12.86,Mexico2014,0.756,1314385330073,11663,Silent
+Mexico,2014,male,15-24 years,1334,11603241,11.5,Mexico2014,0.756,1314385330073,11663,Millenials
+Mexico,2014,male,25-34 years,1140,10118932,11.27,Mexico2014,0.756,1314385330073,11663,Millenials
+Mexico,2014,male,35-54 years,1558,14784480,10.54,Mexico2014,0.756,1314385330073,11663,Generation X
+Mexico,2014,male,55-74 years,612,6228708,9.83,Mexico2014,0.756,1314385330073,11663,Boomers
+Mexico,2014,female,15-24 years,416,11280468,3.69,Mexico2014,0.756,1314385330073,11663,Millenials
+Mexico,2014,female,25-34 years,271,9978692,2.72,Mexico2014,0.756,1314385330073,11663,Millenials
+Mexico,2014,female,35-54 years,333,15556091,2.14,Mexico2014,0.756,1314385330073,11663,Generation X
+Mexico,2014,female,55-74 years,91,6743397,1.35,Mexico2014,0.756,1314385330073,11663,Boomers
+Mexico,2014,male,5-14 years,129,11844045,1.09,Mexico2014,0.756,1314385330073,11663,Generation Z
+Mexico,2014,female,5-14 years,109,11316008,0.96,Mexico2014,0.756,1314385330073,11663,Generation Z
+Mexico,2014,female,75+ years,8,1862263,0.43,Mexico2014,0.756,1314385330073,11663,Silent
+Netherlands,2014,male,35-54 years,563,2410644,23.35,Netherlands2014,0.922,879635084125,55325,Generation X
+Netherlands,2014,male,55-74 years,391,1890352,20.68,Netherlands2014,0.922,879635084125,55325,Boomers
+Netherlands,2014,male,75+ years,97,485554,19.98,Netherlands2014,0.922,879635084125,55325,Silent
+Netherlands,2014,male,25-34 years,117,1024168,11.42,Netherlands2014,0.922,879635084125,55325,Millenials
+Netherlands,2014,female,55-74 years,197,1922945,10.24,Netherlands2014,0.922,879635084125,55325,Boomers
+Netherlands,2014,female,35-54 years,228,2394702,9.52,Netherlands2014,0.922,879635084125,55325,Generation X
+Netherlands,2014,female,75+ years,61,744083,8.2,Netherlands2014,0.922,879635084125,55325,Silent
+Netherlands,2014,male,15-24 years,81,1044562,7.75,Netherlands2014,0.922,879635084125,55325,Millenials
+Netherlands,2014,female,25-34 years,54,1014090,5.32,Netherlands2014,0.922,879635084125,55325,Millenials
+Netherlands,2014,female,15-24 years,48,1009345,4.76,Netherlands2014,0.922,879635084125,55325,Millenials
+Netherlands,2014,female,5-14 years,1,956989,0.1,Netherlands2014,0.922,879635084125,55325,Generation Z
+Netherlands,2014,male,5-14 years,1,1002074,0.1,Netherlands2014,0.922,879635084125,55325,Generation Z
+Nicaragua,2014,male,25-34 years,73,525741,13.89,Nicaragua2014,0.631,11880438824,2199,Millenials
+Nicaragua,2014,male,55-74 years,29,240048,12.08,Nicaragua2014,0.631,11880438824,2199,Boomers
+Nicaragua,2014,male,35-54 years,67,587734,11.4,Nicaragua2014,0.631,11880438824,2199,Generation X
+Nicaragua,2014,male,15-24 years,65,614142,10.58,Nicaragua2014,0.631,11880438824,2199,Millenials
+Nicaragua,2014,male,75+ years,4,54010,7.41,Nicaragua2014,0.631,11880438824,2199,Silent
+Nicaragua,2014,female,15-24 years,31,585711,5.29,Nicaragua2014,0.631,11880438824,2199,Millenials
+Nicaragua,2014,female,25-34 years,16,535623,2.99,Nicaragua2014,0.631,11880438824,2199,Millenials
+Nicaragua,2014,female,75+ years,2,73073,2.74,Nicaragua2014,0.631,11880438824,2199,Silent
+Nicaragua,2014,female,55-74 years,6,289927,2.07,Nicaragua2014,0.631,11880438824,2199,Boomers
+Nicaragua,2014,female,5-14 years,12,594338,2.02,Nicaragua2014,0.631,11880438824,2199,Generation Z
+Nicaragua,2014,male,5-14 years,3,629806,0.48,Nicaragua2014,0.631,11880438824,2199,Generation Z
+Nicaragua,2014,female,35-54 years,3,672271,0.45,Nicaragua2014,0.631,11880438824,2199,Generation X
+Norway,2014,male,75+ years,33,143089,23.06,Norway2014,0.944,499338534779,103443,Silent
+Norway,2014,male,55-74 years,110,532578,20.65,Norway2014,0.944,499338534779,103443,Boomers
+Norway,2014,male,35-54 years,147,732244,20.08,Norway2014,0.944,499338534779,103443,Generation X
+Norway,2014,male,25-34 years,71,353943,20.06,Norway2014,0.944,499338534779,103443,Millenials
+Norway,2014,male,15-24 years,38,344245,11.04,Norway2014,0.944,499338534779,103443,Millenials
+Norway,2014,female,55-74 years,51,533630,9.56,Norway2014,0.944,499338534779,103443,Boomers
+Norway,2014,female,35-54 years,51,688993,7.4,Norway2014,0.944,499338534779,103443,Generation X
+Norway,2014,female,25-34 years,20,337592,5.92,Norway2014,0.944,499338534779,103443,Millenials
+Norway,2014,female,15-24 years,17,325164,5.23,Norway2014,0.944,499338534779,103443,Millenials
+Norway,2014,female,75+ years,7,214335,3.27,Norway2014,0.944,499338534779,103443,Silent
+Norway,2014,male,5-14 years,2,317878,0.63,Norway2014,0.944,499338534779,103443,Generation Z
+Norway,2014,female,5-14 years,1,303487,0.33,Norway2014,0.944,499338534779,103443,Generation Z
+Oman,2014,male,55-74 years,1,129011,0.78,Oman2014,0.793,81076723017,22328,Boomers
+Oman,2014,male,25-34 years,4,910905,0.44,Oman2014,0.793,81076723017,22328,Millenials
+Oman,2014,male,35-54 years,2,700906,0.29,Oman2014,0.793,81076723017,22328,Generation X
+Oman,2014,female,15-24 years,0,264178,0,Oman2014,0.793,81076723017,22328,Millenials
+Oman,2014,female,25-34 years,0,333020,0,Oman2014,0.793,81076723017,22328,Millenials
+Oman,2014,female,35-54 years,0,278487,0,Oman2014,0.793,81076723017,22328,Generation X
+Oman,2014,female,5-14 years,0,256150,0,Oman2014,0.793,81076723017,22328,Generation Z
+Oman,2014,female,55-74 years,0,85501,0,Oman2014,0.793,81076723017,22328,Boomers
+Oman,2014,female,75+ years,0,18358,0,Oman2014,0.793,81076723017,22328,Silent
+Oman,2014,male,15-24 years,0,366911,0,Oman2014,0.793,81076723017,22328,Millenials
+Oman,2014,male,5-14 years,0,266738,0,Oman2014,0.793,81076723017,22328,Generation Z
+Oman,2014,male,75+ years,0,20933,0,Oman2014,0.793,81076723017,22328,Silent
+Panama,2014,male,75+ years,8,53886,14.85,Panama2014,0.78,49921464400,14181,Silent
+Panama,2014,male,15-24 years,37,334717,11.05,Panama2014,0.78,49921464400,14181,Millenials
+Panama,2014,male,25-34 years,27,303879,8.89,Panama2014,0.78,49921464400,14181,Millenials
+Panama,2014,male,35-54 years,39,485485,8.03,Panama2014,0.78,49921464400,14181,Generation X
+Panama,2014,male,55-74 years,11,220050,5,Panama2014,0.78,49921464400,14181,Boomers
+Panama,2014,female,35-54 years,8,486698,1.64,Panama2014,0.78,49921464400,14181,Generation X
+Panama,2014,female,75+ years,1,64534,1.55,Panama2014,0.78,49921464400,14181,Silent
+Panama,2014,female,15-24 years,5,325004,1.54,Panama2014,0.78,49921464400,14181,Millenials
+Panama,2014,male,5-14 years,5,364214,1.37,Panama2014,0.78,49921464400,14181,Generation Z
+Panama,2014,female,25-34 years,4,297642,1.34,Panama2014,0.78,49921464400,14181,Millenials
+Panama,2014,female,55-74 years,1,233859,0.43,Panama2014,0.78,49921464400,14181,Boomers
+Panama,2014,female,5-14 years,1,350245,0.29,Panama2014,0.78,49921464400,14181,Generation Z
+Paraguay,2014,male,15-24 years,104,678400,15.33,Paraguay2014,0.679,30881166852,5254,Millenials
+Paraguay,2014,male,25-34 years,62,565080,10.97,Paraguay2014,0.679,30881166852,5254,Millenials
+Paraguay,2014,male,35-54 years,60,663506,9.04,Paraguay2014,0.679,30881166852,5254,Generation X
+Paraguay,2014,male,55-74 years,28,332478,8.42,Paraguay2014,0.679,30881166852,5254,Boomers
+Paraguay,2014,male,75+ years,5,65032,7.69,Paraguay2014,0.679,30881166852,5254,Silent
+Paraguay,2014,female,15-24 years,40,652997,6.13,Paraguay2014,0.679,30881166852,5254,Millenials
+Paraguay,2014,female,35-54 years,27,639933,4.22,Paraguay2014,0.679,30881166852,5254,Generation X
+Paraguay,2014,female,25-34 years,20,544363,3.67,Paraguay2014,0.679,30881166852,5254,Millenials
+Paraguay,2014,female,55-74 years,11,327364,3.36,Paraguay2014,0.679,30881166852,5254,Boomers
+Paraguay,2014,female,5-14 years,12,651376,1.84,Paraguay2014,0.679,30881166852,5254,Generation Z
+Paraguay,2014,male,5-14 years,10,676877,1.48,Paraguay2014,0.679,30881166852,5254,Generation Z
+Paraguay,2014,female,75+ years,0,80188,0,Paraguay2014,0.679,30881166852,5254,Silent
+Poland,2014,male,55-74 years,1606,3963821,40.52,Poland2014,0.843,545179584720,15119,Boomers
+Poland,2014,male,35-54 years,1949,5170670,37.69,Poland2014,0.843,545179584720,15119,Generation X
+Poland,2014,male,75+ years,268,888229,30.17,Poland2014,0.843,545179584720,15119,Silent
+Poland,2014,male,25-34 years,764,3087300,24.75,Poland2014,0.843,545179584720,15119,Millenials
+Poland,2014,male,15-24 years,527,2357793,22.35,Poland2014,0.843,545179584720,15119,Millenials
+Poland,2014,female,55-74 years,314,4699033,6.68,Poland2014,0.843,545179584720,15119,Boomers
+Poland,2014,female,35-54 years,262,5129255,5.11,Poland2014,0.843,545179584720,15119,Generation X
+Poland,2014,female,75+ years,79,1768411,4.47,Poland2014,0.843,545179584720,15119,Silent
+Poland,2014,female,15-24 years,71,2256197,3.15,Poland2014,0.843,545179584720,15119,Millenials
+Poland,2014,female,25-34 years,81,2975936,2.72,Poland2014,0.843,545179584720,15119,Millenials
+Poland,2014,male,5-14 years,9,1929147,0.47,Poland2014,0.843,545179584720,15119,Generation Z
+Poland,2014,female,5-14 years,4,1833838,0.22,Poland2014,0.843,545179584720,15119,Generation Z
+Portugal,2014,male,75+ years,244,389841,62.59,Portugal2014,0.83,229629822122,23091,Silent
+Portugal,2014,male,55-74 years,289,1106750,26.11,Portugal2014,0.83,229629822122,23091,Boomers
+Portugal,2014,male,35-54 years,298,1492604,19.97,Portugal2014,0.83,229629822122,23091,Generation X
+Portugal,2014,female,75+ years,67,633908,10.57,Portugal2014,0.83,229629822122,23091,Silent
+Portugal,2014,male,25-34 years,65,617765,10.52,Portugal2014,0.83,229629822122,23091,Millenials
+Portugal,2014,female,55-74 years,105,1294186,8.11,Portugal2014,0.83,229629822122,23091,Boomers
+Portugal,2014,female,35-54 years,95,1613721,5.89,Portugal2014,0.83,229629822122,23091,Generation X
+Portugal,2014,male,15-24 years,28,562495,4.98,Portugal2014,0.83,229629822122,23091,Millenials
+Portugal,2014,female,25-34 years,21,638072,3.29,Portugal2014,0.83,229629822122,23091,Millenials
+Portugal,2014,female,15-24 years,8,545684,1.47,Portugal2014,0.83,229629822122,23091,Millenials
+Portugal,2014,female,5-14 years,2,511478,0.39,Portugal2014,0.83,229629822122,23091,Generation Z
+Portugal,2014,male,5-14 years,0,537929,0,Portugal2014,0.83,229629822122,23091,Generation Z
+Puerto Rico,2014,male,55-74 years,75,309364,24.24,Puerto Rico2014,NA,102445800000,29515,Boomers
+Puerto Rico,2014,male,75+ years,15,89765,16.71,Puerto Rico2014,NA,102445800000,29515,Silent
+Puerto Rico,2014,male,35-54 years,56,460685,12.16,Puerto Rico2014,NA,102445800000,29515,Generation X
+Puerto Rico,2014,male,25-34 years,20,260905,7.67,Puerto Rico2014,NA,102445800000,29515,Millenials
+Puerto Rico,2014,male,15-24 years,20,284397,7.03,Puerto Rico2014,NA,102445800000,29515,Millenials
+Puerto Rico,2014,female,35-54 years,15,513217,2.92,Puerto Rico2014,NA,102445800000,29515,Generation X
+Puerto Rico,2014,female,55-74 years,10,380342,2.63,Puerto Rico2014,NA,102445800000,29515,Boomers
+Puerto Rico,2014,female,25-34 years,4,265511,1.51,Puerto Rico2014,NA,102445800000,29515,Millenials
+Puerto Rico,2014,male,5-14 years,2,256354,0.78,Puerto Rico2014,NA,102445800000,29515,Generation Z
+Puerto Rico,2014,female,15-24 years,2,275354,0.73,Puerto Rico2014,NA,102445800000,29515,Millenials
+Puerto Rico,2014,female,75+ years,1,140033,0.71,Puerto Rico2014,NA,102445800000,29515,Silent
+Puerto Rico,2014,female,5-14 years,0,235029,0,Puerto Rico2014,NA,102445800000,29515,Generation Z
+Qatar,2014,female,55-74 years,1,22469,4.45,Qatar2014,0.85,206224725275,91587,Boomers
+Qatar,2014,male,15-24 years,12,286756,4.18,Qatar2014,0.85,206224725275,91587,Millenials
+Qatar,2014,male,35-54 years,23,629627,3.65,Qatar2014,0.85,206224725275,91587,Generation X
+Qatar,2014,male,55-74 years,2,80029,2.5,Qatar2014,0.85,206224725275,91587,Boomers
+Qatar,2014,male,25-34 years,15,626535,2.39,Qatar2014,0.85,206224725275,91587,Millenials
+Qatar,2014,female,15-24 years,1,85593,1.17,Qatar2014,0.85,206224725275,91587,Millenials
+Qatar,2014,female,25-34 years,1,153842,0.65,Qatar2014,0.85,206224725275,91587,Millenials
+Qatar,2014,female,35-54 years,0,157182,0,Qatar2014,0.85,206224725275,91587,Generation X
+Qatar,2014,female,5-14 years,0,97388,0,Qatar2014,0.85,206224725275,91587,Generation Z
+Qatar,2014,female,75+ years,0,2802,0,Qatar2014,0.85,206224725275,91587,Silent
+Qatar,2014,male,5-14 years,0,104323,0,Qatar2014,0.85,206224725275,91587,Generation Z
+Qatar,2014,male,75+ years,0,5136,0,Qatar2014,0.85,206224725275,91587,Silent
+Republic of Korea,2014,male,75+ years,1090,875829,124.45,Republic of Korea2014,NA,1411333926201,29120,Silent
+Republic of Korea,2014,male,55-74 years,2952,4819912,61.25,Republic of Korea2014,NA,1411333926201,29120,Boomers
+Republic of Korea,2014,male,35-54 years,4085,8631486,47.33,Republic of Korea2014,NA,1411333926201,29120,Generation X
+Republic of Korea,2014,female,75+ years,721,1627234,44.31,Republic of Korea2014,NA,1411333926201,29120,Silent
+Republic of Korea,2014,male,25-34 years,1133,3662939,30.93,Republic of Korea2014,NA,1411333926201,29120,Millenials
+Republic of Korea,2014,female,25-34 years,643,3460437,18.58,Republic of Korea2014,NA,1411333926201,29120,Millenials
+Republic of Korea,2014,female,55-74 years,961,5173521,18.58,Republic of Korea2014,NA,1411333926201,29120,Boomers
+Republic of Korea,2014,female,35-54 years,1506,8376722,17.98,Republic of Korea2014,NA,1411333926201,29120,Generation X
+Republic of Korea,2014,male,15-24 years,453,3588494,12.62,Republic of Korea2014,NA,1411333926201,29120,Millenials
+Republic of Korea,2014,female,15-24 years,257,3209671,8.01,Republic of Korea2014,NA,1411333926201,29120,Millenials
+Republic of Korea,2014,male,5-14 years,22,2615352,0.84,Republic of Korea2014,NA,1411333926201,29120,Generation Z
+Republic of Korea,2014,female,5-14 years,11,2424320,0.45,Republic of Korea2014,NA,1411333926201,29120,Generation Z
+Romania,2014,male,55-74 years,644,2061013,31.25,Romania2014,0.793,199493490983,10526,Boomers
+Romania,2014,male,75+ years,172,572374,30.05,Romania2014,0.793,199493490983,10526,Silent
+Romania,2014,male,35-54 years,705,2917749,24.16,Romania2014,0.793,199493490983,10526,Generation X
+Romania,2014,male,25-34 years,230,1430960,16.07,Romania2014,0.793,199493490983,10526,Millenials
+Romania,2014,male,15-24 years,125,1158355,10.79,Romania2014,0.793,199493490983,10526,Millenials
+Romania,2014,female,75+ years,58,976072,5.94,Romania2014,0.793,199493490983,10526,Silent
+Romania,2014,female,55-74 years,138,2470673,5.59,Romania2014,0.793,199493490983,10526,Boomers
+Romania,2014,female,35-54 years,91,2812215,3.24,Romania2014,0.793,199493490983,10526,Generation X
+Romania,2014,female,25-34 years,18,1335635,1.35,Romania2014,0.793,199493490983,10526,Millenials
+Romania,2014,female,15-24 years,14,1087344,1.29,Romania2014,0.793,199493490983,10526,Millenials
+Romania,2014,male,5-14 years,11,1094389,1.01,Romania2014,0.793,199493490983,10526,Generation Z
+Romania,2014,female,5-14 years,3,1035456,0.29,Romania2014,0.793,199493490983,10526,Generation Z
+Russian Federation,2014,male,75+ years,1597,2349484,67.97,Russian Federation2014,NA,2063662665172,15319,Silent
+Russian Federation,2014,male,25-34 years,5276,12057910,43.76,Russian Federation2014,NA,2063662665172,15319,Millenials
+Russian Federation,2014,male,35-54 years,8105,19484117,41.6,Russian Federation2014,NA,2063662665172,15319,Generation X
+Russian Federation,2014,male,55-74 years,4501,11808589,38.12,Russian Federation2014,NA,2063662665172,15319,Boomers
+Russian Federation,2014,male,15-24 years,2311,8908926,25.94,Russian Federation2014,NA,2063662665172,15319,Millenials
+Russian Federation,2014,female,75+ years,1019,6355318,16.03,Russian Federation2014,NA,2063662665172,15319,Silent
+Russian Federation,2014,female,55-74 years,1105,17517861,6.31,Russian Federation2014,NA,2063662665172,15319,Boomers
+Russian Federation,2014,female,35-54 years,1297,21385188,6.06,Russian Federation2014,NA,2063662665172,15319,Generation X
+Russian Federation,2014,female,25-34 years,723,11984461,6.03,Russian Federation2014,NA,2063662665172,15319,Millenials
+Russian Federation,2014,female,15-24 years,467,8554683,5.46,Russian Federation2014,NA,2063662665172,15319,Millenials
+Russian Federation,2014,male,5-14 years,96,7327888,1.31,Russian Federation2014,NA,2063662665172,15319,Generation Z
+Russian Federation,2014,female,5-14 years,44,6979537,0.63,Russian Federation2014,NA,2063662665172,15319,Generation Z
+Saint Lucia,2014,male,55-74 years,3,11439,26.23,Saint Lucia2014,0.729,1551921037,9372,Boomers
+Saint Lucia,2014,male,25-34 years,3,13477,22.26,Saint Lucia2014,0.729,1551921037,9372,Millenials
+Saint Lucia,2014,male,35-54 years,4,24066,16.62,Saint Lucia2014,0.729,1551921037,9372,Generation X
+Saint Lucia,2014,female,25-34 years,2,14165,14.12,Saint Lucia2014,0.729,1551921037,9372,Millenials
+Saint Lucia,2014,female,15-24 years,1,16194,6.18,Saint Lucia2014,0.729,1551921037,9372,Millenials
+Saint Lucia,2014,male,15-24 years,1,16267,6.15,Saint Lucia2014,0.729,1551921037,9372,Millenials
+Saint Lucia,2014,female,35-54 years,0,25264,0,Saint Lucia2014,0.729,1551921037,9372,Generation X
+Saint Lucia,2014,female,5-14 years,0,12464,0,Saint Lucia2014,0.729,1551921037,9372,Generation Z
+Saint Lucia,2014,female,55-74 years,0,12366,0,Saint Lucia2014,0.729,1551921037,9372,Boomers
+Saint Lucia,2014,female,75+ years,0,4163,0,Saint Lucia2014,0.729,1551921037,9372,Silent
+Saint Lucia,2014,male,5-14 years,0,12649,0,Saint Lucia2014,0.729,1551921037,9372,Generation Z
+Saint Lucia,2014,male,75+ years,0,3082,0,Saint Lucia2014,0.729,1551921037,9372,Silent
+Saint Vincent and Grenadines,2014,male,75+ years,1,1440,69.44,Saint Vincent and Grenadines2014,0.72,725185185,7203,Silent
+Saint Vincent and Grenadines,2014,male,25-34 years,1,8817,11.34,Saint Vincent and Grenadines2014,0.72,725185185,7203,Millenials
+Saint Vincent and Grenadines,2014,female,15-24 years,0,9636,0,Saint Vincent and Grenadines2014,0.72,725185185,7203,Millenials
+Saint Vincent and Grenadines,2014,female,25-34 years,0,8665,0,Saint Vincent and Grenadines2014,0.72,725185185,7203,Millenials
+Saint Vincent and Grenadines,2014,female,35-54 years,0,13751,0,Saint Vincent and Grenadines2014,0.72,725185185,7203,Generation X
+Saint Vincent and Grenadines,2014,female,5-14 years,0,9144,0,Saint Vincent and Grenadines2014,0.72,725185185,7203,Generation Z
+Saint Vincent and Grenadines,2014,female,55-74 years,0,6689,0,Saint Vincent and Grenadines2014,0.72,725185185,7203,Boomers
+Saint Vincent and Grenadines,2014,female,75+ years,0,1991,0,Saint Vincent and Grenadines2014,0.72,725185185,7203,Silent
+Saint Vincent and Grenadines,2014,male,15-24 years,0,9888,0,Saint Vincent and Grenadines2014,0.72,725185185,7203,Millenials
+Saint Vincent and Grenadines,2014,male,35-54 years,0,14629,0,Saint Vincent and Grenadines2014,0.72,725185185,7203,Generation X
+Saint Vincent and Grenadines,2014,male,5-14 years,0,9346,0,Saint Vincent and Grenadines2014,0.72,725185185,7203,Generation Z
+Saint Vincent and Grenadines,2014,male,55-74 years,0,6680,0,Saint Vincent and Grenadines2014,0.72,725185185,7203,Boomers
+Serbia,2014,male,75+ years,190,226079,84.04,Serbia2014,0.771,44210806366,6500,Silent
+Serbia,2014,male,55-74 years,343,851225,40.29,Serbia2014,0.771,44210806366,6500,Boomers
+Serbia,2014,female,75+ years,86,349278,24.62,Serbia2014,0.771,44210806366,6500,Silent
+Serbia,2014,male,35-54 years,219,971340,22.55,Serbia2014,0.771,44210806366,6500,Generation X
+Serbia,2014,male,25-34 years,73,487583,14.97,Serbia2014,0.771,44210806366,6500,Millenials
+Serbia,2014,female,55-74 years,103,974430,10.57,Serbia2014,0.771,44210806366,6500,Boomers
+Serbia,2014,male,15-24 years,32,409374,7.82,Serbia2014,0.771,44210806366,6500,Millenials
+Serbia,2014,female,35-54 years,63,982170,6.41,Serbia2014,0.771,44210806366,6500,Generation X
+Serbia,2014,female,25-34 years,21,468482,4.48,Serbia2014,0.771,44210806366,6500,Millenials
+Serbia,2014,female,15-24 years,4,387401,1.03,Serbia2014,0.771,44210806366,6500,Millenials
+Serbia,2014,female,5-14 years,0,337165,0,Serbia2014,0.771,44210806366,6500,Generation Z
+Serbia,2014,male,5-14 years,0,357283,0,Serbia2014,0.771,44210806366,6500,Generation Z
+Seychelles,2014,male,15-24 years,1,6391,15.65,Seychelles2014,0.772,1342997306,16018,Millenials
+Seychelles,2014,female,25-34 years,1,7345,13.61,Seychelles2014,0.772,1342997306,16018,Millenials
+Seychelles,2014,male,35-54 years,1,14001,7.14,Seychelles2014,0.772,1342997306,16018,Generation X
+Seychelles,2014,female,35-54 years,1,14431,6.93,Seychelles2014,0.772,1342997306,16018,Generation X
+Seychelles,2014,female,15-24 years,0,5813,0,Seychelles2014,0.772,1342997306,16018,Millenials
+Seychelles,2014,female,5-14 years,0,6229,0,Seychelles2014,0.772,1342997306,16018,Generation Z
+Seychelles,2014,female,55-74 years,0,6507,0,Seychelles2014,0.772,1342997306,16018,Boomers
+Seychelles,2014,female,75+ years,0,2096,0,Seychelles2014,0.772,1342997306,16018,Silent
+Seychelles,2014,male,25-34 years,0,7704,0,Seychelles2014,0.772,1342997306,16018,Millenials
+Seychelles,2014,male,5-14 years,0,6123,0,Seychelles2014,0.772,1342997306,16018,Generation Z
+Seychelles,2014,male,55-74 years,0,6245,0,Seychelles2014,0.772,1342997306,16018,Boomers
+Seychelles,2014,male,75+ years,0,960,0,Seychelles2014,0.772,1342997306,16018,Silent
+Singapore,2014,male,75+ years,29,66198,43.81,Singapore2014,0.912,311539499645,84442,Silent
+Singapore,2014,male,55-74 years,97,387256,25.05,Singapore2014,0.912,311539499645,84442,Boomers
+Singapore,2014,male,35-54 years,73,611207,11.94,Singapore2014,0.912,311539499645,84442,Generation X
+Singapore,2014,male,25-34 years,30,268258,11.18,Singapore2014,0.912,311539499645,84442,Millenials
+Singapore,2014,female,75+ years,10,97390,10.27,Singapore2014,0.912,311539499645,84442,Silent
+Singapore,2014,female,55-74 years,34,400651,8.49,Singapore2014,0.912,311539499645,84442,Boomers
+Singapore,2014,male,15-24 years,20,259416,7.71,Singapore2014,0.912,311539499645,84442,Millenials
+Singapore,2014,female,35-54 years,46,630881,7.29,Singapore2014,0.912,311539499645,84442,Generation X
+Singapore,2014,female,25-34 years,9,289688,3.11,Singapore2014,0.912,311539499645,84442,Millenials
+Singapore,2014,female,15-24 years,5,251839,1.99,Singapore2014,0.912,311539499645,84442,Millenials
+Singapore,2014,female,5-14 years,1,209039,0.48,Singapore2014,0.912,311539499645,84442,Generation Z
+Singapore,2014,male,5-14 years,1,217547,0.46,Singapore2014,0.912,311539499645,84442,Generation Z
+Slovakia,2014,male,75+ years,41,99184,41.34,Slovakia2014,0.844,100948236941,19679,Silent
+Slovakia,2014,male,55-74 years,163,535001,30.47,Slovakia2014,0.844,100948236941,19679,Boomers
+Slovakia,2014,male,35-54 years,177,797994,22.18,Slovakia2014,0.844,100948236941,19679,Generation X
+Slovakia,2014,male,25-34 years,60,439688,13.65,Slovakia2014,0.844,100948236941,19679,Millenials
+Slovakia,2014,male,15-24 years,30,342989,8.75,Slovakia2014,0.844,100948236941,19679,Millenials
+Slovakia,2014,female,55-74 years,34,642640,5.29,Slovakia2014,0.844,100948236941,19679,Boomers
+Slovakia,2014,female,75+ years,7,203433,3.44,Slovakia2014,0.844,100948236941,19679,Silent
+Slovakia,2014,female,25-34 years,13,419408,3.1,Slovakia2014,0.844,100948236941,19679,Millenials
+Slovakia,2014,female,35-54 years,24,780755,3.07,Slovakia2014,0.844,100948236941,19679,Generation X
+Slovakia,2014,female,15-24 years,5,327505,1.53,Slovakia2014,0.844,100948236941,19679,Millenials
+Slovakia,2014,female,5-14 years,0,263111,0,Slovakia2014,0.844,100948236941,19679,Generation Z
+Slovakia,2014,male,5-14 years,0,277978,0,Slovakia2014,0.844,100948236941,19679,Generation Z
+Slovenia,2014,male,75+ years,51,59850,85.21,Slovenia2014,0.88,49904928335,25569,Silent
+Slovenia,2014,male,55-74 years,110,236325,46.55,Slovenia2014,0.88,49904928335,25569,Boomers
+Slovenia,2014,male,35-54 years,114,314707,36.22,Slovenia2014,0.88,49904928335,25569,Generation X
+Slovenia,2014,male,25-34 years,33,149299,22.1,Slovenia2014,0.88,49904928335,25569,Millenials
+Slovenia,2014,male,15-24 years,16,105581,15.15,Slovenia2014,0.88,49904928335,25569,Millenials
+Slovenia,2014,female,75+ years,15,112058,13.39,Slovenia2014,0.88,49904928335,25569,Silent
+Slovenia,2014,female,55-74 years,21,249169,8.43,Slovenia2014,0.88,49904928335,25569,Boomers
+Slovenia,2014,female,35-54 years,21,295872,7.1,Slovenia2014,0.88,49904928335,25569,Generation X
+Slovenia,2014,female,15-24 years,3,99794,3.01,Slovenia2014,0.88,49904928335,25569,Millenials
+Slovenia,2014,female,25-34 years,3,136448,2.2,Slovenia2014,0.88,49904928335,25569,Millenials
+Slovenia,2014,male,5-14 years,1,99080,1.01,Slovenia2014,0.88,49904928335,25569,Generation Z
+Slovenia,2014,female,5-14 years,0,93603,0,Slovenia2014,0.88,49904928335,25569,Generation Z
+South Africa,2014,male,25-34 years,154,4927939,3.13,South Africa2014,0.666,350904575292,7174,Millenials
+South Africa,2014,male,75+ years,8,283529,2.82,South Africa2014,0.666,350904575292,7174,Silent
+South Africa,2014,male,15-24 years,126,5186816,2.43,South Africa2014,0.666,350904575292,7174,Millenials
+South Africa,2014,male,35-54 years,127,5910695,2.15,South Africa2014,0.666,350904575292,7174,Generation X
+South Africa,2014,male,55-74 years,40,2347004,1.7,South Africa2014,0.666,350904575292,7174,Boomers
+South Africa,2014,female,15-24 years,50,5100812,0.98,South Africa2014,0.666,350904575292,7174,Millenials
+South Africa,2014,female,25-34 years,32,4747193,0.67,South Africa2014,0.666,350904575292,7174,Millenials
+South Africa,2014,female,35-54 years,23,6270420,0.37,South Africa2014,0.666,350904575292,7174,Generation X
+South Africa,2014,female,55-74 years,11,3044479,0.36,South Africa2014,0.666,350904575292,7174,Boomers
+South Africa,2014,female,75+ years,2,597700,0.33,South Africa2014,0.666,350904575292,7174,Silent
+South Africa,2014,male,5-14 years,4,5285360,0.08,South Africa2014,0.666,350904575292,7174,Generation Z
+South Africa,2014,female,5-14 years,3,5210182,0.06,South Africa2014,0.666,350904575292,7174,Generation Z
+Spain,2014,male,75+ years,587,1677547,34.99,Spain2014,0.876,1376910811041,31171,Silent
+Spain,2014,male,55-74 years,759,4639848,16.36,Spain2014,0.876,1376910811041,31171,Boomers
+Spain,2014,male,35-54 years,1184,7552174,15.68,Spain2014,0.876,1376910811041,31171,Generation X
+Spain,2014,male,25-34 years,268,3040808,8.81,Spain2014,0.876,1376910811041,31171,Millenials
+Spain,2014,female,75+ years,157,2611618,6.01,Spain2014,0.876,1376910811041,31171,Silent
+Spain,2014,male,15-24 years,136,2297600,5.92,Spain2014,0.876,1376910811041,31171,Millenials
+Spain,2014,female,55-74 years,294,5008921,5.87,Spain2014,0.876,1376910811041,31171,Boomers
+Spain,2014,female,35-54 years,380,7373279,5.15,Spain2014,0.876,1376910811041,31171,Generation X
+Spain,2014,female,25-34 years,86,3012206,2.86,Spain2014,0.876,1376910811041,31171,Millenials
+Spain,2014,female,15-24 years,50,2191362,2.28,Spain2014,0.876,1376910811041,31171,Millenials
+Spain,2014,female,5-14 years,6,2312052,0.26,Spain2014,0.876,1376910811041,31171,Generation Z
+Spain,2014,male,5-14 years,4,2455356,0.16,Spain2014,0.876,1376910811041,31171,Generation Z
+Suriname,2014,male,75+ years,5,5529,90.43,Suriname2014,0.714,5240606061,10530,Silent
+Suriname,2014,male,25-34 years,26,41917,62.03,Suriname2014,0.714,5240606061,10530,Millenials
+Suriname,2014,male,35-54 years,38,71494,53.15,Suriname2014,0.714,5240606061,10530,Generation X
+Suriname,2014,male,55-74 years,12,29170,41.14,Suriname2014,0.714,5240606061,10530,Boomers
+Suriname,2014,female,25-34 years,10,40945,24.42,Suriname2014,0.714,5240606061,10530,Millenials
+Suriname,2014,male,15-24 years,9,49798,18.07,Suriname2014,0.714,5240606061,10530,Millenials
+Suriname,2014,female,55-74 years,6,33447,17.94,Suriname2014,0.714,5240606061,10530,Boomers
+Suriname,2014,female,15-24 years,8,47355,16.89,Suriname2014,0.714,5240606061,10530,Millenials
+Suriname,2014,female,35-54 years,9,70884,12.7,Suriname2014,0.714,5240606061,10530,Generation X
+Suriname,2014,female,75+ years,1,8006,12.49,Suriname2014,0.714,5240606061,10530,Silent
+Suriname,2014,female,5-14 years,2,47832,4.18,Suriname2014,0.714,5240606061,10530,Generation Z
+Suriname,2014,male,5-14 years,2,51324,3.9,Suriname2014,0.714,5240606061,10530,Generation Z
+Sweden,2014,male,75+ years,119,341315,34.87,Sweden2014,0.907,573817719109,62956,Silent
+Sweden,2014,male,55-74 years,224,1097579,20.41,Sweden2014,0.907,573817719109,62956,Boomers
+Sweden,2014,male,35-54 years,238,1289581,18.46,Sweden2014,0.907,573817719109,62956,Generation X
+Sweden,2014,male,25-34 years,114,638657,17.85,Sweden2014,0.907,573817719109,62956,Millenials
+Sweden,2014,male,15-24 years,88,621210,14.17,Sweden2014,0.907,573817719109,62956,Millenials
+Sweden,2014,female,35-54 years,135,1249962,10.8,Sweden2014,0.907,573817719109,62956,Generation X
+Sweden,2014,female,75+ years,45,485940,9.26,Sweden2014,0.907,573817719109,62956,Silent
+Sweden,2014,female,55-74 years,101,1112312,9.08,Sweden2014,0.907,573817719109,62956,Boomers
+Sweden,2014,female,25-34 years,42,609532,6.89,Sweden2014,0.907,573817719109,62956,Millenials
+Sweden,2014,female,15-24 years,36,585957,6.14,Sweden2014,0.907,573817719109,62956,Millenials
+Sweden,2014,female,5-14 years,4,526361,0.76,Sweden2014,0.907,573817719109,62956,Generation Z
+Sweden,2014,male,5-14 years,2,556118,0.36,Sweden2014,0.907,573817719109,62956,Generation Z
+Switzerland,2014,male,75+ years,144,267638,53.8,Switzerland2014,0.93,709182559935,90809,Silent
+Switzerland,2014,male,55-74 years,249,871329,28.58,Switzerland2014,0.93,709182559935,90809,Boomers
+Switzerland,2014,male,35-54 years,245,1244576,19.69,Switzerland2014,0.93,709182559935,90809,Generation X
+Switzerland,2014,male,25-34 years,68,572530,11.88,Switzerland2014,0.93,709182559935,90809,Millenials
+Switzerland,2014,female,75+ years,47,408120,11.52,Switzerland2014,0.93,709182559935,90809,Silent
+Switzerland,2014,male,15-24 years,48,488444,9.83,Switzerland2014,0.93,709182559935,90809,Millenials
+Switzerland,2014,female,55-74 years,88,904916,9.72,Switzerland2014,0.93,709182559935,90809,Boomers
+Switzerland,2014,female,35-54 years,95,1223053,7.77,Switzerland2014,0.93,709182559935,90809,Generation X
+Switzerland,2014,female,25-34 years,30,565099,5.31,Switzerland2014,0.93,709182559935,90809,Millenials
+Switzerland,2014,female,15-24 years,14,468004,2.99,Switzerland2014,0.93,709182559935,90809,Millenials
+Switzerland,2014,female,5-14 years,2,387232,0.52,Switzerland2014,0.93,709182559935,90809,Generation Z
+Switzerland,2014,male,5-14 years,2,408680,0.49,Switzerland2014,0.93,709182559935,90809,Generation Z
+Thailand,2014,male,25-34 years,682,4969108,13.72,Thailand2014,0.726,407339361696,6662,Millenials
+Thailand,2014,male,75+ years,137,1005485,13.63,Thailand2014,0.726,407339361696,6662,Silent
+Thailand,2014,male,55-74 years,632,4771792,13.24,Thailand2014,0.726,407339361696,6662,Boomers
+Thailand,2014,male,35-54 years,1274,10095367,12.62,Thailand2014,0.726,407339361696,6662,Generation X
+Thailand,2014,male,15-24 years,337,4935213,6.83,Thailand2014,0.726,407339361696,6662,Millenials
+Thailand,2014,female,75+ years,71,1458962,4.87,Thailand2014,0.726,407339361696,6662,Silent
+Thailand,2014,female,55-74 years,240,5539928,4.33,Thailand2014,0.726,407339361696,6662,Boomers
+Thailand,2014,female,35-54 years,388,10644118,3.65,Thailand2014,0.726,407339361696,6662,Generation X
+Thailand,2014,female,25-34 years,116,4883263,2.38,Thailand2014,0.726,407339361696,6662,Millenials
+Thailand,2014,female,15-24 years,49,4717317,1.04,Thailand2014,0.726,407339361696,6662,Millenials
+Thailand,2014,female,5-14 years,14,3940160,0.36,Thailand2014,0.726,407339361696,6662,Generation Z
+Thailand,2014,male,5-14 years,12,4179206,0.29,Thailand2014,0.726,407339361696,6662,Generation Z
+Turkey,2014,male,75+ years,66,952449,6.93,Turkey2014,0.761,934185915467,13170,Silent
+Turkey,2014,male,55-74 years,225,4851259,4.64,Turkey2014,0.761,934185915467,13170,Boomers
+Turkey,2014,male,15-24 years,260,6517033,3.99,Turkey2014,0.761,934185915467,13170,Millenials
+Turkey,2014,male,35-54 years,394,10244541,3.85,Turkey2014,0.761,934185915467,13170,Generation X
+Turkey,2014,male,25-34 years,243,6484352,3.75,Turkey2014,0.761,934185915467,13170,Millenials
+Turkey,2014,female,15-24 years,114,6220032,1.83,Turkey2014,0.761,934185915467,13170,Millenials
+Turkey,2014,female,75+ years,23,1426848,1.61,Turkey2014,0.761,934185915467,13170,Silent
+Turkey,2014,female,55-74 years,79,5233238,1.51,Turkey2014,0.761,934185915467,13170,Boomers
+Turkey,2014,female,35-54 years,109,10070621,1.08,Turkey2014,0.761,934185915467,13170,Generation X
+Turkey,2014,female,25-34 years,65,6325398,1.03,Turkey2014,0.761,934185915467,13170,Millenials
+Turkey,2014,male,5-14 years,21,6469621,0.32,Turkey2014,0.761,934185915467,13170,Generation Z
+Turkey,2014,female,5-14 years,18,6136028,0.29,Turkey2014,0.761,934185915467,13170,Generation Z
+Turkmenistan,2014,male,35-54 years,39,607630,6.42,Turkmenistan2014,0.688,43524210526,9046,Generation X
+Turkmenistan,2014,male,25-34 years,23,470459,4.89,Turkmenistan2014,0.688,43524210526,9046,Millenials
+Turkmenistan,2014,female,15-24 years,23,515853,4.46,Turkmenistan2014,0.688,43524210526,9046,Millenials
+Turkmenistan,2014,male,15-24 years,20,525603,3.81,Turkmenistan2014,0.688,43524210526,9046,Millenials
+Turkmenistan,2014,male,55-74 years,7,214266,3.27,Turkmenistan2014,0.688,43524210526,9046,Boomers
+Turkmenistan,2014,female,25-34 years,14,474487,2.95,Turkmenistan2014,0.688,43524210526,9046,Millenials
+Turkmenistan,2014,female,55-74 years,3,264297,1.14,Turkmenistan2014,0.688,43524210526,9046,Boomers
+Turkmenistan,2014,female,35-54 years,4,645711,0.62,Turkmenistan2014,0.688,43524210526,9046,Generation X
+Turkmenistan,2014,male,5-14 years,3,505170,0.59,Turkmenistan2014,0.688,43524210526,9046,Generation Z
+Turkmenistan,2014,female,5-14 years,0,493148,0,Turkmenistan2014,0.688,43524210526,9046,Generation Z
+Turkmenistan,2014,female,75+ years,0,59137,0,Turkmenistan2014,0.688,43524210526,9046,Silent
+Turkmenistan,2014,male,75+ years,0,35466,0,Turkmenistan2014,0.688,43524210526,9046,Silent
+Ukraine,2014,male,75+ years,608,919141,66.15,Ukraine2014,0.747,133503411376,3299,Silent
+Ukraine,2014,male,55-74 years,1558,3702856,42.08,Ukraine2014,0.747,133503411376,3299,Boomers
+Ukraine,2014,male,35-54 years,2363,5814873,40.64,Ukraine2014,0.747,133503411376,3299,Generation X
+Ukraine,2014,male,25-34 years,1302,3543016,36.75,Ukraine2014,0.747,133503411376,3299,Millenials
+Ukraine,2014,male,15-24 years,560,2541203,22.04,Ukraine2014,0.747,133503411376,3299,Millenials
+Ukraine,2014,female,75+ years,339,2203221,15.39,Ukraine2014,0.747,133503411376,3299,Silent
+Ukraine,2014,female,55-74 years,465,5487093,8.47,Ukraine2014,0.747,133503411376,3299,Boomers
+Ukraine,2014,female,35-54 years,423,6365806,6.64,Ukraine2014,0.747,133503411376,3299,Generation X
+Ukraine,2014,female,25-34 years,197,3444110,5.72,Ukraine2014,0.747,133503411376,3299,Millenials
+Ukraine,2014,female,15-24 years,118,2408666,4.9,Ukraine2014,0.747,133503411376,3299,Millenials
+Ukraine,2014,male,5-14 years,21,2074827,1.01,Ukraine2014,0.747,133503411376,3299,Generation Z
+Ukraine,2014,female,5-14 years,14,1959353,0.71,Ukraine2014,0.747,133503411376,3299,Generation Z
+United Kingdom,2014,male,35-54 years,1692,8665195,19.53,United Kingdom2014,0.907,3022827781881,49906,Generation X
+United Kingdom,2014,male,25-34 years,602,4360457,13.81,United Kingdom2014,0.907,3022827781881,49906,Millenials
+United Kingdom,2014,male,55-74 years,827,6597480,12.54,United Kingdom2014,0.907,3022827781881,49906,Boomers
+United Kingdom,2014,male,75+ years,257,2158742,11.91,United Kingdom2014,0.907,3022827781881,49906,Silent
+United Kingdom,2014,male,15-24 years,332,4171187,7.96,United Kingdom2014,0.907,3022827781881,49906,Millenials
+United Kingdom,2014,female,35-54 years,462,8850139,5.22,United Kingdom2014,0.907,3022827781881,49906,Generation X
+United Kingdom,2014,female,55-74 years,262,6952444,3.77,United Kingdom2014,0.907,3022827781881,49906,Boomers
+United Kingdom,2014,female,25-34 years,155,4388346,3.53,United Kingdom2014,0.907,3022827781881,49906,Millenials
+United Kingdom,2014,female,75+ years,83,3052672,2.72,United Kingdom2014,0.907,3022827781881,49906,Silent
+United Kingdom,2014,female,15-24 years,103,3992566,2.58,United Kingdom2014,0.907,3022827781881,49906,Millenials
+United Kingdom,2014,male,5-14 years,7,3778321,0.19,United Kingdom2014,0.907,3022827781881,49906,Generation Z
+United Kingdom,2014,female,5-14 years,6,3602933,0.17,United Kingdom2014,0.907,3022827781881,49906,Generation Z
+United States,2014,male,75+ years,3106,7994948,38.85,United States2014,0.915,17427609000000,58531,Silent
+United States,2014,male,55-74 years,8961,31339875,28.59,United States2014,0.915,17427609000000,58531,Boomers
+United States,2014,male,35-54 years,11455,41858354,27.37,United States2014,0.915,17427609000000,58531,Generation X
+United States,2014,male,25-34 years,5222,21760455,24,United States2014,0.915,17427609000000,58531,Millenials
+United States,2014,male,15-24 years,4089,22700273,18.01,United States2014,0.915,17427609000000,58531,Millenials
+United States,2014,female,35-54 years,4018,41742299,9.63,United States2014,0.915,17427609000000,58531,Generation X
+United States,2014,female,55-74 years,2676,34193742,7.83,United States2014,0.915,17427609000000,58531,Boomers
+United States,2014,female,25-34 years,1347,21250636,6.34,United States2014,0.915,17427609000000,58531,Millenials
+United States,2014,female,15-24 years,990,21691057,4.56,United States2014,0.915,17427609000000,58531,Millenials
+United States,2014,female,75+ years,477,11616299,4.11,United States2014,0.915,17427609000000,58531,Silent
+United States,2014,male,5-14 years,277,21264881,1.3,United States2014,0.915,17427609000000,58531,Generation Z
+United States,2014,female,5-14 years,151,20336916,0.74,United States2014,0.915,17427609000000,58531,Generation Z
+Uruguay,2014,male,75+ years,55,79118,69.52,Uruguay2014,0.793,57236013086,18012,Silent
+Uruguay,2014,male,35-54 years,150,421245,35.61,Uruguay2014,0.793,57236013086,18012,Generation X
+Uruguay,2014,male,55-74 years,95,272749,34.83,Uruguay2014,0.793,57236013086,18012,Boomers
+Uruguay,2014,male,25-34 years,81,234529,34.54,Uruguay2014,0.793,57236013086,18012,Millenials
+Uruguay,2014,male,15-24 years,78,264979,29.44,Uruguay2014,0.793,57236013086,18012,Millenials
+Uruguay,2014,female,55-74 years,37,322676,11.47,Uruguay2014,0.793,57236013086,18012,Boomers
+Uruguay,2014,female,35-54 years,45,438879,10.25,Uruguay2014,0.793,57236013086,18012,Generation X
+Uruguay,2014,female,25-34 years,20,231636,8.63,Uruguay2014,0.793,57236013086,18012,Millenials
+Uruguay,2014,female,15-24 years,18,255685,7.04,Uruguay2014,0.793,57236013086,18012,Millenials
+Uruguay,2014,female,75+ years,11,158956,6.92,Uruguay2014,0.793,57236013086,18012,Silent
+Uruguay,2014,male,5-14 years,1,253946,0.39,Uruguay2014,0.793,57236013086,18012,Generation Z
+Uruguay,2014,female,5-14 years,0,243247,0,Uruguay2014,0.793,57236013086,18012,Generation Z
+Uzbekistan,2014,male,35-54 years,519,3421300,15.17,Uzbekistan2014,0.675,63067077179,2309,Generation X
+Uzbekistan,2014,male,25-34 years,318,2739150,11.61,Uzbekistan2014,0.675,63067077179,2309,Millenials
+Uzbekistan,2014,female,15-24 years,347,2992817,11.59,Uzbekistan2014,0.675,63067077179,2309,Millenials
+Uzbekistan,2014,male,55-74 years,144,1271111,11.33,Uzbekistan2014,0.675,63067077179,2309,Boomers
+Uzbekistan,2014,male,15-24 years,347,3126905,11.1,Uzbekistan2014,0.675,63067077179,2309,Millenials
+Uzbekistan,2014,male,75+ years,17,224995,7.56,Uzbekistan2014,0.675,63067077179,2309,Silent
+Uzbekistan,2014,female,25-34 years,162,2735238,5.92,Uzbekistan2014,0.675,63067077179,2309,Millenials
+Uzbekistan,2014,female,35-54 years,107,3620833,2.96,Uzbekistan2014,0.675,63067077179,2309,Generation X
+Uzbekistan,2014,female,75+ years,9,348465,2.58,Uzbekistan2014,0.675,63067077179,2309,Silent
+Uzbekistan,2014,male,5-14 years,60,2762158,2.17,Uzbekistan2014,0.675,63067077179,2309,Generation Z
+Uzbekistan,2014,female,5-14 years,44,2631600,1.67,Uzbekistan2014,0.675,63067077179,2309,Generation Z
+Uzbekistan,2014,female,55-74 years,21,1438935,1.46,Uzbekistan2014,0.675,63067077179,2309,Boomers
